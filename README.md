@@ -1,5 +1,6 @@
 # Instacart-data-project
-This project works with data, that was made publicly avaible by "Instacart" in 2017. Python is the main programming tool to extract data insights.
+This project works with data, that was made publicly available by "Instacart" in 2017. Python is the main programming tool to extract data insights.
+
 Instacart is a californian online grocery shopping and convenient home delivery company. The data includes sets about customer orders, ordered products and product categories.
 It was made publicly available for the purpose of a competition to predict which previously purchased product by a customer will likely end up being reordered.
 This analysis doesn't attempt this, however the data still provides some interesting insights, that have been extracted with Python.
