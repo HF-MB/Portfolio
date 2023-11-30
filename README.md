@@ -1,31 +1,39 @@
-# Instacart-data-project
-This project works with data, that was made publicly available by "Instacart" in 2017. Python is the main programming tool to extract data insights.
+# Data Analytics Portfolio
 
-### Objective
+Welcome to my Data Analytics Portfolio! This repository serves as inventory for my journey and work in the field of data analysis. It's a collection of projects where I discovered insights and presented these findings in a way, that is easy to comprehend.
 
-Instacart is a californian online grocery shopping and convenient home delivery company. The data includes sets about customer orders, ordered products and product categories.
-It was made publicly available for the purpose of a competition to predict which previously purchased product by a customer will likely end up being reordered by that customer.
+## Projects Overview
 
-This analysis doesn't attempt this, however the data still provides some interesting insights, that have been extracted with Python.
-For the purpose to show my skills with Python, the data also has been artificially enriched with a product price column and fabricated customer data.
+All my projects can be found in their own directory with a report on the key findings. Below is a brief overview on my previous projects:
 
-### Data
-Data Source: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from Kaggle https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/ on 14.11.2023
+### 2. Hotel Booking Demand
+   - **Dataset**: [Hotel Booking Demand](https://www.sciencedirect.com/science/article/pii/S2352340918315191?via%3Dihub)
+   - **Tools**: Python (Pandas, Seaborn)
+   - **Synopsis**: A comprehensive study of hotel booking dynamics, focusing on factors influencing booking demands and cancellations.
 
-+ orders
-+ products
-+ order_products__prior
-+ order_products__train
-+ departments
-+ aisles
-+ customers
+### 1. Instacart Market Basket Analysis
+   - **Dataset**: [Instacart](https://www.kaggle.com/c/instacart-market-basket-analysis)
+   - **Tools**: Python (Pandas for data analysis, Seaborn for visualization)
+   - **Synopsis**: Analysis of user purchase patterns to uncover insights into customer behavior and product preferences.
 
-### Tools
+## Future Projects
 
-For this project, the following python libraries were used
-+ pandas - for data analysis
-+ seaborn - for visualization
+Stay tuned! I am constantly exploring new datasets and tools. Upcoming projects will include SQL and other data analytics tools, broadening the scope of my analyses and techniques.
 
-### Executing the code
+## Repository Structure
 
-The code is available as jupyter notebooks under /scripts/.
+- `/Instacart_Basket`: Contains all files related to the Instacart Market Basket Analysis.
+- `/Hotel_Booking`: Houses the Hotel Booking Demand project files.
+- Additional directories will be created for each new project.
+
+## Tools & Technologies
+
+- **Python**: For data manipulation and analysis.
+- **Pandas**: Essential for data preprocessing and analysis tasks.
+- **Seaborn**: For creating informative and attractive statistical graphics.
+- **SQL**: Upcoming projects will leverage SQL for database management and complex queries.
+- *More to be added as explored*.
+
+## Connect with Me
+
+I am always open for feedback. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hf-mb/) or drop me a DM.
