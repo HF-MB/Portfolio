@@ -4,7 +4,7 @@
 This project utilizes the publicly released Instacart dataset to analyze shopping patterns and preferences of modern grocery consumers in the U.S. It provides insights into consumer behavior through various analytical perspectives.
 
 ## Dataset Overview
-The dataset comprises over 3 million grocery orders from more than 200,000 users, offering a rich foundation for our analysis.
+The dataset comprises over 3 million grocery orders from more than 200,000 users.
 
 ## Key Findings
 - Weekends, particularly Sundays, are peak times for online grocery orders.
