@@ -24,4 +24,4 @@ This data article describes two datasets with hotel demand data. One of the hote
 ### Results
 In the scripts "Analysis", "Map.ipynb" and "Time series.ipynb" I conducted some basic analysis in juyter notebooks. The script "logistic regression.py" tries to forecast data that have a binary label - in this case the "IsCanceled" column. Can we forecast if a booking is going to be canceled based on the other variables we have? The program uses a classification algorithm, that is founded on a function called logistic function.
 
-I also visualized the data of the "Resort Hotel" in Tableau, creating some interesting insights: [Resort Hotel Analysis](https://public.tableau.com/app/profile/hf.mb/viz/ResortHotelBookingAnalysis/)
+I also visualized the data of the "Resort Hotel" in Tableau, creating some interesting insights: [Resort Hotel Analysis](https://public.tableau.com/app/profile/hf.mb/viz/ResortHotelBookingAnalysis/Dashboard2)
