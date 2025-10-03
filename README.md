@@ -1,10 +1,20 @@
 # Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! This repository serves as inventory for my journey and work in the field of data analysis. It's a collection of projects where I discovered insights and presented these findings in a way, that is easy to comprehend.
+Welcome to my Data Analytics Portfolio! This repository serves as inventory for my journey and work in the field of data analysis. It's a collection of the projects I have done over the years.
 
 ## Projects Overview
 
-All my projects can be found in their own directory with a report on the key findings. Below is a brief overview on my previous projects:
+All my projects can be found in their own directory with a description of the project. Below is a brief overview:
+
+### 4. Dashboard PieChart Query (for BigQuery)
+   - **Dataset**: [snapshotTime] Data set is not publicly available
+   - **Tools**: SQL in the BigQuery dialect
+   - **Synopsis**: a data aggregation through comparing changes over time.
+
+### 3. Data Multiplier
+   - **Dataset**: [*] Tool works with any data in csv format.
+   - **Tools**: Python (Pandas, )
+   - **Synopsis**: A complex tool to manipulate a data set based on the users input.
 
 ### 2. Hotel Booking Demand
    - **Dataset**: [Hotel Booking Demand](https://www.sciencedirect.com/science/article/pii/S2352340918315191?via%3Dihub)
@@ -16,23 +26,18 @@ All my projects can be found in their own directory with a report on the key fin
    - **Tools**: Python (Pandas for data analysis, Seaborn for visualization)
    - **Synopsis**: Analysis of user purchase patterns to uncover insights into customer behavior and product preferences.
 
-## Future Projects
-
-Stay tuned! I am constantly exploring new datasets and tools. Upcoming projects will include SQL and other data analytics tools, broadening the scope of my analyses and techniques.
-
 ## Repository Structure
 
 - `/Instacart_Basket`: Contains all files related to the Instacart Market Basket Analysis.
 - `/Hotel_Booking`: Houses the Hotel Booking Demand project files.
+- `/Multiplier`: tool to multiply your data sets.
+- `/Snapshot_Aggregation`: Query to sum up changes over time.
 - Additional directories will be created for each new project.
 
 ## Tools & Technologies
 
-- **Python**: For data manipulation and analysis.
-- **Pandas**: Essential for data preprocessing and analysis tasks.
-- **Seaborn**: For creating informative and attractive statistical graphics.
-- **SQL**: Upcoming projects will leverage SQL for database management and complex queries.
-- *More to be added as explored*.
+- **Python**
+- **SQL**
 
 ## Connect with Me
 
