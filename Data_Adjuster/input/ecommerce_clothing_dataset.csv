@@ -1,0 +1,1001 @@
+itemID,boughtAt,convertAt,status,itemCategory,itemType,itemSubType,gender,itemCondition,itemFabrics,itemColor,size,brand,acquisitionChannel,purchasePrice,resalePrice,repairEffort
+ITEM00001,2025-06-10 05:46:42,2025-07-27 07:48:13,sold,Footwear,Shoes,Heels,Unisex,4,"29,0,0,0,0,0,71,0",Green,S,Zara,userSellIn,20.92,68.68,minor
+ITEM00002,2025-06-11 05:32:17,2025-07-22 13:14:41,sold,Topwear,Jacket,Winter Coat,Kids,7,"0,0,0,0,0,100,0,0",Blue,S,Levi's,bulkWholesale,20.62,57.65,minor
+ITEM00003,2025-06-25 09:59:41,2025-07-19 02:30:08,sold,Topwear,Shirt,Blouse,Kids,8,"0,0,0,100,0,0,0,0",Beige,L,Adidas,donation,9.76,38.62,none
+ITEM00004,2025-06-24 17:30:16,2025-09-28 05:41:27,recycled,Footwear,Shoes,Boots,Men,0,"79,0,0,21,0,0,0,0",Grey,38,H&M,bulkWholesale,3.05,0.0,minor
+ITEM00005,2025-06-11 19:22:40,2025-08-27 18:40:07,sold,Topwear,Shirt,Blouse,Men,9,"0,0,61,39,0,0,0,0",Red,34,Adidas,userSellIn,13.23,22.41,none
+ITEM00006,2025-06-08 16:12:17,2025-07-19 02:14:20,sold,Topwear,Shirt,T-Shirt,Kids,10,"0,0,0,0,0,0,0,100",Multicolor,S,Patagonia,bulkWholesale,24.63,44.76,none
+ITEM00007,2025-06-23 10:35:21,2025-08-27 19:45:31,recycled,Bottomwear,Pants,Shorts,Men,2,"0,0,79,0,0,0,21,0",Grey,XS,Zara,donation,1.6,0.0,none
+ITEM00008,2025-07-03 12:56:06,2025-09-30 07:27:14,sold,Topwear,Jacket,Winter Coat,Women,4,"0,0,0,0,0,0,37,63",White,38,Gucci,donation,3.58,12.99,heavy
+ITEM00009,2025-07-03 15:56:59,2025-09-20 04:02:17,sold,Accessories,General,Scarf,Unisex,7,"0,0,0,0,0,0,0,100",Grey,36,Uniqlo,bulkWholesale,10.83,37.3,heavy
+ITEM00010,2025-06-29 16:30:25,2025-09-14 01:07:57,sold,Bottomwear,Skirt,Mini Skirt,Unisex,3,"0,100,0,0,0,0,0,0",Blue,34,Gucci,donation,24.52,55.17,moderate
+ITEM00011,2025-06-07 02:22:12,2025-09-18 03:13:44,disposed,Accessories,General,Scarf,Unisex,2,"0,100,0,0,0,0,0,0",Black,36,Uniqlo,donation,12.57,0.0,minor
+ITEM00012,2025-06-15 23:34:36,2025-08-25 04:09:21,disposed,Footwear,Shoes,Sneakers,Women,2,"0,0,0,0,0,54,46,0",Green,34,Uniqlo,userSellIn,7.76,0.0,minor
+ITEM00013,2025-06-21 23:02:48,2025-10-02 12:20:50,disposed,Bottomwear,Skirt,Maxi Skirt,Women,0,"72,0,0,0,0,0,0,28",Beige,XL,Patagonia,bulkWholesale,29.79,0.0,none
+ITEM00014,2025-06-22 12:58:52,2025-08-01 08:22:59,recycled,Footwear,Shoes,Heels,Women,2,"0,0,0,61,39,0,0,0",Black,L,Uniqlo,donation,29.88,0.0,heavy
+ITEM00015,2025-06-10 08:31:56,2025-09-07 20:13:36,sold,One-Piece,Dress,Evening Dress,Unisex,8,"0,0,0,0,0,100,0,0",Beige,36,Nike,bulkWholesale,27.33,41.24,moderate
+ITEM00016,2025-06-09 02:47:15,2025-09-10 06:52:05,disposed,Accessories,General,Handbag,Unisex,1,"0,0,74,0,0,0,0,26",Black,S,Nike,userSellIn,3.49,0.0,moderate
+ITEM00017,2025-06-19 19:54:05,2025-09-26 04:34:48,sold,Accessories,General,Belt,Men,7,"0,80,0,20,0,0,0,0",Green,36,H&M,userSellIn,11.42,25.55,minor
+ITEM00018,2025-07-03 23:36:24,2025-08-04 06:14:12,disposed,Footwear,Shoes,Boots,Women,1,"0,0,0,100,0,0,0,0",Grey,S,Zara,bulkWholesale,15.07,0.0,heavy
+ITEM00019,2025-06-18 16:07:01,2025-09-29 22:36:29,sold,Bottomwear,Skirt,Maxi Skirt,Kids,8,"0,0,0,0,0,100,0,0",Multicolor,34,Uniqlo,donation,7.24,21.81,moderate
+ITEM00020,2025-07-03 01:08:45,2025-09-17 16:12:46,disposed,One-Piece,Dress,Evening Dress,Unisex,1,"34,0,0,0,66,0,0,0",Blue,44,Uniqlo,bulkWholesale,19.22,0.0,heavy
+ITEM00021,2025-06-21 09:18:33,2025-08-09 00:03:58,sold,One-Piece,Dress,Casual Dress,Unisex,7,"0,0,0,0,0,0,0,100",Blue,34,Levi's,donation,4.07,8.97,moderate
+ITEM00022,2025-06-17 06:35:29,2025-09-27 22:43:18,disposed,Bottomwear,Pants,Chinos,Women,2,"0,0,0,100,0,0,0,0",Red,34,Adidas,userSellIn,14.74,0.0,moderate
+ITEM00023,2025-07-02 18:33:31,2025-08-08 21:15:01,disposed,Topwear,Jacket,Hoodie,Men,1,"0,0,0,0,0,100,0,0",Beige,XL,Adidas,donation,10.28,0.0,heavy
+ITEM00024,2025-06-24 18:47:43,2025-08-04 05:21:52,sold,One-Piece,Dress,Casual Dress,Men,6,"0,0,100,0,0,0,0,0",Blue,S,Zara,donation,5.8,15.7,none
+ITEM00025,2025-06-07 00:05:32,2025-09-16 07:17:27,sold,Bottomwear,Skirt,Mini Skirt,Unisex,5,"0,0,53,47,0,0,0,0",Red,M,Patagonia,bulkWholesale,7.65,30.19,none
+ITEM00026,2025-06-16 20:40:28,2025-09-02 19:34:32,sold,Footwear,Shoes,Heels,Men,10,"0,0,0,23,0,0,0,77",Multicolor,M,Zara,donation,26.16,94.4,moderate
+ITEM00027,2025-06-19 20:22:56,2025-09-24 08:04:38,sold,Bottomwear,Pants,Chinos,Kids,6,"0,58,0,0,0,0,42,0",Grey,L,Zara,bulkWholesale,20.1,70.98,heavy
+ITEM00028,2025-06-10 23:34:06,2025-10-01 15:16:59,sold,Bottomwear,Pants,Chinos,Unisex,6,"0,100,0,0,0,0,0,0",Beige,XS,Patagonia,donation,6.49,17.35,minor
+ITEM00029,2025-06-11 12:07:07,2025-09-30 13:39:22,sold,Footwear,Shoes,Sneakers,Men,9,"0,0,0,0,100,0,0,0",Grey,36,Zara,bulkWholesale,21.26,32.58,moderate
+ITEM00030,2025-06-13 23:32:59,2025-09-20 11:09:20,sold,Footwear,Shoes,Heels,Women,3,"0,100,0,0,0,0,0,0",Black,44,Levi's,bulkWholesale,1.08,3.2,none
+ITEM00031,2025-06-08 18:22:35,2025-09-08 12:58:37,sold,One-Piece,Dress,Casual Dress,Women,7,"0,0,100,0,0,0,0,0",Beige,Kids,Nike,bulkWholesale,15.31,23.75,moderate
+ITEM00032,2025-06-22 01:00:53,2025-07-28 13:57:49,sold,Bottomwear,Skirt,Mini Skirt,Men,8,"0,0,0,29,0,0,0,71",Grey,M,Levi's,userSellIn,19.32,70.93,moderate
+ITEM00033,2025-06-21 02:19:32,2025-08-10 08:16:46,sold,Bottomwear,Skirt,Maxi Skirt,Women,9,"63,0,0,37,0,0,0,0",Red,42,Uniqlo,donation,13.03,29.7,none
+ITEM00034,2025-06-25 15:59:16,2025-09-17 02:06:18,sold,One-Piece,Dress,Summer Dress,Unisex,6,"0,0,15,0,0,85,0,0",Red,Kids,Nike,userSellIn,15.22,23.07,minor
+ITEM00035,2025-06-11 09:14:58,2025-09-16 16:38:01,sold,Bottomwear,Pants,Shorts,Women,4,"0,0,0,83,0,17,0,0",Black,XL,Levi's,userSellIn,6.65,14.81,moderate
+ITEM00036,2025-06-09 22:37:04,2025-09-01 04:32:58,sold,One-Piece,Dress,Casual Dress,Kids,7,"0,0,0,29,0,71,0,0",Green,36,Levi's,userSellIn,5.21,12.07,heavy
+ITEM00037,2025-06-10 07:22:58,2025-07-16 12:09:53,disposed,Topwear,Shirt,Polo,Kids,0,"0,0,0,0,0,0,0,100",Grey,44,H&M,bulkWholesale,11.9,0.0,none
+ITEM00038,2025-06-21 21:18:20,2025-07-22 05:15:11,recycled,One-Piece,Dress,Casual Dress,Kids,1,"100,0,0,0,0,0,0,0",Green,S,H&M,userSellIn,28.28,0.0,minor
+ITEM00039,2025-06-25 18:16:41,2025-09-06 04:13:15,sold,Accessories,General,Scarf,Men,4,"0,0,0,70,0,30,0,0",Beige,42,Nike,userSellIn,12.48,40.93,none
+ITEM00040,2025-06-13 17:29:32,2025-09-06 17:35:46,sold,Accessories,General,Belt,Unisex,10,"0,0,0,0,100,0,0,0",Blue,Kids,Zara,bulkWholesale,0.59,2.26,heavy
+ITEM00041,2025-06-12 23:49:22,2025-08-21 20:21:52,sold,Footwear,Shoes,Heels,Kids,3,"0,0,0,0,100,0,0,0",Grey,M,H&M,donation,17.98,71.4,moderate
+ITEM00042,2025-06-14 02:41:19,2025-08-12 22:51:18,sold,One-Piece,Dress,Summer Dress,Unisex,10,"40,0,0,60,0,0,0,0",Black,XS,Adidas,donation,23.55,92.55,heavy
+ITEM00043,2025-06-09 11:47:07,2025-08-12 01:35:34,sold,Bottomwear,Skirt,Mini Skirt,Men,4,"85,0,0,0,15,0,0,0",Blue,36,H&M,bulkWholesale,7.39,11.43,moderate
+ITEM00044,2025-06-19 09:27:16,2025-08-21 00:36:37,sold,One-Piece,Dress,Evening Dress,Men,5,"87,0,0,0,13,0,0,0",White,XL,Levi's,bulkWholesale,7.04,25.83,minor
+ITEM00045,2025-07-03 12:13:20,2025-08-05 19:37:34,sold,Accessories,General,Scarf,Women,9,"0,0,0,0,0,0,0,100",White,XL,Gucci,donation,16.72,46.75,minor
+ITEM00046,2025-07-04 22:29:10,2025-08-03 06:06:33,sold,Topwear,Jacket,Blazer,Men,5,"0,0,0,0,0,0,0,100",Beige,L,H&M,userSellIn,17.13,38.33,heavy
+ITEM00047,2025-06-07 12:44:42,2025-08-02 13:27:54,sold,Footwear,Shoes,Sneakers,Unisex,7,"0,0,0,0,0,0,0,100",Green,XL,Patagonia,bulkWholesale,29.21,112.99,none
+ITEM00048,2025-06-09 23:58:45,2025-07-15 19:33:44,sold,Topwear,Shirt,Blouse,Unisex,7,"0,0,100,0,0,0,0,0",Green,S,Levi's,bulkWholesale,29.61,69.62,none
+ITEM00049,2025-06-08 04:46:12,2025-09-16 07:54:35,sold,Topwear,Jacket,Winter Coat,Kids,6,"0,0,0,29,0,71,0,0",Multicolor,Kids,Nike,donation,11.29,29.35,heavy
+ITEM00050,2025-06-13 16:24:06,2025-08-03 11:00:05,sold,Footwear,Shoes,Heels,Men,7,"0,0,69,0,0,0,0,31",Beige,42,Uniqlo,donation,13.91,40.6,minor
+ITEM00051,2025-06-15 00:56:07,2025-08-17 06:01:41,sold,One-Piece,Dress,Summer Dress,Women,6,"0,0,0,0,0,0,43,57",Grey,XL,Levi's,bulkWholesale,28.26,67.44,moderate
+ITEM00052,2025-06-30 02:28:38,2025-08-27 11:55:55,recycled,Topwear,Shirt,Polo,Unisex,2,"0,0,0,0,0,100,0,0",Beige,44,Patagonia,userSellIn,21.99,0.0,moderate
+ITEM00053,2025-06-25 07:59:45,2025-09-12 22:14:49,sold,One-Piece,Dress,Evening Dress,Men,6,"0,0,0,0,100,0,0,0",Green,XL,H&M,userSellIn,10.37,26.44,moderate
+ITEM00054,2025-06-06 18:11:28,2025-09-22 12:09:01,sold,Accessories,General,Belt,Women,10,"0,0,0,0,21,0,0,79",Beige,Kids,H&M,userSellIn,17.23,34.0,none
+ITEM00055,2025-06-27 15:20:37,2025-09-03 17:00:39,sold,Footwear,Shoes,Boots,Women,4,"79,0,0,0,0,0,0,21",Green,36,Patagonia,donation,0.03,0.09,minor
+ITEM00056,2025-06-18 09:42:36,2025-08-27 21:18:13,sold,Footwear,Shoes,Heels,Women,10,"30,0,0,70,0,0,0,0",Red,L,H&M,bulkWholesale,6.09,14.33,moderate
+ITEM00057,2025-06-12 16:36:41,2025-07-30 21:54:27,sold,Bottomwear,Skirt,Maxi Skirt,Kids,9,"43,0,0,0,0,0,57,0",White,38,H&M,bulkWholesale,3.48,6.28,none
+ITEM00058,2025-06-18 21:10:40,2025-09-07 08:21:21,sold,Accessories,General,Scarf,Men,4,"0,0,8,0,92,0,0,0",Black,34,Adidas,userSellIn,28.37,70.13,none
+ITEM00059,2025-06-28 17:21:43,2025-08-02 19:04:04,sold,Topwear,Jacket,Hoodie,Kids,8,"0,29,0,71,0,0,0,0",White,L,Uniqlo,userSellIn,14.25,45.64,none
+ITEM00060,2025-06-28 13:32:38,2025-09-26 01:26:13,recycled,One-Piece,Dress,Summer Dress,Kids,2,"0,0,0,52,0,0,48,0",Black,40,Adidas,userSellIn,7.84,0.0,none
+ITEM00061,2025-06-10 08:01:31,2025-07-16 08:38:05,recycled,One-Piece,Dress,Casual Dress,Unisex,2,"0,0,100,0,0,0,0,0",Beige,44,Nike,bulkWholesale,13.39,0.0,heavy
+ITEM00062,2025-06-21 04:54:50,2025-08-12 06:59:09,sold,One-Piece,Dress,Casual Dress,Men,4,"0,100,0,0,0,0,0,0",Multicolor,S,Levi's,donation,28.64,94.29,minor
+ITEM00063,2025-07-04 11:32:11,2025-08-03 03:03:09,sold,Footwear,Shoes,Sneakers,Unisex,5,"0,0,0,100,0,0,0,0",Black,XL,H&M,donation,8.28,17.27,heavy
+ITEM00064,2025-06-29 20:53:57,2025-09-27 06:32:53,recycled,Bottomwear,Pants,Shorts,Unisex,2,"57,0,0,0,0,0,0,43",White,34,Levi's,bulkWholesale,12.03,0.0,minor
+ITEM00065,2025-06-16 05:24:29,2025-09-01 21:40:05,sold,Footwear,Shoes,Sneakers,Kids,8,"38,0,62,0,0,0,0,0",Blue,S,Nike,bulkWholesale,15.7,51.28,heavy
+ITEM00066,2025-06-27 07:04:43,2025-08-29 04:13:20,sold,One-Piece,Dress,Casual Dress,Men,10,"0,0,0,0,0,2,0,98",Beige,L,Adidas,bulkWholesale,12.07,34.8,heavy
+ITEM00067,2025-06-11 06:34:17,2025-09-11 23:12:44,sold,Bottomwear,Skirt,Mini Skirt,Men,7,"0,0,0,100,0,0,0,0",Beige,M,Patagonia,userSellIn,8.34,31.1,heavy
+ITEM00068,2025-06-16 11:03:33,2025-08-05 17:45:03,sold,Accessories,General,Handbag,Unisex,9,"100,0,0,0,0,0,0,0",Beige,40,Patagonia,userSellIn,24.9,89.16,moderate
+ITEM00069,2025-06-21 12:47:57,2025-08-19 07:32:13,disposed,Topwear,Shirt,T-Shirt,Kids,2,"0,100,0,0,0,0,0,0",Beige,38,Gucci,userSellIn,19.17,0.0,heavy
+ITEM00070,2025-07-03 17:03:19,2025-08-01 01:59:11,sold,Accessories,General,Belt,Men,3,"0,27,0,0,0,73,0,0",Multicolor,XL,Gucci,donation,13.51,28.79,moderate
+ITEM00071,2025-06-30 13:36:34,2025-07-15 23:52:52,sold,Footwear,Shoes,Sneakers,Unisex,9,"0,72,0,0,0,28,0,0",Beige,40,Patagonia,donation,13.22,52.72,none
+ITEM00072,2025-06-14 21:48:15,2025-09-16 05:12:00,recycled,Footwear,Shoes,Sneakers,Unisex,2,"0,0,100,0,0,0,0,0",Black,34,Gucci,userSellIn,24.1,0.0,heavy
+ITEM00073,2025-06-08 01:36:21,2025-08-30 13:03:02,sold,Bottomwear,Skirt,Mini Skirt,Unisex,9,"0,0,0,12,0,0,0,88",Multicolor,XL,Uniqlo,bulkWholesale,23.65,57.39,heavy
+ITEM00074,2025-06-08 12:45:32,2025-08-02 03:17:58,sold,Topwear,Shirt,T-Shirt,Unisex,6,"100,0,0,0,0,0,0,0",Black,M,Gucci,userSellIn,27.34,96.67,none
+ITEM00075,2025-06-19 20:51:09,2025-08-30 03:54:07,sold,Accessories,General,Handbag,Women,5,"100,0,0,0,0,0,0,0",Multicolor,40,Zara,bulkWholesale,28.45,79.08,heavy
+ITEM00076,2025-06-26 02:08:45,2025-09-10 15:50:11,recycled,One-Piece,Dress,Summer Dress,Kids,2,"47,0,53,0,0,0,0,0",Red,Kids,Zara,donation,24.76,0.0,heavy
+ITEM00077,2025-06-10 10:54:18,2025-08-02 10:29:32,recycled,One-Piece,Dress,Casual Dress,Men,0,"0,0,100,0,0,0,0,0",Green,S,Gucci,donation,6.5,0.0,heavy
+ITEM00078,2025-06-17 22:58:49,2025-10-02 15:16:56,sold,Bottomwear,Pants,Shorts,Unisex,5,"0,0,0,0,100,0,0,0",White,XS,Zara,donation,29.93,91.56,heavy
+ITEM00079,2025-07-03 04:40:02,2025-09-28 15:05:53,disposed,Accessories,General,Scarf,Unisex,0,"0,0,0,0,100,0,0,0",Black,S,Patagonia,userSellIn,25.39,0.0,none
+ITEM00080,2025-06-12 14:14:53,2025-09-10 21:28:19,sold,Topwear,Shirt,T-Shirt,Women,7,"100,0,0,0,0,0,0,0",Red,XS,Patagonia,donation,15.89,25.6,minor
+ITEM00081,2025-06-14 22:59:54,2025-08-31 14:44:08,sold,One-Piece,Dress,Evening Dress,Unisex,8,"0,0,0,0,0,100,0,0",Black,44,Gucci,donation,8.2,23.43,minor
+ITEM00082,2025-06-24 22:59:10,2025-09-25 05:12:31,sold,Topwear,Shirt,Polo,Men,9,"0,0,0,0,69,0,31,0",Blue,XS,Adidas,bulkWholesale,21.47,78.88,minor
+ITEM00083,2025-06-10 20:08:01,2025-08-11 10:24:33,sold,Footwear,Shoes,Boots,Unisex,5,"0,0,0,24,0,0,0,76",White,XL,Patagonia,bulkWholesale,2.34,3.88,minor
+ITEM00084,2025-06-07 04:12:15,2025-07-21 01:42:50,recycled,One-Piece,Dress,Casual Dress,Unisex,1,"100,0,0,0,0,0,0,0",Multicolor,Kids,Nike,donation,7.4,0.0,none
+ITEM00085,2025-07-03 03:16:21,2025-08-25 12:32:56,sold,Footwear,Shoes,Sneakers,Unisex,4,"66,34,0,0,0,0,0,0",Red,44,Levi's,userSellIn,20.46,43.9,none
+ITEM00086,2025-06-11 00:34:37,2025-08-30 23:40:32,sold,Footwear,Shoes,Boots,Men,10,"0,0,0,0,0,0,100,0",Black,S,Patagonia,userSellIn,7.52,14.79,minor
+ITEM00087,2025-06-15 14:38:33,2025-09-13 21:23:54,sold,Footwear,Shoes,Sneakers,Kids,5,"0,91,0,0,0,0,0,9",White,36,Levi's,donation,19.56,52.69,moderate
+ITEM00088,2025-06-10 12:58:29,2025-08-06 22:14:27,sold,Topwear,Jacket,Hoodie,Unisex,5,"0,0,0,0,0,100,0,0",Multicolor,XL,H&M,donation,14.39,49.57,heavy
+ITEM00089,2025-06-18 07:49:52,2025-07-25 08:45:29,sold,Accessories,General,Belt,Men,8,"0,12,0,0,0,0,88,0",White,42,Adidas,userSellIn,20.12,65.71,none
+ITEM00090,2025-06-28 22:26:20,2025-09-17 18:21:22,sold,Bottomwear,Pants,Jeans,Unisex,3,"0,0,17,0,0,0,0,83",White,44,Nike,userSellIn,17.26,37.44,none
+ITEM00091,2025-06-10 23:58:17,2025-08-13 22:31:14,sold,Accessories,General,Handbag,Kids,10,"0,0,0,0,100,0,0,0",Black,36,Nike,bulkWholesale,27.46,83.89,minor
+ITEM00092,2025-06-21 04:13:14,2025-08-29 21:21:36,recycled,Bottomwear,Skirt,Maxi Skirt,Unisex,2,"0,0,0,0,0,33,67,0",Red,M,Zara,bulkWholesale,1.33,0.0,none
+ITEM00093,2025-06-06 21:20:54,2025-09-08 01:30:43,disposed,Bottomwear,Pants,Jeans,Kids,0,"56,0,0,0,44,0,0,0",Green,XL,Nike,bulkWholesale,23.1,0.0,none
+ITEM00094,2025-06-11 22:05:48,2025-08-11 14:49:49,sold,Topwear,Jacket,Hoodie,Women,8,"0,24,0,0,0,0,0,76",Grey,42,Zara,userSellIn,23.75,90.51,moderate
+ITEM00095,2025-07-01 09:14:07,2025-07-24 05:10:03,sold,Topwear,Shirt,T-Shirt,Unisex,7,"0,0,0,79,0,21,0,0",Beige,40,Uniqlo,bulkWholesale,21.25,38.84,heavy
+ITEM00096,2025-06-09 17:36:38,2025-08-19 18:37:12,sold,Bottomwear,Skirt,Maxi Skirt,Kids,10,"6,0,0,0,0,94,0,0",Multicolor,34,Gucci,donation,3.36,11.3,moderate
+ITEM00097,2025-06-20 11:46:42,2025-08-06 11:53:47,sold,Accessories,General,Handbag,Women,4,"73,0,0,0,0,0,0,27",Red,42,Uniqlo,bulkWholesale,18.8,52.35,heavy
+ITEM00098,2025-06-08 12:50:05,2025-07-24 04:19:28,sold,Accessories,General,Scarf,Unisex,9,"0,0,0,92,0,0,8,0",Grey,M,Uniqlo,userSellIn,15.37,31.7,minor
+ITEM00099,2025-06-24 14:22:13,2025-09-13 08:42:37,sold,Bottomwear,Skirt,Maxi Skirt,Men,6,"0,0,0,0,96,0,0,4",Green,M,Adidas,userSellIn,1.74,4.71,heavy
+ITEM00100,2025-07-02 13:25:04,2025-08-25 21:36:51,recycled,One-Piece,Dress,Evening Dress,Unisex,2,"62,0,0,0,0,0,38,0",Grey,44,Patagonia,bulkWholesale,30.0,0.0,minor
+ITEM00101,2025-06-19 20:23:10,2025-09-22 03:28:05,disposed,Footwear,Shoes,Boots,Unisex,2,"0,0,0,25,0,0,0,75",Red,38,Patagonia,userSellIn,14.0,0.0,none
+ITEM00102,2025-07-01 18:10:06,2025-09-11 10:21:19,sold,Topwear,Jacket,Blazer,Men,5,"0,0,0,0,43,57,0,0",Beige,40,Uniqlo,donation,29.15,57.77,heavy
+ITEM00103,2025-06-15 05:01:24,2025-09-03 10:10:20,sold,Topwear,Shirt,Polo,Unisex,4,"0,0,0,58,0,0,42,0",Black,42,Patagonia,bulkWholesale,14.05,37.57,heavy
+ITEM00104,2025-06-11 13:36:12,2025-08-15 17:54:45,sold,Accessories,General,Scarf,Women,6,"0,0,0,65,35,0,0,0",White,36,Levi's,donation,2.42,7.85,none
+ITEM00105,2025-06-17 00:41:11,2025-07-25 03:35:57,sold,Accessories,General,Handbag,Women,6,"0,0,0,0,0,81,0,19",Blue,44,Zara,bulkWholesale,23.53,58.75,moderate
+ITEM00106,2025-06-29 08:40:01,2025-07-29 00:25:52,sold,Bottomwear,Skirt,Mini Skirt,Men,9,"0,0,1,0,0,0,99,0",Red,XL,Zara,bulkWholesale,2.57,6.12,heavy
+ITEM00107,2025-07-04 05:06:13,2025-08-21 23:13:01,sold,Footwear,Shoes,Boots,Women,6,"0,0,0,0,76,24,0,0",Green,Kids,Nike,donation,11.87,44.89,moderate
+ITEM00108,2025-07-04 18:06:35,2025-07-26 09:51:12,sold,Accessories,General,Scarf,Kids,6,"100,0,0,0,0,0,0,0",Green,44,Levi's,donation,15.41,32.09,minor
+ITEM00109,2025-06-09 16:18:13,2025-10-03 12:01:17,sold,Topwear,Jacket,Blazer,Women,6,"0,0,0,0,50,50,0,0",White,M,Uniqlo,donation,3.8,10.5,heavy
+ITEM00110,2025-06-18 09:39:50,2025-09-27 23:47:56,sold,Accessories,General,Belt,Kids,7,"0,0,0,0,100,0,0,0",White,M,Uniqlo,donation,6.59,14.46,minor
+ITEM00111,2025-06-21 16:57:19,2025-07-17 04:45:47,recycled,One-Piece,Dress,Evening Dress,Women,0,"0,0,0,6,0,94,0,0",White,40,Gucci,bulkWholesale,13.15,0.0,heavy
+ITEM00112,2025-06-13 16:00:54,2025-09-12 08:56:04,disposed,Topwear,Jacket,Hoodie,Unisex,1,"0,0,57,0,0,0,0,43",Red,L,Gucci,donation,15.13,0.0,minor
+ITEM00113,2025-06-13 00:01:34,2025-08-04 16:51:35,sold,Accessories,General,Belt,Kids,7,"0,11,0,0,0,89,0,0",Beige,XS,Zara,userSellIn,26.43,51.47,none
+ITEM00114,2025-06-07 00:24:35,2025-09-30 00:32:18,sold,Bottomwear,Skirt,Maxi Skirt,Women,8,"0,0,55,0,0,45,0,0",Beige,L,Levi's,bulkWholesale,24.66,51.22,heavy
+ITEM00115,2025-06-29 17:13:53,2025-09-20 04:04:03,recycled,One-Piece,Dress,Evening Dress,Kids,2,"0,0,0,100,0,0,0,0",Multicolor,Kids,Gucci,userSellIn,12.87,0.0,minor
+ITEM00116,2025-06-27 13:02:57,2025-09-11 10:40:40,sold,Bottomwear,Pants,Shorts,Women,10,"0,0,0,0,0,21,79,0",Beige,44,Patagonia,userSellIn,10.18,19.59,heavy
+ITEM00117,2025-06-08 08:47:51,2025-08-29 16:49:31,disposed,Footwear,Shoes,Sneakers,Unisex,0,"20,80,0,0,0,0,0,0",Green,42,Gucci,userSellIn,17.57,0.0,minor
+ITEM00118,2025-06-06 23:48:42,2025-07-24 21:15:44,sold,Topwear,Shirt,Polo,Women,5,"0,100,0,0,0,0,0,0",White,M,Adidas,donation,10.84,39.23,heavy
+ITEM00119,2025-06-21 17:25:06,2025-09-25 12:36:25,sold,Accessories,General,Belt,Men,4,"0,23,0,0,0,77,0,0",Multicolor,S,Adidas,bulkWholesale,19.71,59.67,none
+ITEM00120,2025-06-19 08:44:52,2025-07-24 17:19:31,recycled,Topwear,Shirt,Blouse,Men,1,"93,0,0,7,0,0,0,0",Multicolor,44,Levi's,userSellIn,4.0,0.0,moderate
+ITEM00121,2025-06-29 06:23:51,2025-09-04 12:13:39,sold,One-Piece,Dress,Summer Dress,Kids,8,"0,0,0,0,0,40,0,60",Green,XS,Patagonia,userSellIn,23.49,39.58,none
+ITEM00122,2025-06-30 21:17:35,2025-08-20 15:30:29,sold,Bottomwear,Skirt,Mini Skirt,Men,10,"0,0,100,0,0,0,0,0",Red,XS,Nike,bulkWholesale,5.45,10.73,heavy
+ITEM00123,2025-07-04 02:14:20,2025-08-27 19:53:09,disposed,Bottomwear,Skirt,Mini Skirt,Unisex,0,"25,0,0,0,75,0,0,0",Multicolor,40,Zara,userSellIn,4.78,0.0,moderate
+ITEM00124,2025-06-30 06:37:46,2025-07-18 03:51:25,sold,Footwear,Shoes,Boots,Kids,4,"0,100,0,0,0,0,0,0",Red,34,Adidas,donation,3.57,10.07,moderate
+ITEM00125,2025-07-05 09:31:44,2025-08-11 20:37:13,sold,Bottomwear,Pants,Shorts,Women,9,"0,0,0,100,0,0,0,0",White,XL,Uniqlo,donation,24.3,68.94,heavy
+ITEM00126,2025-06-24 06:11:24,2025-07-27 16:16:16,sold,Footwear,Shoes,Sneakers,Kids,6,"38,0,62,0,0,0,0,0",Black,XS,Patagonia,userSellIn,9.28,15.86,none
+ITEM00127,2025-06-26 11:48:31,2025-09-30 20:20:30,sold,Footwear,Shoes,Heels,Kids,10,"0,0,0,0,0,0,0,100",Green,M,Levi's,donation,5.48,11.3,heavy
+ITEM00128,2025-06-15 11:18:46,2025-07-30 04:18:31,sold,Bottomwear,Pants,Chinos,Men,8,"0,0,0,100,0,0,0,0",Red,S,H&M,bulkWholesale,24.26,92.04,moderate
+ITEM00129,2025-06-11 13:27:10,2025-07-25 11:59:44,disposed,One-Piece,Dress,Casual Dress,Women,0,"58,0,0,0,0,0,42,0",Beige,S,Zara,bulkWholesale,23.24,0.0,heavy
+ITEM00130,2025-06-23 06:47:25,2025-08-08 14:26:46,sold,Footwear,Shoes,Boots,Kids,5,"0,0,0,0,0,0,100,0",Grey,38,Uniqlo,donation,7.44,25.47,none
+ITEM00131,2025-06-21 22:14:39,2025-09-29 02:48:42,recycled,Bottomwear,Pants,Shorts,Men,1,"32,68,0,0,0,0,0,0",Multicolor,L,Zara,donation,22.02,0.0,none
+ITEM00132,2025-06-08 05:12:03,2025-08-07 08:35:31,sold,One-Piece,Dress,Casual Dress,Unisex,3,"0,0,0,0,0,0,0,100",Beige,XL,Adidas,bulkWholesale,26.65,91.47,none
+ITEM00133,2025-06-17 09:45:22,2025-08-27 10:02:58,sold,Bottomwear,Skirt,Mini Skirt,Unisex,4,"0,0,0,0,0,0,0,100",White,M,Patagonia,bulkWholesale,0.47,1.45,moderate
+ITEM00134,2025-06-22 01:11:38,2025-07-31 15:36:59,sold,Accessories,General,Handbag,Unisex,7,"0,0,0,0,100,0,0,0",Grey,34,Adidas,bulkWholesale,25.9,79.96,minor
+ITEM00135,2025-07-02 09:17:54,2025-08-26 12:18:04,sold,Bottomwear,Skirt,Mini Skirt,Unisex,6,"0,71,0,0,0,0,0,29",Black,S,Uniqlo,userSellIn,21.8,70.69,minor
+ITEM00136,2025-06-17 17:01:14,2025-10-03 08:35:03,sold,Accessories,General,Belt,Unisex,5,"0,0,0,0,100,0,0,0",Grey,Kids,Levi's,donation,5.2,11.15,none
+ITEM00137,2025-06-14 12:11:04,2025-09-22 08:35:36,sold,Topwear,Jacket,Blazer,Unisex,3,"0,0,0,0,0,0,0,100",Beige,34,Zara,donation,9.09,21.65,moderate
+ITEM00138,2025-06-06 04:46:03,2025-08-24 00:39:06,sold,Bottomwear,Pants,Jeans,Men,6,"0,100,0,0,0,0,0,0",Green,Kids,Levi's,donation,24.02,76.47,none
+ITEM00139,2025-06-10 19:51:05,2025-09-24 05:05:43,sold,Bottomwear,Pants,Chinos,Unisex,4,"100,0,0,0,0,0,0,0",Black,42,Uniqlo,userSellIn,16.9,39.27,minor
+ITEM00140,2025-06-19 04:18:58,2025-08-30 03:45:50,sold,Accessories,General,Belt,Men,7,"0,0,38,0,0,62,0,0",Multicolor,34,Adidas,bulkWholesale,15.51,35.86,moderate
+ITEM00141,2025-06-28 00:55:16,2025-08-25 21:15:08,sold,Bottomwear,Pants,Shorts,Kids,3,"0,0,100,0,0,0,0,0",Red,36,Patagonia,bulkWholesale,25.7,93.47,heavy
+ITEM00142,2025-06-19 23:14:28,2025-08-28 23:52:40,sold,Bottomwear,Pants,Chinos,Women,3,"0,0,100,0,0,0,0,0",Grey,L,H&M,donation,16.86,26.02,heavy
+ITEM00143,2025-07-04 16:10:43,2025-08-31 15:49:26,sold,Accessories,General,Handbag,Kids,4,"27,0,0,0,0,0,73,0",Red,40,Patagonia,donation,20.13,76.27,none
+ITEM00144,2025-07-02 14:30:54,2025-08-22 21:27:15,disposed,Footwear,Shoes,Boots,Kids,2,"0,0,0,0,0,100,0,0",Beige,36,Uniqlo,donation,14.55,0.0,heavy
+ITEM00145,2025-06-24 08:15:11,2025-09-23 14:43:04,sold,Accessories,General,Belt,Unisex,8,"0,0,100,0,0,0,0,0",Green,38,Adidas,donation,24.28,79.61,none
+ITEM00146,2025-06-10 09:27:06,2025-07-27 11:10:44,sold,Accessories,General,Handbag,Kids,9,"0,23,77,0,0,0,0,0",Blue,L,Gucci,bulkWholesale,10.2,27.24,minor
+ITEM00147,2025-07-02 07:54:54,2025-09-01 00:44:20,sold,Accessories,General,Scarf,Women,8,"0,0,64,36,0,0,0,0",Beige,34,Gucci,userSellIn,12.76,32.08,moderate
+ITEM00148,2025-06-08 17:58:59,2025-08-19 07:43:24,disposed,Accessories,General,Handbag,Men,0,"0,0,0,0,0,0,100,0",Green,Kids,Zara,donation,27.82,0.0,moderate
+ITEM00149,2025-06-19 07:54:50,2025-07-17 23:06:00,sold,Footwear,Shoes,Sneakers,Unisex,6,"0,0,61,0,39,0,0,0",Blue,38,Zara,userSellIn,23.13,86.86,none
+ITEM00150,2025-06-26 18:45:00,2025-08-14 22:02:05,sold,Footwear,Shoes,Sneakers,Unisex,10,"0,0,100,0,0,0,0,0",Blue,44,Uniqlo,donation,16.18,38.56,minor
+ITEM00151,2025-06-19 22:37:59,2025-09-04 17:03:29,disposed,Accessories,General,Scarf,Kids,1,"0,0,0,0,0,100,0,0",Beige,M,Levi's,bulkWholesale,24.5,0.0,heavy
+ITEM00152,2025-06-06 21:52:27,2025-10-03 07:35:16,sold,Bottomwear,Pants,Chinos,Men,6,"0,0,0,0,60,40,0,0",Green,36,Patagonia,bulkWholesale,18.96,62.71,minor
+ITEM00153,2025-07-05 15:26:47,2025-07-31 22:34:42,sold,Topwear,Shirt,Blouse,Men,6,"0,0,0,0,0,0,100,0",Multicolor,40,Gucci,userSellIn,0.19,0.53,heavy
+ITEM00154,2025-06-08 06:46:07,2025-09-03 04:54:24,sold,One-Piece,Dress,Summer Dress,Men,9,"0,74,0,26,0,0,0,0",Grey,S,Gucci,userSellIn,28.33,49.54,heavy
+ITEM00155,2025-06-15 20:43:18,2025-09-28 05:29:42,sold,One-Piece,Dress,Evening Dress,Men,6,"0,0,65,35,0,0,0,0",White,XL,Nike,userSellIn,10.43,29.52,moderate
+ITEM00156,2025-06-18 11:19:16,2025-09-08 05:06:07,sold,Accessories,General,Scarf,Women,8,"0,0,0,0,0,100,0,0",White,Kids,Nike,userSellIn,23.7,91.63,heavy
+ITEM00157,2025-07-04 05:13:42,2025-09-22 12:44:09,sold,Topwear,Shirt,Blouse,Men,3,"0,0,0,0,100,0,0,0",Multicolor,38,Zara,userSellIn,1.91,7.51,none
+ITEM00158,2025-06-08 16:06:30,2025-07-29 03:27:01,sold,One-Piece,Dress,Summer Dress,Unisex,5,"0,0,0,0,0,47,53,0",Green,34,Nike,bulkWholesale,16.96,39.91,heavy
+ITEM00159,2025-06-26 01:25:01,2025-08-29 06:05:44,sold,Accessories,General,Belt,Women,5,"0,0,100,0,0,0,0,0",Red,34,H&M,donation,16.83,46.28,none
+ITEM00160,2025-06-18 10:22:57,2025-09-01 22:34:22,disposed,One-Piece,Dress,Casual Dress,Women,1,"0,0,100,0,0,0,0,0",Multicolor,40,Adidas,donation,27.13,0.0,moderate
+ITEM00161,2025-07-03 21:22:25,2025-07-29 07:29:05,sold,Bottomwear,Skirt,Maxi Skirt,Men,9,"0,0,75,25,0,0,0,0",Black,M,H&M,bulkWholesale,18.72,71.45,minor
+ITEM00162,2025-06-14 06:48:35,2025-09-30 10:07:49,sold,One-Piece,Dress,Evening Dress,Unisex,4,"0,82,18,0,0,0,0,0",Beige,34,Zara,userSellIn,14.71,32.81,moderate
+ITEM00163,2025-06-21 16:06:50,2025-08-23 11:30:18,recycled,Topwear,Shirt,Blouse,Kids,1,"0,0,55,0,0,45,0,0",Black,XS,Gucci,donation,27.8,0.0,moderate
+ITEM00164,2025-06-27 02:30:41,2025-09-05 13:35:08,sold,Accessories,General,Handbag,Unisex,6,"0,0,100,0,0,0,0,0",Grey,S,Uniqlo,donation,3.03,11.69,heavy
+ITEM00165,2025-06-06 04:26:28,2025-07-28 06:45:58,sold,One-Piece,Dress,Casual Dress,Men,7,"0,0,0,0,0,0,100,0",Black,S,Zara,bulkWholesale,6.66,23.4,none
+ITEM00166,2025-06-07 19:22:28,2025-07-21 12:24:59,recycled,Footwear,Shoes,Boots,Women,1,"0,0,100,0,0,0,0,0",Green,38,H&M,donation,27.98,0.0,moderate
+ITEM00167,2025-07-01 04:11:15,2025-07-31 03:45:35,recycled,Accessories,General,Handbag,Unisex,2,"0,0,0,0,0,0,0,100",White,34,Patagonia,userSellIn,20.42,0.0,heavy
+ITEM00168,2025-06-20 00:00:30,2025-09-01 19:05:52,disposed,Footwear,Shoes,Sneakers,Unisex,1,"0,0,0,0,7,0,0,93",Green,44,Adidas,userSellIn,1.29,0.0,minor
+ITEM00169,2025-06-06 09:32:41,2025-08-27 09:23:20,disposed,Bottomwear,Skirt,Mini Skirt,Unisex,1,"0,0,0,0,0,100,0,0",Green,L,Gucci,donation,18.54,0.0,none
+ITEM00170,2025-06-06 16:25:11,2025-07-21 13:55:29,sold,Topwear,Jacket,Winter Coat,Unisex,8,"0,0,3,0,0,0,97,0",White,38,Zara,donation,22.89,82.74,heavy
+ITEM00171,2025-06-25 19:46:20,2025-09-18 20:51:42,sold,One-Piece,Dress,Casual Dress,Unisex,4,"0,0,75,0,0,25,0,0",Black,Kids,Gucci,userSellIn,4.34,16.37,heavy
+ITEM00172,2025-06-15 23:53:27,2025-08-23 01:32:05,sold,Topwear,Jacket,Hoodie,Men,6,"0,0,0,0,33,0,67,0",Black,40,Uniqlo,bulkWholesale,3.56,10.73,heavy
+ITEM00173,2025-06-09 19:10:51,2025-09-01 01:22:36,sold,One-Piece,Dress,Evening Dress,Men,5,"0,0,0,38,0,0,62,0",Multicolor,42,Gucci,bulkWholesale,18.81,68.35,heavy
+ITEM00174,2025-06-22 08:11:45,2025-09-23 08:51:06,sold,One-Piece,Dress,Casual Dress,Women,5,"0,0,0,0,100,0,0,0",Multicolor,XL,Adidas,bulkWholesale,20.2,33.8,minor
+ITEM00175,2025-06-15 05:21:32,2025-07-31 04:10:20,sold,One-Piece,Dress,Evening Dress,Kids,4,"0,0,0,0,0,100,0,0",Green,38,Nike,userSellIn,16.54,42.39,minor
+ITEM00176,2025-06-21 21:53:43,2025-08-02 23:07:48,sold,Accessories,General,Belt,Kids,8,"0,0,0,0,0,86,0,14",Green,34,Patagonia,donation,17.76,42.65,moderate
+ITEM00177,2025-06-27 09:56:02,2025-07-30 10:10:49,sold,Accessories,General,Handbag,Unisex,9,"0,0,0,0,0,100,0,0",Red,44,Patagonia,donation,19.25,35.84,minor
+ITEM00178,2025-07-01 22:15:35,2025-09-14 17:30:41,sold,Footwear,Shoes,Boots,Kids,4,"0,65,0,0,0,0,0,35",Green,40,H&M,userSellIn,8.36,24.78,heavy
+ITEM00179,2025-06-19 07:16:15,2025-08-25 05:03:38,sold,Accessories,General,Belt,Women,5,"0,0,0,52,0,0,0,48",Beige,34,Levi's,userSellIn,16.56,37.44,minor
+ITEM00180,2025-06-14 08:20:24,2025-08-22 12:23:31,sold,Bottomwear,Pants,Jeans,Unisex,5,"0,100,0,0,0,0,0,0",White,42,Zara,bulkWholesale,22.27,35.22,heavy
+ITEM00181,2025-06-27 16:40:54,2025-08-29 01:47:44,sold,Bottomwear,Pants,Jeans,Kids,4,"0,29,0,0,0,0,71,0",Blue,36,Gucci,userSellIn,8.1,16.29,moderate
+ITEM00182,2025-06-28 07:40:36,2025-09-25 08:29:14,sold,Topwear,Jacket,Winter Coat,Kids,9,"0,0,0,0,19,0,81,0",White,40,H&M,donation,21.56,73.83,minor
+ITEM00183,2025-06-07 01:23:03,2025-09-17 16:19:56,disposed,One-Piece,Dress,Summer Dress,Unisex,2,"0,0,100,0,0,0,0,0",White,S,Levi's,userSellIn,22.95,0.0,heavy
+ITEM00184,2025-06-21 14:51:46,2025-09-20 22:09:43,disposed,One-Piece,Dress,Summer Dress,Women,2,"100,0,0,0,0,0,0,0",Grey,M,H&M,userSellIn,24.55,0.0,minor
+ITEM00185,2025-06-29 15:23:47,2025-09-13 21:19:51,disposed,Bottomwear,Pants,Chinos,Unisex,2,"0,34,0,0,66,0,0,0",Black,M,Gucci,donation,6.01,0.0,moderate
+ITEM00186,2025-06-08 16:51:36,2025-09-02 14:35:57,sold,Footwear,Shoes,Boots,Unisex,5,"0,0,0,0,0,0,0,100",Beige,40,Patagonia,bulkWholesale,3.73,14.63,none
+ITEM00187,2025-06-11 22:43:40,2025-07-25 00:45:52,sold,Topwear,Jacket,Blazer,Unisex,10,"0,0,0,0,0,0,0,100",Blue,44,Zara,userSellIn,12.29,28.34,heavy
+ITEM00188,2025-06-05 19:05:18,2025-09-16 14:39:15,sold,Bottomwear,Pants,Shorts,Women,8,"0,0,0,0,0,0,0,100",Beige,XS,Adidas,bulkWholesale,19.68,35.0,heavy
+ITEM00189,2025-06-09 18:51:35,2025-09-10 15:37:13,sold,One-Piece,Dress,Casual Dress,Kids,4,"0,0,100,0,0,0,0,0",Blue,38,Gucci,userSellIn,10.87,30.31,minor
+ITEM00190,2025-06-08 14:48:11,2025-09-11 01:38:50,sold,Footwear,Shoes,Sneakers,Unisex,4,"42,0,0,0,0,0,58,0",Beige,XS,Nike,userSellIn,12.46,34.09,minor
+ITEM00191,2025-06-08 03:07:57,2025-08-25 07:17:45,disposed,One-Piece,Dress,Casual Dress,Men,0,"0,0,0,0,100,0,0,0",Grey,38,Nike,bulkWholesale,12.14,0.0,heavy
+ITEM00192,2025-06-28 15:41:52,2025-10-03 06:06:57,recycled,Bottomwear,Skirt,Maxi Skirt,Unisex,0,"0,0,0,0,0,0,100,0",Beige,42,Nike,donation,2.74,0.0,none
+ITEM00193,2025-06-26 22:53:01,2025-08-24 21:20:50,sold,Bottomwear,Skirt,Maxi Skirt,Women,6,"0,100,0,0,0,0,0,0",White,S,Patagonia,donation,0.72,2.72,minor
+ITEM00194,2025-06-18 20:14:26,2025-08-24 03:02:51,sold,Bottomwear,Pants,Chinos,Men,5,"0,0,75,0,0,0,0,25",Multicolor,Kids,Gucci,userSellIn,14.94,27.36,heavy
+ITEM00195,2025-06-17 05:31:48,2025-07-19 11:53:25,sold,Topwear,Jacket,Blazer,Women,5,"100,0,0,0,0,0,0,0",White,38,H&M,userSellIn,28.0,65.89,minor
+ITEM00196,2025-06-08 22:30:20,2025-09-25 19:37:01,disposed,Accessories,General,Scarf,Kids,2,"100,0,0,0,0,0,0,0",Multicolor,L,Uniqlo,bulkWholesale,5.08,0.0,none
+ITEM00197,2025-06-16 18:04:35,2025-10-02 04:02:56,sold,Footwear,Shoes,Boots,Men,5,"0,0,0,0,45,0,55,0",Grey,42,Uniqlo,userSellIn,11.53,34.68,minor
+ITEM00198,2025-06-15 20:11:10,2025-09-16 01:25:29,sold,One-Piece,Dress,Evening Dress,Men,6,"0,0,0,0,0,100,0,0",Beige,44,Levi's,userSellIn,23.17,80.67,none
+ITEM00199,2025-07-02 02:08:04,2025-09-25 12:01:41,recycled,Accessories,General,Scarf,Kids,2,"0,0,0,0,0,100,0,0",White,S,Adidas,bulkWholesale,26.59,0.0,heavy
+ITEM00200,2025-06-13 00:20:59,2025-09-24 11:22:58,disposed,Topwear,Jacket,Winter Coat,Women,0,"0,0,0,100,0,0,0,0",Red,34,H&M,donation,9.55,0.0,heavy
+ITEM00201,2025-06-11 20:21:48,2025-07-20 19:48:09,sold,Accessories,General,Handbag,Men,7,"0,0,64,36,0,0,0,0",Multicolor,44,Adidas,donation,14.91,54.05,heavy
+ITEM00202,2025-06-29 21:48:32,2025-09-22 01:26:16,sold,Accessories,General,Scarf,Men,9,"0,0,0,0,0,0,100,0",Green,S,Zara,userSellIn,21.42,66.72,none
+ITEM00203,2025-06-05 17:30:11,2025-08-07 00:07:55,recycled,Bottomwear,Skirt,Maxi Skirt,Women,1,"0,0,0,0,0,0,100,0",Beige,S,Adidas,donation,1.56,0.0,heavy
+ITEM00204,2025-06-11 20:51:49,2025-09-04 12:44:43,sold,Bottomwear,Pants,Shorts,Unisex,6,"0,40,0,0,0,60,0,0",Black,XS,Patagonia,bulkWholesale,27.46,66.79,minor
+ITEM00205,2025-06-22 00:48:32,2025-09-22 12:36:10,sold,Bottomwear,Skirt,Mini Skirt,Men,5,"100,0,0,0,0,0,0,0",Beige,40,Gucci,bulkWholesale,11.71,43.77,heavy
+ITEM00206,2025-06-12 14:56:23,2025-09-09 17:48:21,sold,Accessories,General,Handbag,Women,6,"0,0,0,76,0,0,0,24",Grey,XL,Gucci,userSellIn,20.54,42.24,heavy
+ITEM00207,2025-06-20 22:34:46,2025-09-28 20:41:20,sold,Bottomwear,Pants,Chinos,Women,5,"0,8,0,0,0,92,0,0",Green,S,Patagonia,userSellIn,16.15,55.4,none
+ITEM00208,2025-07-01 12:24:10,2025-09-02 22:43:11,sold,Topwear,Shirt,T-Shirt,Kids,10,"0,0,0,0,0,0,0,100",Beige,Kids,Uniqlo,bulkWholesale,11.24,41.1,none
+ITEM00209,2025-06-22 11:40:03,2025-07-23 14:26:45,sold,Bottomwear,Pants,Shorts,Men,7,"0,0,100,0,0,0,0,0",Grey,42,Nike,bulkWholesale,23.69,68.52,none
+ITEM00210,2025-06-08 15:01:54,2025-07-17 17:14:53,disposed,Accessories,General,Belt,Unisex,0,"67,0,0,0,0,33,0,0",Grey,42,Nike,bulkWholesale,20.58,0.0,moderate
+ITEM00211,2025-06-15 21:50:59,2025-08-10 11:44:12,sold,Accessories,General,Belt,Unisex,4,"0,0,0,0,100,0,0,0",Blue,44,Gucci,bulkWholesale,28.1,75.1,none
+ITEM00212,2025-06-26 01:09:01,2025-08-04 00:57:14,sold,Topwear,Shirt,Polo,Men,8,"0,0,0,0,0,0,0,100",Beige,42,Gucci,donation,17.82,59.88,moderate
+ITEM00213,2025-06-21 00:27:38,2025-08-22 16:39:26,recycled,Accessories,General,Handbag,Women,2,"74,0,26,0,0,0,0,0",Black,36,Levi's,donation,28.67,0.0,minor
+ITEM00214,2025-06-17 04:29:31,2025-08-13 15:30:50,disposed,One-Piece,Dress,Casual Dress,Unisex,2,"100,0,0,0,0,0,0,0",Green,L,Uniqlo,userSellIn,27.01,0.0,moderate
+ITEM00215,2025-06-27 19:32:33,2025-09-10 13:08:24,disposed,Bottomwear,Pants,Jeans,Men,2,"100,0,0,0,0,0,0,0",Multicolor,34,Zara,bulkWholesale,17.36,0.0,moderate
+ITEM00216,2025-06-29 20:04:41,2025-08-15 05:33:41,sold,Bottomwear,Skirt,Maxi Skirt,Men,10,"0,0,0,100,0,0,0,0",Multicolor,Kids,Zara,donation,4.76,8.31,moderate
+ITEM00217,2025-06-16 07:43:54,2025-08-25 00:07:07,disposed,Accessories,General,Belt,Kids,0,"0,0,0,0,0,72,0,28",Grey,44,Patagonia,donation,25.53,0.0,minor
+ITEM00218,2025-06-10 15:21:18,2025-08-15 01:50:38,disposed,Bottomwear,Pants,Jeans,Unisex,2,"0,0,0,33,0,0,0,67",White,S,Patagonia,donation,2.98,0.0,moderate
+ITEM00219,2025-07-04 03:17:20,2025-09-09 04:37:47,sold,Bottomwear,Skirt,Maxi Skirt,Men,5,"67,0,0,33,0,0,0,0",Red,40,Uniqlo,userSellIn,16.81,28.94,none
+ITEM00220,2025-06-18 15:52:30,2025-07-29 05:15:33,sold,Accessories,General,Scarf,Unisex,7,"0,0,29,71,0,0,0,0",Multicolor,XL,Zara,bulkWholesale,13.09,19.94,none
+ITEM00221,2025-06-27 10:01:25,2025-10-03 00:58:43,sold,Bottomwear,Pants,Jeans,Kids,3,"0,100,0,0,0,0,0,0",White,42,Levi's,donation,26.71,87.15,moderate
+ITEM00222,2025-06-23 22:34:33,2025-09-03 12:02:18,recycled,One-Piece,Dress,Summer Dress,Men,0,"0,0,0,0,0,0,100,0",White,44,Gucci,userSellIn,18.97,0.0,moderate
+ITEM00223,2025-06-17 02:31:00,2025-07-17 17:18:06,disposed,Footwear,Shoes,Sneakers,Women,1,"14,0,0,0,0,86,0,0",Green,40,Nike,donation,20.59,0.0,minor
+ITEM00224,2025-06-15 22:35:13,2025-08-07 22:36:46,sold,Footwear,Shoes,Heels,Unisex,3,"0,0,0,100,0,0,0,0",Green,40,Patagonia,bulkWholesale,26.69,62.39,none
+ITEM00225,2025-06-19 01:10:12,2025-09-03 18:24:08,recycled,One-Piece,Dress,Evening Dress,Unisex,1,"0,0,0,0,0,0,100,0",White,XS,Zara,bulkWholesale,13.09,0.0,minor
+ITEM00226,2025-06-19 00:20:45,2025-08-14 05:27:14,disposed,One-Piece,Dress,Evening Dress,Women,1,"0,0,100,0,0,0,0,0",Multicolor,44,H&M,donation,29.41,0.0,minor
+ITEM00227,2025-06-12 18:27:30,2025-08-26 14:26:40,sold,Footwear,Shoes,Heels,Kids,10,"0,0,0,100,0,0,0,0",White,XL,Levi's,bulkWholesale,28.41,53.28,none
+ITEM00228,2025-06-27 06:33:25,2025-07-20 00:13:14,sold,Bottomwear,Pants,Chinos,Men,3,"0,0,0,0,0,57,43,0",Black,34,Gucci,userSellIn,6.32,9.68,minor
+ITEM00229,2025-07-05 16:02:31,2025-09-10 09:46:37,disposed,Topwear,Jacket,Blazer,Men,0,"4,0,96,0,0,0,0,0",Green,XS,H&M,userSellIn,6.45,0.0,heavy
+ITEM00230,2025-06-21 21:10:07,2025-08-29 23:44:47,disposed,Footwear,Shoes,Heels,Kids,1,"0,0,0,0,28,0,0,72",Blue,S,Zara,donation,0.19,0.0,none
+ITEM00231,2025-06-21 01:53:16,2025-10-02 12:01:02,sold,Bottomwear,Skirt,Maxi Skirt,Kids,7,"67,0,0,0,0,0,33,0",Multicolor,M,H&M,donation,14.64,32.14,minor
+ITEM00232,2025-06-07 01:38:24,2025-08-03 20:12:05,sold,One-Piece,Dress,Casual Dress,Unisex,3,"75,25,0,0,0,0,0,0",Green,L,H&M,bulkWholesale,15.52,55.02,minor
+ITEM00233,2025-06-16 19:20:48,2025-08-02 10:29:05,recycled,Accessories,General,Handbag,Kids,1,"0,0,32,0,0,0,0,68",Black,M,Zara,donation,16.13,0.0,none
+ITEM00234,2025-06-13 14:49:55,2025-08-19 00:56:49,sold,Bottomwear,Skirt,Mini Skirt,Kids,10,"0,0,0,100,0,0,0,0",Grey,34,Patagonia,bulkWholesale,6.47,23.75,minor
+ITEM00235,2025-06-22 04:47:19,2025-08-17 00:55:16,sold,Footwear,Shoes,Boots,Women,7,"0,0,100,0,0,0,0,0",Grey,36,Gucci,bulkWholesale,28.18,74.29,heavy
+ITEM00236,2025-06-13 15:10:27,2025-08-03 08:44:44,sold,Bottomwear,Skirt,Maxi Skirt,Men,5,"38,0,0,0,0,0,0,62",Black,34,Nike,bulkWholesale,6.89,11.72,moderate
+ITEM00237,2025-06-14 16:30:30,2025-08-20 06:37:48,sold,Topwear,Jacket,Blazer,Unisex,8,"0,0,0,0,100,0,0,0",White,L,Nike,donation,5.28,20.21,moderate
+ITEM00238,2025-06-28 04:04:08,2025-09-07 23:01:05,recycled,One-Piece,Dress,Casual Dress,Men,2,"0,0,53,0,0,0,0,47",Black,M,H&M,donation,16.02,0.0,none
+ITEM00239,2025-06-22 14:46:35,2025-08-06 15:34:47,disposed,Topwear,Shirt,Blouse,Women,1,"0,54,0,0,0,46,0,0",Multicolor,L,H&M,bulkWholesale,10.26,0.0,minor
+ITEM00240,2025-06-13 11:30:52,2025-09-30 00:36:05,sold,Topwear,Jacket,Blazer,Kids,7,"0,29,71,0,0,0,0,0",Black,M,Zara,bulkWholesale,9.65,29.0,moderate
+ITEM00241,2025-06-25 14:07:07,2025-09-10 15:46:19,sold,Footwear,Shoes,Sneakers,Men,6,"0,0,71,0,0,29,0,0",White,S,Nike,donation,17.85,64.99,heavy
+ITEM00242,2025-06-16 14:02:09,2025-08-12 12:56:08,sold,One-Piece,Dress,Summer Dress,Unisex,5,"0,0,0,0,0,0,100,0",Black,XS,Levi's,bulkWholesale,25.18,92.59,minor
+ITEM00243,2025-06-28 14:42:27,2025-09-23 20:06:50,recycled,Topwear,Jacket,Blazer,Kids,0,"0,0,0,0,100,0,0,0",Beige,L,Zara,donation,18.67,0.0,minor
+ITEM00244,2025-06-27 08:14:23,2025-07-29 03:09:28,disposed,One-Piece,Dress,Casual Dress,Women,2,"0,0,0,78,0,0,22,0",White,38,Patagonia,donation,21.61,0.0,none
+ITEM00245,2025-06-11 19:06:46,2025-08-04 20:04:34,sold,Topwear,Jacket,Blazer,Unisex,9,"0,0,100,0,0,0,0,0",White,XL,Zara,userSellIn,13.57,46.19,heavy
+ITEM00246,2025-06-18 22:32:32,2025-07-23 06:10:37,sold,Footwear,Shoes,Boots,Unisex,10,"0,0,0,0,0,0,0,100",Red,42,Gucci,bulkWholesale,27.33,105.2,none
+ITEM00247,2025-06-20 03:30:17,2025-07-23 15:34:33,recycled,Bottomwear,Skirt,Maxi Skirt,Women,2,"0,0,0,0,100,0,0,0",Grey,S,Uniqlo,userSellIn,3.34,0.0,minor
+ITEM00248,2025-06-25 06:19:34,2025-08-11 06:20:04,sold,One-Piece,Dress,Casual Dress,Men,3,"0,0,66,34,0,0,0,0",Beige,XL,Levi's,bulkWholesale,2.65,9.68,heavy
+ITEM00249,2025-06-30 11:21:36,2025-09-13 17:20:57,recycled,Accessories,General,Handbag,Men,1,"0,0,0,36,0,64,0,0",Red,XL,H&M,userSellIn,28.95,0.0,minor
+ITEM00250,2025-06-13 20:58:36,2025-09-03 08:18:15,sold,Footwear,Shoes,Sneakers,Women,4,"0,0,100,0,0,0,0,0",Green,XL,Nike,bulkWholesale,5.62,20.88,heavy
+ITEM00251,2025-06-22 19:18:49,2025-07-22 16:46:08,sold,Footwear,Shoes,Heels,Unisex,6,"0,0,100,0,0,0,0,0",Black,Kids,Patagonia,donation,0.25,0.44,heavy
+ITEM00252,2025-06-28 18:24:48,2025-07-15 16:49:48,disposed,Accessories,General,Belt,Women,0,"40,0,0,60,0,0,0,0",Green,44,Nike,bulkWholesale,8.47,0.0,minor
+ITEM00253,2025-07-02 10:57:17,2025-09-01 14:46:38,sold,Bottomwear,Pants,Chinos,Kids,9,"0,0,0,0,100,0,0,0",Multicolor,44,Adidas,bulkWholesale,26.37,48.84,none
+ITEM00254,2025-06-19 10:31:18,2025-09-29 00:20:32,recycled,Accessories,General,Handbag,Kids,0,"49,0,0,51,0,0,0,0",Blue,S,Levi's,donation,7.4,0.0,heavy
+ITEM00255,2025-06-07 12:42:06,2025-08-15 20:00:44,sold,Bottomwear,Pants,Shorts,Kids,7,"36,0,0,0,64,0,0,0",Red,34,H&M,userSellIn,11.26,23.62,moderate
+ITEM00256,2025-06-29 11:53:00,2025-08-25 10:45:06,sold,Footwear,Shoes,Heels,Kids,4,"0,0,0,0,0,0,100,0",Grey,L,Gucci,bulkWholesale,7.73,27.49,none
+ITEM00257,2025-06-22 15:41:55,2025-09-25 08:35:36,sold,Footwear,Shoes,Boots,Women,7,"0,0,0,0,41,0,59,0",Black,44,Patagonia,userSellIn,16.12,49.75,heavy
+ITEM00258,2025-07-04 13:45:07,2025-08-06 01:11:32,sold,Bottomwear,Skirt,Mini Skirt,Unisex,9,"0,0,0,42,58,0,0,0",Grey,38,H&M,bulkWholesale,5.65,14.94,heavy
+ITEM00259,2025-07-05 12:36:42,2025-07-19 07:01:43,sold,Footwear,Shoes,Heels,Kids,5,"0,0,0,0,0,100,0,0",Beige,42,Uniqlo,donation,8.34,28.19,heavy
+ITEM00260,2025-06-16 03:10:42,2025-07-22 13:22:35,sold,Accessories,General,Belt,Women,9,"0,0,79,0,0,0,0,21",Blue,L,Nike,bulkWholesale,16.07,60.28,heavy
+ITEM00261,2025-06-24 07:01:42,2025-07-18 00:02:01,sold,Topwear,Shirt,T-Shirt,Women,8,"0,26,0,74,0,0,0,0",Green,S,Uniqlo,userSellIn,8.72,19.44,moderate
+ITEM00262,2025-06-19 12:46:10,2025-07-27 10:40:37,disposed,Accessories,General,Scarf,Unisex,1,"0,0,0,0,0,100,0,0",Black,XS,Gucci,donation,14.92,0.0,none
+ITEM00263,2025-06-06 01:55:53,2025-09-11 11:49:51,sold,Bottomwear,Pants,Jeans,Kids,9,"0,0,0,0,21,0,0,79",Red,34,Patagonia,donation,24.67,54.34,minor
+ITEM00264,2025-07-01 06:55:41,2025-09-10 13:14:56,sold,Topwear,Shirt,T-Shirt,Unisex,7,"0,0,0,0,0,0,52,48",Blue,Kids,Patagonia,donation,17.24,67.49,heavy
+ITEM00265,2025-06-30 08:07:04,2025-08-02 17:00:24,sold,Footwear,Shoes,Heels,Men,10,"0,0,100,0,0,0,0,0",Red,S,Levi's,bulkWholesale,19.94,77.98,minor
+ITEM00266,2025-06-22 13:20:20,2025-09-13 01:56:58,recycled,Topwear,Jacket,Winter Coat,Unisex,1,"0,0,0,0,0,0,0,100",Red,Kids,Gucci,userSellIn,11.09,0.0,heavy
+ITEM00267,2025-06-29 18:10:52,2025-08-30 13:57:04,disposed,One-Piece,Dress,Casual Dress,Kids,2,"100,0,0,0,0,0,0,0",Multicolor,Kids,Uniqlo,donation,10.35,0.0,moderate
+ITEM00268,2025-06-05 19:47:04,2025-09-13 20:40:58,recycled,Accessories,General,Belt,Kids,0,"0,0,0,100,0,0,0,0",Red,XL,H&M,userSellIn,6.15,0.0,heavy
+ITEM00269,2025-06-27 14:59:46,2025-08-23 18:54:27,disposed,Bottomwear,Pants,Shorts,Unisex,2,"100,0,0,0,0,0,0,0",Black,42,Adidas,userSellIn,8.19,0.0,heavy
+ITEM00270,2025-07-03 10:19:21,2025-07-27 18:30:32,sold,Accessories,General,Handbag,Women,8,"100,0,0,0,0,0,0,0",White,XS,Gucci,donation,17.77,39.2,moderate
+ITEM00271,2025-06-18 12:39:57,2025-09-27 15:03:37,sold,Bottomwear,Skirt,Maxi Skirt,Kids,8,"0,0,46,0,0,0,54,0",Multicolor,S,Levi's,userSellIn,12.46,41.05,none
+ITEM00272,2025-06-17 07:14:21,2025-08-19 20:07:55,recycled,One-Piece,Dress,Summer Dress,Women,1,"0,0,0,0,0,100,0,0",Red,Kids,Nike,bulkWholesale,3.01,0.0,moderate
+ITEM00273,2025-06-27 10:47:33,2025-09-27 03:39:56,sold,Accessories,General,Scarf,Women,4,"0,0,76,0,0,0,24,0",Green,S,Patagonia,userSellIn,20.58,62.66,moderate
+ITEM00274,2025-07-01 08:16:22,2025-09-14 03:17:12,sold,Bottomwear,Skirt,Maxi Skirt,Women,10,"84,0,0,0,16,0,0,0",Green,Kids,Nike,bulkWholesale,25.81,46.09,moderate
+ITEM00275,2025-06-19 06:43:41,2025-08-18 10:24:42,sold,Bottomwear,Skirt,Maxi Skirt,Kids,5,"0,21,0,79,0,0,0,0",Multicolor,S,Nike,donation,0.28,0.47,heavy
+ITEM00276,2025-06-10 14:54:40,2025-09-21 16:52:54,sold,Footwear,Shoes,Boots,Men,5,"0,0,0,0,0,100,0,0",Blue,38,Nike,donation,4.34,7.89,moderate
+ITEM00277,2025-06-15 07:28:18,2025-08-13 01:37:29,sold,Footwear,Shoes,Sneakers,Kids,8,"0,30,70,0,0,0,0,0",Multicolor,XS,Zara,bulkWholesale,19.39,70.21,moderate
+ITEM00278,2025-06-24 05:58:34,2025-08-20 19:07:22,sold,Topwear,Jacket,Hoodie,Women,5,"0,0,0,0,78,0,22,0",Red,S,Nike,userSellIn,16.21,32.3,moderate
+ITEM00279,2025-07-05 10:29:08,2025-07-17 21:29:08,recycled,Accessories,General,Belt,Men,1,"0,0,10,0,0,0,0,90",White,XL,Gucci,donation,19.34,0.0,moderate
+ITEM00280,2025-06-30 09:11:31,2025-08-18 23:52:22,sold,Topwear,Jacket,Hoodie,Men,9,"0,60,40,0,0,0,0,0",Black,44,Levi's,userSellIn,14.46,42.35,none
+ITEM00281,2025-06-13 00:06:52,2025-09-19 04:51:37,sold,Bottomwear,Skirt,Mini Skirt,Kids,7,"0,0,100,0,0,0,0,0",Blue,XL,Adidas,bulkWholesale,23.01,69.3,heavy
+ITEM00282,2025-06-23 08:08:00,2025-08-13 12:29:45,recycled,Footwear,Shoes,Sneakers,Men,0,"0,0,0,0,0,100,0,0",Blue,44,Zara,bulkWholesale,29.94,0.0,heavy
+ITEM00283,2025-06-24 06:52:57,2025-08-28 22:20:51,sold,One-Piece,Dress,Casual Dress,Unisex,6,"0,0,29,0,0,0,0,71",Blue,38,Patagonia,donation,24.32,54.5,minor
+ITEM00284,2025-06-15 13:47:08,2025-07-22 22:32:33,sold,Topwear,Jacket,Winter Coat,Unisex,6,"0,0,0,0,0,100,0,0",White,L,Zara,bulkWholesale,16.94,30.82,heavy
+ITEM00285,2025-06-19 10:31:15,2025-09-25 14:14:57,sold,Footwear,Shoes,Heels,Men,3,"0,45,0,0,0,55,0,0",Blue,34,Patagonia,donation,18.5,73.93,minor
+ITEM00286,2025-06-20 08:34:19,2025-07-30 23:28:00,recycled,Topwear,Shirt,T-Shirt,Men,1,"100,0,0,0,0,0,0,0",Blue,L,Zara,userSellIn,6.95,0.0,none
+ITEM00287,2025-07-02 04:37:00,2025-08-19 07:50:38,sold,Bottomwear,Skirt,Maxi Skirt,Women,10,"0,0,0,0,100,0,0,0",Green,Kids,Uniqlo,donation,18.28,63.65,none
+ITEM00288,2025-06-07 06:03:34,2025-08-31 20:22:58,sold,Bottomwear,Skirt,Maxi Skirt,Women,5,"0,0,53,0,0,0,47,0",Beige,M,H&M,bulkWholesale,3.06,5.75,moderate
+ITEM00289,2025-06-07 14:45:34,2025-07-15 20:19:58,sold,One-Piece,Dress,Evening Dress,Men,7,"0,25,0,0,0,0,75,0",White,44,Zara,userSellIn,23.84,62.06,heavy
+ITEM00290,2025-06-28 14:40:47,2025-08-29 04:08:28,disposed,Topwear,Jacket,Hoodie,Kids,1,"0,0,61,39,0,0,0,0",Beige,L,Levi's,userSellIn,15.27,0.0,heavy
+ITEM00291,2025-06-12 03:43:30,2025-08-21 18:08:59,disposed,One-Piece,Dress,Summer Dress,Unisex,0,"0,0,0,24,0,0,76,0",Multicolor,XS,Adidas,userSellIn,28.78,0.0,minor
+ITEM00292,2025-07-01 11:01:06,2025-08-10 17:37:34,sold,Topwear,Jacket,Winter Coat,Unisex,3,"0,44,56,0,0,0,0,0",Black,40,Levi's,donation,11.3,33.96,none
+ITEM00293,2025-06-14 10:16:24,2025-09-19 03:55:43,sold,Footwear,Shoes,Boots,Kids,9,"100,0,0,0,0,0,0,0",Red,44,Gucci,bulkWholesale,14.04,31.94,minor
+ITEM00294,2025-06-07 14:00:14,2025-08-12 07:57:42,recycled,Topwear,Jacket,Blazer,Unisex,2,"100,0,0,0,0,0,0,0",Blue,XS,Adidas,donation,2.23,0.0,moderate
+ITEM00295,2025-07-01 21:28:09,2025-10-01 03:07:36,sold,Footwear,Shoes,Boots,Unisex,3,"70,0,30,0,0,0,0,0",Red,Kids,Gucci,userSellIn,25.15,83.78,heavy
+ITEM00296,2025-06-22 06:17:49,2025-09-26 07:56:44,sold,Bottomwear,Pants,Chinos,Kids,3,"0,0,0,0,0,0,100,0",Multicolor,40,Adidas,bulkWholesale,0.39,1.36,none
+ITEM00297,2025-06-16 20:32:20,2025-09-13 21:56:23,recycled,Footwear,Shoes,Boots,Women,1,"0,0,0,0,0,0,0,100",Multicolor,38,Zara,userSellIn,4.77,0.0,minor
+ITEM00298,2025-06-26 09:54:34,2025-08-10 11:46:32,sold,Footwear,Shoes,Heels,Men,8,"29,0,71,0,0,0,0,0",Beige,38,Zara,bulkWholesale,10.84,21.88,none
+ITEM00299,2025-06-28 23:26:47,2025-07-17 07:30:36,sold,Bottomwear,Pants,Shorts,Men,8,"0,12,0,88,0,0,0,0",Beige,44,Uniqlo,donation,26.95,47.52,none
+ITEM00300,2025-06-06 00:12:08,2025-08-04 06:49:41,sold,Footwear,Shoes,Boots,Men,9,"0,0,0,0,100,0,0,0",Red,38,Patagonia,bulkWholesale,1.06,1.81,moderate
+ITEM00301,2025-06-26 05:57:27,2025-07-26 04:24:29,sold,Footwear,Shoes,Heels,Women,9,"0,0,0,0,100,0,0,0",Red,38,Gucci,userSellIn,2.49,8.16,heavy
+ITEM00302,2025-06-27 04:16:11,2025-07-24 18:09:54,sold,Bottomwear,Skirt,Mini Skirt,Men,9,"0,100,0,0,0,0,0,0",Green,36,Levi's,donation,23.44,41.41,heavy
+ITEM00303,2025-06-22 19:13:27,2025-08-25 02:21:35,recycled,Footwear,Shoes,Boots,Unisex,2,"0,0,0,100,0,0,0,0",Black,M,Gucci,donation,20.85,0.0,minor
+ITEM00304,2025-06-08 09:31:22,2025-09-14 14:57:05,sold,One-Piece,Dress,Casual Dress,Women,3,"0,0,0,0,0,100,0,0",Blue,38,Zara,bulkWholesale,18.99,72.07,moderate
+ITEM00305,2025-06-15 00:49:10,2025-08-24 09:08:48,sold,Accessories,General,Belt,Kids,6,"0,0,0,0,0,0,100,0",White,Kids,Nike,donation,29.63,101.08,moderate
+ITEM00306,2025-06-21 06:35:41,2025-07-22 05:40:55,sold,Accessories,General,Handbag,Women,4,"76,0,0,0,0,0,24,0",Multicolor,XL,Adidas,bulkWholesale,0.86,2.26,moderate
+ITEM00307,2025-06-25 04:02:16,2025-08-17 05:50:21,sold,Footwear,Shoes,Sneakers,Men,9,"0,92,0,8,0,0,0,0",Blue,Kids,Patagonia,bulkWholesale,4.14,15.67,minor
+ITEM00308,2025-06-25 17:59:37,2025-09-02 10:12:44,sold,Accessories,General,Belt,Unisex,8,"0,0,40,0,0,60,0,0",White,44,Uniqlo,bulkWholesale,20.31,45.37,minor
+ITEM00309,2025-06-17 12:31:33,2025-07-23 17:02:18,sold,One-Piece,Dress,Casual Dress,Women,7,"0,0,100,0,0,0,0,0",Multicolor,42,Zara,userSellIn,15.96,49.47,heavy
+ITEM00310,2025-06-13 14:50:52,2025-09-10 21:17:17,sold,Topwear,Shirt,Blouse,Unisex,10,"84,0,0,0,0,0,0,16",Red,S,H&M,bulkWholesale,14.74,29.38,moderate
+ITEM00311,2025-06-15 20:50:46,2025-08-28 02:19:07,recycled,Footwear,Shoes,Boots,Men,2,"0,0,0,0,0,100,0,0",Beige,XL,Patagonia,userSellIn,23.8,0.0,minor
+ITEM00312,2025-06-27 12:45:19,2025-09-03 05:39:50,sold,Footwear,Shoes,Sneakers,Kids,6,"0,0,0,0,0,0,0,100",White,M,Uniqlo,bulkWholesale,23.64,90.23,moderate
+ITEM00313,2025-06-15 00:00:48,2025-08-20 13:58:07,sold,Footwear,Shoes,Sneakers,Unisex,5,"0,0,0,0,0,0,0,100",Red,36,Gucci,bulkWholesale,29.34,74.0,heavy
+ITEM00314,2025-06-16 09:59:38,2025-07-16 21:02:07,recycled,Accessories,General,Scarf,Women,2,"0,0,0,0,100,0,0,0",Grey,40,Nike,userSellIn,28.02,0.0,heavy
+ITEM00315,2025-06-19 22:01:12,2025-09-02 03:38:20,sold,Accessories,General,Belt,Unisex,6,"0,0,100,0,0,0,0,0",Green,Kids,Uniqlo,userSellIn,23.77,73.82,minor
+ITEM00316,2025-06-15 12:54:21,2025-09-29 23:34:30,sold,Footwear,Shoes,Sneakers,Men,3,"0,0,0,0,0,0,100,0",Black,38,Patagonia,donation,3.0,4.98,moderate
+ITEM00317,2025-06-24 03:32:29,2025-10-02 16:46:45,sold,Footwear,Shoes,Sneakers,Men,4,"0,56,44,0,0,0,0,0",Beige,38,Levi's,bulkWholesale,23.58,46.62,heavy
+ITEM00318,2025-06-14 13:32:58,2025-09-18 07:27:47,recycled,Topwear,Jacket,Winter Coat,Women,0,"0,0,0,60,0,0,0,40",Red,42,Adidas,bulkWholesale,20.53,0.0,heavy
+ITEM00319,2025-06-21 21:20:54,2025-08-26 18:11:32,recycled,Bottomwear,Skirt,Maxi Skirt,Unisex,2,"0,0,0,0,0,0,0,100",Grey,S,Levi's,bulkWholesale,24.0,0.0,none
+ITEM00320,2025-06-16 03:36:57,2025-09-05 23:21:39,sold,Accessories,General,Belt,Unisex,10,"0,0,0,0,0,87,13,0",Grey,40,Uniqlo,bulkWholesale,18.35,57.63,none
+ITEM00321,2025-06-18 09:36:45,2025-09-10 01:12:15,disposed,Accessories,General,Belt,Unisex,0,"0,23,0,0,0,0,77,0",Blue,L,Uniqlo,donation,21.64,0.0,minor
+ITEM00322,2025-06-24 10:50:34,2025-09-30 09:17:07,sold,Topwear,Shirt,Blouse,Women,4,"41,0,0,0,59,0,0,0",Green,S,Gucci,userSellIn,24.39,75.96,none
+ITEM00323,2025-06-14 06:48:04,2025-08-16 06:51:14,recycled,One-Piece,Dress,Summer Dress,Women,0,"100,0,0,0,0,0,0,0",Green,S,Levi's,bulkWholesale,7.76,0.0,moderate
+ITEM00324,2025-07-01 03:53:17,2025-09-13 13:24:42,sold,Topwear,Jacket,Winter Coat,Unisex,6,"0,0,0,0,0,0,62,38",Green,L,Adidas,donation,23.51,73.42,heavy
+ITEM00325,2025-06-18 21:26:23,2025-08-16 08:50:56,sold,Accessories,General,Belt,Men,7,"0,100,0,0,0,0,0,0",Beige,42,Gucci,donation,27.8,54.57,minor
+ITEM00326,2025-06-24 21:27:41,2025-09-24 21:05:28,recycled,Topwear,Jacket,Hoodie,Unisex,2,"0,11,0,0,89,0,0,0",Red,M,Uniqlo,donation,13.93,0.0,minor
+ITEM00327,2025-06-28 17:42:31,2025-08-29 13:06:27,sold,Footwear,Shoes,Boots,Kids,7,"0,0,0,0,0,100,0,0",Grey,36,Gucci,bulkWholesale,27.12,83.01,heavy
+ITEM00328,2025-06-06 01:45:34,2025-08-02 22:54:56,recycled,One-Piece,Dress,Evening Dress,Unisex,2,"0,0,29,0,0,0,0,71",Beige,XS,H&M,donation,9.12,0.0,moderate
+ITEM00329,2025-06-21 06:25:13,2025-09-19 19:30:54,disposed,Accessories,General,Scarf,Men,1,"38,0,0,0,0,0,62,0",Black,XS,Adidas,donation,18.49,0.0,moderate
+ITEM00330,2025-06-15 09:24:31,2025-08-01 14:43:27,disposed,Topwear,Shirt,Blouse,Women,1,"0,100,0,0,0,0,0,0",Grey,38,Patagonia,bulkWholesale,20.65,0.0,moderate
+ITEM00331,2025-06-10 18:43:24,2025-09-06 08:31:02,sold,Footwear,Shoes,Sneakers,Unisex,10,"0,0,48,0,0,52,0,0",White,L,H&M,userSellIn,17.84,48.41,moderate
+ITEM00332,2025-06-12 07:57:45,2025-08-13 09:26:20,disposed,Topwear,Jacket,Winter Coat,Men,1,"0,0,0,0,0,0,0,100",Black,34,Zara,bulkWholesale,21.35,0.0,minor
+ITEM00333,2025-06-14 14:07:05,2025-07-17 23:25:19,recycled,Bottomwear,Pants,Chinos,Men,0,"0,65,0,0,35,0,0,0",Black,L,H&M,donation,14.58,0.0,minor
+ITEM00334,2025-06-25 19:12:31,2025-09-29 10:46:04,sold,Topwear,Shirt,Polo,Kids,7,"0,0,100,0,0,0,0,0",Grey,42,Zara,bulkWholesale,10.49,37.75,heavy
+ITEM00335,2025-06-09 18:17:49,2025-08-25 00:02:50,disposed,Bottomwear,Skirt,Maxi Skirt,Men,2,"0,0,0,0,0,0,100,0",Beige,34,Patagonia,userSellIn,4.95,0.0,heavy
+ITEM00336,2025-06-29 07:35:31,2025-10-03 10:06:38,sold,Footwear,Shoes,Heels,Men,7,"0,0,0,56,44,0,0,0",Black,36,Adidas,userSellIn,6.12,17.41,minor
+ITEM00337,2025-06-07 10:44:01,2025-08-14 22:28:23,recycled,Footwear,Shoes,Sneakers,Kids,2,"0,0,100,0,0,0,0,0",Beige,M,Zara,donation,13.33,0.0,none
+ITEM00338,2025-06-11 04:13:30,2025-09-03 07:18:10,sold,Footwear,Shoes,Boots,Unisex,3,"0,0,0,0,0,0,0,100",Grey,36,H&M,donation,15.95,44.14,none
+ITEM00339,2025-06-12 23:07:50,2025-09-11 20:30:14,sold,Topwear,Jacket,Blazer,Kids,8,"0,100,0,0,0,0,0,0",White,M,H&M,donation,3.69,12.82,heavy
+ITEM00340,2025-06-25 03:35:45,2025-07-28 08:39:09,recycled,Bottomwear,Skirt,Mini Skirt,Men,1,"0,100,0,0,0,0,0,0",White,XL,Uniqlo,donation,25.43,0.0,minor
+ITEM00341,2025-07-03 09:11:57,2025-09-08 08:40:05,sold,Accessories,General,Scarf,Kids,3,"0,0,100,0,0,0,0,0",Green,Kids,Patagonia,donation,20.74,33.36,none
+ITEM00342,2025-07-04 13:58:01,2025-08-07 07:34:17,sold,Footwear,Shoes,Sneakers,Women,10,"0,0,60,0,0,0,0,40",Blue,44,Nike,userSellIn,12.14,24.73,none
+ITEM00343,2025-06-28 02:54:06,2025-08-25 23:15:23,sold,One-Piece,Dress,Summer Dress,Men,5,"64,36,0,0,0,0,0,0",Red,40,Nike,bulkWholesale,11.33,26.79,minor
+ITEM00344,2025-07-05 03:09:07,2025-09-21 08:56:46,sold,Topwear,Jacket,Blazer,Women,10,"68,0,32,0,0,0,0,0",Green,XL,Nike,userSellIn,18.35,42.11,moderate
+ITEM00345,2025-06-20 15:43:01,2025-07-26 03:10:59,sold,One-Piece,Dress,Summer Dress,Unisex,3,"0,76,0,0,0,0,24,0",Multicolor,L,Adidas,userSellIn,4.95,13.55,none
+ITEM00346,2025-06-19 19:40:42,2025-08-15 18:04:54,sold,Footwear,Shoes,Sneakers,Unisex,8,"0,0,88,0,0,0,0,12",Beige,40,Adidas,donation,22.8,88.9,none
+ITEM00347,2025-06-19 14:46:02,2025-09-06 01:39:03,sold,One-Piece,Dress,Casual Dress,Men,6,"0,0,0,73,0,0,27,0",Beige,34,Levi's,donation,28.32,63.74,none
+ITEM00348,2025-06-21 06:43:10,2025-07-30 15:37:56,disposed,Bottomwear,Skirt,Maxi Skirt,Kids,1,"0,0,0,0,64,0,0,36",Green,40,Levi's,userSellIn,7.1,0.0,minor
+ITEM00349,2025-07-02 22:32:13,2025-09-10 05:42:50,sold,One-Piece,Dress,Evening Dress,Kids,5,"0,0,0,100,0,0,0,0",Multicolor,S,Adidas,donation,0.25,0.65,none
+ITEM00350,2025-06-09 00:41:35,2025-08-17 06:03:00,sold,Accessories,General,Handbag,Kids,10,"0,0,0,0,0,100,0,0",Beige,36,Levi's,userSellIn,20.25,31.24,none
+ITEM00351,2025-06-26 07:46:53,2025-07-25 07:23:09,disposed,Footwear,Shoes,Boots,Kids,0,"0,0,0,0,0,100,0,0",Multicolor,44,Zara,bulkWholesale,26.85,0.0,moderate
+ITEM00352,2025-06-29 12:50:16,2025-09-10 20:19:55,sold,Topwear,Jacket,Winter Coat,Women,5,"0,0,0,0,0,100,0,0",Blue,44,Gucci,donation,11.33,26.72,moderate
+ITEM00353,2025-06-17 05:12:18,2025-09-19 20:26:53,sold,Topwear,Shirt,T-Shirt,Men,8,"0,0,0,0,0,100,0,0",Black,44,Gucci,donation,22.79,81.34,moderate
+ITEM00354,2025-06-16 21:50:32,2025-07-26 12:40:26,sold,Footwear,Shoes,Heels,Men,9,"0,0,0,0,100,0,0,0",Grey,40,Uniqlo,userSellIn,21.96,58.62,moderate
+ITEM00355,2025-06-08 08:23:28,2025-09-04 22:10:23,sold,Topwear,Jacket,Winter Coat,Kids,3,"0,0,76,0,0,24,0,0",Black,L,Zara,userSellIn,23.74,64.93,minor
+ITEM00356,2025-06-21 04:56:58,2025-09-02 18:28:39,recycled,Accessories,General,Handbag,Men,2,"0,0,0,64,0,0,36,0",Red,L,Nike,bulkWholesale,26.45,0.0,moderate
+ITEM00357,2025-06-22 19:44:38,2025-07-22 15:59:03,sold,Footwear,Shoes,Sneakers,Men,7,"0,0,0,0,0,0,0,100",Blue,34,Zara,bulkWholesale,16.9,39.47,none
+ITEM00358,2025-06-16 05:23:27,2025-08-02 11:54:20,sold,Topwear,Shirt,T-Shirt,Kids,9,"100,0,0,0,0,0,0,0",Multicolor,XL,Patagonia,donation,25.56,72.93,moderate
+ITEM00359,2025-07-03 15:43:28,2025-08-27 17:49:24,sold,Bottomwear,Skirt,Maxi Skirt,Women,9,"55,0,0,0,0,0,45,0",Black,36,Nike,userSellIn,28.57,100.02,moderate
+ITEM00360,2025-06-24 04:46:59,2025-09-22 18:32:30,sold,Topwear,Jacket,Winter Coat,Women,3,"48,52,0,0,0,0,0,0",Black,40,H&M,donation,2.03,4.37,minor
+ITEM00361,2025-06-07 09:12:54,2025-09-18 15:48:26,sold,Accessories,General,Scarf,Unisex,9,"0,0,31,0,0,69,0,0",Grey,M,Uniqlo,donation,2.84,6.89,none
+ITEM00362,2025-07-01 15:58:56,2025-09-15 17:32:15,sold,One-Piece,Dress,Summer Dress,Men,9,"38,0,0,0,0,62,0,0",White,XS,Levi's,bulkWholesale,14.12,22.85,heavy
+ITEM00363,2025-06-08 02:03:11,2025-09-16 05:29:03,sold,Footwear,Shoes,Boots,Unisex,3,"0,0,67,0,0,33,0,0",Blue,M,Adidas,donation,29.23,86.65,heavy
+ITEM00364,2025-07-01 18:16:09,2025-08-05 19:45:50,sold,Topwear,Jacket,Blazer,Unisex,3,"0,0,100,0,0,0,0,0",Blue,Kids,Patagonia,userSellIn,10.0,27.6,none
+ITEM00365,2025-06-30 00:35:43,2025-09-03 11:21:08,disposed,Accessories,General,Belt,Unisex,1,"0,0,0,0,0,0,27,73",White,XL,H&M,userSellIn,19.14,0.0,moderate
+ITEM00366,2025-06-24 01:56:43,2025-08-30 23:46:34,disposed,Footwear,Shoes,Boots,Kids,2,"0,0,27,0,0,0,0,73",Green,44,Uniqlo,userSellIn,11.25,0.0,none
+ITEM00367,2025-06-10 02:24:30,2025-08-30 07:30:15,recycled,Footwear,Shoes,Heels,Unisex,2,"0,0,100,0,0,0,0,0",Black,44,Patagonia,donation,25.52,0.0,moderate
+ITEM00368,2025-06-30 00:21:47,2025-09-20 12:44:20,sold,Bottomwear,Skirt,Maxi Skirt,Unisex,5,"0,0,0,0,0,0,0,100",White,34,Patagonia,donation,28.58,96.75,moderate
+ITEM00369,2025-06-16 03:06:01,2025-08-21 05:35:31,sold,Topwear,Shirt,Blouse,Women,9,"0,0,100,0,0,0,0,0",Grey,34,Gucci,userSellIn,12.54,23.39,moderate
+ITEM00370,2025-06-07 10:36:17,2025-10-03 02:09:32,sold,Footwear,Shoes,Sneakers,Men,4,"9,0,0,0,0,0,91,0",Green,34,Gucci,userSellIn,29.58,74.16,none
+ITEM00371,2025-06-06 15:15:37,2025-07-20 08:40:29,sold,Accessories,General,Belt,Unisex,3,"0,0,0,100,0,0,0,0",White,XL,H&M,donation,22.76,71.25,none
+ITEM00372,2025-06-08 06:30:45,2025-09-04 20:08:56,sold,Footwear,Shoes,Heels,Men,8,"37,0,0,0,0,63,0,0",Beige,S,Adidas,userSellIn,4.32,10.1,heavy
+ITEM00373,2025-06-10 09:51:09,2025-08-18 02:46:21,sold,One-Piece,Dress,Evening Dress,Unisex,10,"0,0,0,40,0,0,60,0",Grey,XS,Levi's,donation,16.63,32.11,moderate
+ITEM00374,2025-06-07 04:27:51,2025-08-17 09:55:53,sold,Topwear,Jacket,Hoodie,Men,5,"0,0,30,0,0,0,0,70",Blue,XS,Nike,donation,13.27,23.49,heavy
+ITEM00375,2025-06-09 22:46:36,2025-09-28 13:09:40,sold,Footwear,Shoes,Sneakers,Kids,7,"0,100,0,0,0,0,0,0",Green,36,Nike,bulkWholesale,9.39,24.12,minor
+ITEM00376,2025-06-23 15:51:27,2025-09-14 00:07:43,disposed,Accessories,General,Belt,Women,0,"0,0,26,0,0,74,0,0",Multicolor,S,Gucci,bulkWholesale,21.14,0.0,moderate
+ITEM00377,2025-06-20 17:43:59,2025-09-16 14:20:15,recycled,Footwear,Shoes,Boots,Kids,2,"35,0,0,0,65,0,0,0",Grey,38,Zara,userSellIn,27.87,0.0,minor
+ITEM00378,2025-06-16 18:07:42,2025-09-30 20:59:33,sold,Bottomwear,Skirt,Maxi Skirt,Unisex,7,"0,0,66,0,0,0,34,0",Black,XL,Nike,bulkWholesale,3.37,11.46,moderate
+ITEM00379,2025-06-23 01:30:41,2025-07-21 04:46:23,recycled,One-Piece,Dress,Casual Dress,Unisex,0,"100,0,0,0,0,0,0,0",Blue,40,Nike,donation,24.28,0.0,heavy
+ITEM00380,2025-07-03 05:40:27,2025-07-30 19:45:32,recycled,Topwear,Shirt,T-Shirt,Men,2,"0,0,0,0,0,100,0,0",Grey,XS,Zara,donation,23.78,0.0,moderate
+ITEM00381,2025-06-26 06:03:46,2025-08-21 20:36:08,sold,Footwear,Shoes,Sneakers,Men,6,"0,0,0,0,0,0,0,100",Grey,XS,H&M,bulkWholesale,13.23,26.79,moderate
+ITEM00382,2025-06-15 10:10:12,2025-07-22 04:26:30,sold,Bottomwear,Pants,Chinos,Unisex,4,"0,0,0,22,78,0,0,0",Blue,44,H&M,userSellIn,28.33,101.25,none
+ITEM00383,2025-06-16 17:38:50,2025-10-02 11:57:50,sold,Topwear,Shirt,Blouse,Unisex,5,"100,0,0,0,0,0,0,0",Green,40,Nike,userSellIn,5.65,10.65,heavy
+ITEM00384,2025-06-22 00:56:18,2025-07-17 01:31:30,disposed,Accessories,General,Scarf,Kids,1,"0,0,0,0,0,0,100,0",Multicolor,42,Adidas,userSellIn,16.08,0.0,heavy
+ITEM00385,2025-07-05 06:13:55,2025-08-10 00:44:48,recycled,Footwear,Shoes,Boots,Kids,1,"0,0,0,22,0,0,0,78",Beige,XS,Uniqlo,donation,9.92,0.0,moderate
+ITEM00386,2025-06-06 18:41:19,2025-09-08 07:14:27,disposed,One-Piece,Dress,Evening Dress,Men,1,"0,0,0,0,0,0,0,100",Blue,M,Levi's,donation,12.45,0.0,minor
+ITEM00387,2025-06-11 06:13:15,2025-07-22 13:45:30,sold,Topwear,Jacket,Hoodie,Kids,10,"0,0,0,0,100,0,0,0",Grey,36,H&M,userSellIn,10.31,38.43,none
+ITEM00388,2025-06-06 22:08:08,2025-07-31 06:20:29,sold,Footwear,Shoes,Boots,Women,5,"0,0,0,0,0,0,0,100",Red,40,Nike,bulkWholesale,4.9,19.0,minor
+ITEM00389,2025-06-29 22:16:10,2025-07-19 05:46:09,sold,Topwear,Shirt,Blouse,Men,7,"0,0,0,0,0,0,6,94",Grey,XS,Adidas,bulkWholesale,22.88,80.12,heavy
+ITEM00390,2025-06-13 12:58:47,2025-10-01 23:41:01,disposed,Footwear,Shoes,Sneakers,Kids,2,"0,51,0,49,0,0,0,0",Multicolor,L,Uniqlo,donation,21.14,0.0,heavy
+ITEM00391,2025-07-01 03:34:43,2025-07-17 13:05:18,disposed,Topwear,Jacket,Blazer,Men,2,"0,0,0,56,0,0,0,44",Multicolor,L,H&M,donation,19.86,0.0,heavy
+ITEM00392,2025-06-20 01:03:26,2025-08-30 10:58:48,sold,One-Piece,Dress,Evening Dress,Kids,4,"100,0,0,0,0,0,0,0",Multicolor,36,Levi's,donation,22.41,88.74,heavy
+ITEM00393,2025-06-15 12:54:41,2025-08-29 22:59:39,sold,Accessories,General,Handbag,Women,9,"0,0,7,0,93,0,0,0",Green,L,H&M,donation,29.79,68.29,moderate
+ITEM00394,2025-07-01 10:22:11,2025-07-25 14:22:51,sold,Footwear,Shoes,Sneakers,Women,5,"0,0,0,0,0,100,0,0",Red,S,Patagonia,donation,21.35,69.46,moderate
+ITEM00395,2025-06-12 20:33:44,2025-08-18 17:35:40,sold,Bottomwear,Pants,Chinos,Women,4,"0,0,100,0,0,0,0,0",Red,XL,Gucci,userSellIn,8.87,15.77,moderate
+ITEM00396,2025-06-07 22:48:16,2025-08-23 08:17:14,sold,Bottomwear,Pants,Jeans,Women,10,"0,0,0,76,24,0,0,0",Blue,XL,Adidas,bulkWholesale,18.78,72.08,heavy
+ITEM00397,2025-06-28 15:22:49,2025-07-19 19:26:23,recycled,Accessories,General,Handbag,Kids,0,"0,0,0,0,0,0,100,0",Multicolor,38,H&M,donation,29.46,0.0,heavy
+ITEM00398,2025-07-03 05:06:03,2025-09-22 13:22:44,disposed,Accessories,General,Handbag,Women,2,"0,0,0,0,0,0,0,100",Black,S,H&M,bulkWholesale,28.84,0.0,heavy
+ITEM00399,2025-07-02 02:32:31,2025-09-17 22:55:47,recycled,Footwear,Shoes,Heels,Women,2,"0,100,0,0,0,0,0,0",Multicolor,M,Gucci,userSellIn,11.45,0.0,heavy
+ITEM00400,2025-06-28 15:00:55,2025-10-01 08:25:53,sold,Bottomwear,Pants,Shorts,Unisex,4,"0,0,0,100,0,0,0,0",Green,38,Uniqlo,userSellIn,28.39,83.7,heavy
+ITEM00401,2025-06-29 21:44:13,2025-09-13 12:25:52,sold,Footwear,Shoes,Sneakers,Unisex,9,"0,0,0,0,0,57,0,43",Blue,42,Uniqlo,donation,7.57,21.74,minor
+ITEM00402,2025-06-12 22:10:28,2025-09-29 11:15:32,sold,Accessories,General,Belt,Unisex,4,"0,0,0,0,0,92,8,0",Beige,L,Zara,userSellIn,18.18,28.68,heavy
+ITEM00403,2025-07-05 04:54:11,2025-09-11 21:46:01,sold,Topwear,Jacket,Hoodie,Unisex,8,"0,0,0,0,0,100,0,0",Red,XL,Gucci,donation,21.1,74.06,moderate
+ITEM00404,2025-06-11 22:12:48,2025-07-26 09:34:05,recycled,Footwear,Shoes,Sneakers,Kids,0,"26,0,0,74,0,0,0,0",Grey,XL,H&M,bulkWholesale,2.93,0.0,heavy
+ITEM00405,2025-06-08 00:03:56,2025-09-14 07:25:35,sold,One-Piece,Dress,Summer Dress,Kids,3,"0,0,76,0,0,0,0,24",Beige,44,Levi's,donation,15.16,50.96,moderate
+ITEM00406,2025-06-14 14:53:50,2025-08-10 22:16:25,sold,Topwear,Jacket,Winter Coat,Men,10,"0,0,0,37,63,0,0,0",Multicolor,S,Uniqlo,bulkWholesale,5.54,12.75,moderate
+ITEM00407,2025-06-22 03:18:00,2025-08-27 13:23:12,sold,Topwear,Shirt,Polo,Unisex,3,"0,0,100,0,0,0,0,0",Blue,M,Nike,bulkWholesale,6.13,22.19,heavy
+ITEM00408,2025-06-09 12:28:49,2025-09-21 16:38:49,sold,Bottomwear,Skirt,Maxi Skirt,Unisex,7,"0,0,0,0,100,0,0,0",Grey,XL,Zara,donation,9.55,22.02,heavy
+ITEM00409,2025-06-20 06:33:11,2025-08-04 01:04:54,sold,Topwear,Shirt,T-Shirt,Unisex,9,"0,0,0,0,44,0,56,0",Beige,44,Gucci,userSellIn,5.05,19.23,none
+ITEM00410,2025-06-11 20:47:58,2025-09-01 07:46:02,sold,Topwear,Shirt,Blouse,Kids,6,"100,0,0,0,0,0,0,0",Black,L,Uniqlo,donation,20.65,80.09,moderate
+ITEM00411,2025-06-23 17:38:24,2025-09-21 15:01:58,sold,Bottomwear,Skirt,Mini Skirt,Kids,8,"0,15,85,0,0,0,0,0",White,44,Nike,bulkWholesale,26.61,66.94,moderate
+ITEM00412,2025-06-15 07:16:33,2025-07-21 11:29:17,sold,Footwear,Shoes,Boots,Unisex,8,"0,0,35,0,0,0,0,65",Multicolor,42,Gucci,userSellIn,9.8,21.05,heavy
+ITEM00413,2025-07-05 00:40:33,2025-09-08 22:51:35,sold,Footwear,Shoes,Heels,Kids,4,"0,0,0,0,0,0,100,0",Black,36,Adidas,bulkWholesale,12.48,30.1,minor
+ITEM00414,2025-06-24 01:23:40,2025-09-26 23:58:19,sold,Bottomwear,Pants,Chinos,Kids,4,"0,0,0,17,0,83,0,0",Multicolor,36,Patagonia,bulkWholesale,5.55,13.92,heavy
+ITEM00415,2025-06-11 14:29:56,2025-07-24 18:03:06,sold,Accessories,General,Scarf,Women,7,"0,0,0,0,0,0,100,0",Green,44,Gucci,bulkWholesale,3.97,6.93,heavy
+ITEM00416,2025-06-20 18:40:31,2025-08-06 21:52:25,sold,One-Piece,Dress,Casual Dress,Unisex,8,"0,0,0,88,0,12,0,0",Multicolor,S,Levi's,userSellIn,26.5,95.09,heavy
+ITEM00417,2025-06-23 11:07:49,2025-08-08 23:09:49,sold,Bottomwear,Skirt,Maxi Skirt,Women,8,"49,0,0,51,0,0,0,0",Grey,36,Zara,donation,25.43,101.44,none
+ITEM00418,2025-06-11 01:38:52,2025-08-18 12:40:21,disposed,Accessories,General,Scarf,Women,0,"0,0,0,0,0,100,0,0",Beige,44,Nike,userSellIn,10.54,0.0,heavy
+ITEM00419,2025-06-28 08:53:01,2025-09-23 19:18:53,sold,Bottomwear,Skirt,Maxi Skirt,Men,6,"0,0,41,0,0,0,59,0",Red,M,Levi's,userSellIn,16.2,54.62,minor
+ITEM00420,2025-06-07 21:00:50,2025-09-02 07:33:38,recycled,One-Piece,Dress,Casual Dress,Men,1,"100,0,0,0,0,0,0,0",Multicolor,40,Patagonia,bulkWholesale,15.07,0.0,none
+ITEM00421,2025-06-09 01:44:49,2025-08-02 08:52:20,disposed,One-Piece,Dress,Summer Dress,Unisex,0,"0,100,0,0,0,0,0,0",Beige,42,Uniqlo,donation,8.39,0.0,moderate
+ITEM00422,2025-06-08 07:21:46,2025-07-17 07:43:50,sold,Accessories,General,Belt,Women,5,"0,0,11,0,0,0,89,0",Black,S,Nike,userSellIn,0.3,0.53,minor
+ITEM00423,2025-06-22 19:33:40,2025-07-19 12:57:23,sold,One-Piece,Dress,Evening Dress,Women,6,"0,0,0,0,0,7,0,93",Black,38,Nike,userSellIn,23.61,67.35,minor
+ITEM00424,2025-06-24 18:44:36,2025-09-09 13:05:02,sold,Bottomwear,Pants,Shorts,Unisex,5,"0,0,0,0,0,0,80,20",Blue,XL,Adidas,bulkWholesale,23.69,69.1,none
+ITEM00425,2025-06-18 16:26:20,2025-08-04 08:00:48,sold,Accessories,General,Handbag,Men,4,"59,41,0,0,0,0,0,0",Red,XL,Levi's,donation,12.03,20.28,moderate
+ITEM00426,2025-07-02 16:23:26,2025-08-04 15:08:26,sold,Bottomwear,Skirt,Mini Skirt,Men,6,"0,0,0,0,0,100,0,0",Black,38,Zara,userSellIn,8.94,30.95,moderate
+ITEM00427,2025-06-24 20:36:04,2025-08-13 07:44:07,disposed,Bottomwear,Skirt,Mini Skirt,Unisex,0,"0,0,0,0,0,76,0,24",Blue,38,H&M,bulkWholesale,1.77,0.0,minor
+ITEM00428,2025-06-29 23:49:13,2025-08-01 05:16:30,sold,Footwear,Shoes,Sneakers,Men,10,"0,100,0,0,0,0,0,0",Green,XS,Uniqlo,bulkWholesale,14.9,33.49,minor
+ITEM00429,2025-06-23 08:11:50,2025-08-17 17:22:19,disposed,Bottomwear,Skirt,Mini Skirt,Women,0,"0,0,14,0,86,0,0,0",Red,36,Zara,donation,24.89,0.0,moderate
+ITEM00430,2025-06-14 15:45:37,2025-08-06 04:52:36,sold,Bottomwear,Pants,Chinos,Women,6,"48,0,0,0,52,0,0,0",Blue,M,Adidas,userSellIn,20.57,65.31,moderate
+ITEM00431,2025-06-11 20:32:28,2025-09-25 02:31:23,sold,Accessories,General,Belt,Unisex,10,"0,0,0,0,0,100,0,0",Beige,S,Patagonia,bulkWholesale,5.58,11.96,none
+ITEM00432,2025-07-02 15:47:56,2025-08-24 01:56:09,sold,One-Piece,Dress,Summer Dress,Men,6,"100,0,0,0,0,0,0,0",White,M,H&M,userSellIn,26.35,85.21,moderate
+ITEM00433,2025-06-06 12:11:54,2025-07-25 15:24:25,sold,Accessories,General,Handbag,Kids,5,"0,0,0,100,0,0,0,0",Blue,34,Adidas,bulkWholesale,27.99,65.23,none
+ITEM00434,2025-06-17 13:15:00,2025-08-23 15:15:30,sold,Footwear,Shoes,Sneakers,Men,5,"0,0,40,0,0,60,0,0",Black,S,Patagonia,userSellIn,16.85,47.5,minor
+ITEM00435,2025-06-06 23:19:47,2025-08-17 13:07:32,sold,One-Piece,Dress,Evening Dress,Men,8,"0,0,0,0,0,16,0,84",Beige,XL,H&M,bulkWholesale,6.16,15.97,minor
+ITEM00436,2025-06-08 12:11:51,2025-08-04 00:46:30,sold,Topwear,Jacket,Blazer,Women,8,"100,0,0,0,0,0,0,0",Beige,XL,Adidas,userSellIn,12.35,27.03,heavy
+ITEM00437,2025-06-18 03:49:49,2025-09-17 12:40:40,sold,Accessories,General,Scarf,Unisex,3,"0,0,0,45,0,0,55,0",Beige,34,Uniqlo,userSellIn,9.75,38.15,none
+ITEM00438,2025-06-10 03:25:02,2025-09-30 16:53:26,sold,One-Piece,Dress,Summer Dress,Unisex,7,"100,0,0,0,0,0,0,0",Grey,36,H&M,donation,4.53,11.59,minor
+ITEM00439,2025-06-06 19:26:39,2025-09-07 11:45:43,recycled,Footwear,Shoes,Heels,Unisex,1,"0,0,0,100,0,0,0,0",Black,42,Patagonia,userSellIn,13.16,0.0,moderate
+ITEM00440,2025-06-10 10:10:41,2025-07-25 23:51:39,sold,Bottomwear,Pants,Chinos,Unisex,7,"0,0,100,0,0,0,0,0",Multicolor,XL,Uniqlo,donation,3.19,10.48,minor
+ITEM00441,2025-06-09 15:34:00,2025-09-15 22:09:44,sold,Accessories,General,Scarf,Men,7,"0,0,0,0,100,0,0,0",Green,38,H&M,donation,17.39,61.2,none
+ITEM00442,2025-06-20 06:16:10,2025-09-28 18:07:02,disposed,Footwear,Shoes,Sneakers,Women,1,"100,0,0,0,0,0,0,0",Grey,XS,Patagonia,bulkWholesale,13.02,0.0,heavy
+ITEM00443,2025-07-01 08:08:00,2025-07-27 00:54:28,sold,Accessories,General,Belt,Unisex,3,"7,0,0,0,0,93,0,0",White,34,H&M,userSellIn,18.14,46.74,moderate
+ITEM00444,2025-06-23 03:20:37,2025-07-23 22:10:40,sold,One-Piece,Dress,Summer Dress,Men,10,"0,100,0,0,0,0,0,0",White,38,Zara,bulkWholesale,10.78,34.01,heavy
+ITEM00445,2025-06-09 03:43:04,2025-07-21 03:39:25,sold,Footwear,Shoes,Heels,Kids,4,"0,0,57,0,0,0,0,43",Multicolor,Kids,Nike,userSellIn,26.72,100.92,minor
+ITEM00446,2025-06-15 10:27:31,2025-07-19 10:45:19,sold,Footwear,Shoes,Boots,Women,10,"0,100,0,0,0,0,0,0",Green,38,Nike,donation,2.97,8.26,moderate
+ITEM00447,2025-06-07 01:48:35,2025-08-05 12:46:31,disposed,Accessories,General,Scarf,Kids,1,"39,0,0,0,61,0,0,0",Black,34,Nike,donation,18.8,0.0,none
+ITEM00448,2025-06-18 00:02:55,2025-07-22 05:55:37,sold,Bottomwear,Pants,Shorts,Kids,7,"0,0,24,0,0,0,76,0",Beige,S,H&M,donation,1.86,4.05,minor
+ITEM00449,2025-06-27 17:32:41,2025-08-05 21:34:21,sold,Accessories,General,Handbag,Kids,4,"0,0,100,0,0,0,0,0",White,44,Adidas,bulkWholesale,15.4,42.6,minor
+ITEM00450,2025-06-23 05:48:09,2025-08-01 19:06:49,sold,Accessories,General,Handbag,Men,8,"0,0,32,0,0,0,0,68",Green,34,Patagonia,donation,20.38,74.83,moderate
+ITEM00451,2025-07-04 12:46:19,2025-08-23 09:27:12,recycled,Footwear,Shoes,Heels,Unisex,2,"0,0,0,48,0,52,0,0",Beige,36,Patagonia,userSellIn,9.12,0.0,minor
+ITEM00452,2025-06-23 05:19:10,2025-08-25 03:47:59,sold,Topwear,Shirt,T-Shirt,Unisex,10,"0,0,0,0,0,0,100,0",White,44,Nike,bulkWholesale,28.79,57.85,none
+ITEM00453,2025-06-21 16:14:47,2025-07-16 11:35:30,sold,Footwear,Shoes,Heels,Men,10,"0,0,0,63,0,0,37,0",Green,Kids,Uniqlo,userSellIn,28.65,47.67,moderate
+ITEM00454,2025-06-16 19:08:25,2025-07-17 18:21:34,recycled,Topwear,Jacket,Blazer,Kids,2,"0,0,0,0,0,0,0,100",Multicolor,M,Levi's,userSellIn,4.12,0.0,minor
+ITEM00455,2025-06-29 10:22:10,2025-07-21 00:55:15,disposed,Bottomwear,Pants,Chinos,Women,0,"0,0,0,0,0,0,0,100",Beige,38,Levi's,userSellIn,6.43,0.0,minor
+ITEM00456,2025-07-05 02:34:24,2025-07-31 08:47:25,sold,Accessories,General,Belt,Women,8,"100,0,0,0,0,0,0,0",Multicolor,XS,Adidas,bulkWholesale,29.01,76.96,none
+ITEM00457,2025-06-12 16:22:06,2025-07-28 10:50:27,sold,Footwear,Shoes,Heels,Men,10,"0,0,0,0,100,0,0,0",Black,38,Zara,userSellIn,7.57,13.35,minor
+ITEM00458,2025-06-25 02:29:01,2025-10-03 12:54:57,sold,Bottomwear,Pants,Jeans,Unisex,9,"0,0,91,9,0,0,0,0",Beige,XL,Adidas,donation,25.23,85.95,heavy
+ITEM00459,2025-06-25 15:56:00,2025-09-24 22:39:22,recycled,Accessories,General,Handbag,Women,1,"0,0,0,0,67,0,33,0",White,Kids,Gucci,userSellIn,26.35,0.0,heavy
+ITEM00460,2025-06-16 03:17:02,2025-07-26 09:25:12,recycled,One-Piece,Dress,Evening Dress,Men,0,"0,100,0,0,0,0,0,0",Red,38,Patagonia,donation,28.45,0.0,minor
+ITEM00461,2025-06-16 05:18:46,2025-07-22 11:22:25,disposed,Topwear,Shirt,Polo,Kids,0,"0,0,0,22,0,0,0,78",Green,XL,Patagonia,donation,27.86,0.0,minor
+ITEM00462,2025-06-22 16:59:44,2025-09-18 18:11:06,sold,Topwear,Shirt,Polo,Men,9,"0,100,0,0,0,0,0,0",Grey,XL,Levi's,bulkWholesale,5.13,12.99,moderate
+ITEM00463,2025-06-06 20:08:48,2025-09-06 00:58:56,sold,Topwear,Shirt,Polo,Men,5,"0,0,0,58,0,42,0,0",Grey,36,Levi's,userSellIn,22.41,81.12,minor
+ITEM00464,2025-06-11 15:18:06,2025-08-20 10:23:52,sold,Accessories,General,Scarf,Men,6,"0,0,0,35,65,0,0,0",Beige,S,Patagonia,bulkWholesale,7.25,11.1,none
+ITEM00465,2025-06-14 13:56:50,2025-08-17 11:30:32,sold,One-Piece,Dress,Casual Dress,Kids,4,"0,0,0,0,0,40,0,60",Red,38,Zara,donation,6.24,24.46,minor
+ITEM00466,2025-06-24 00:36:14,2025-08-01 21:59:30,sold,Topwear,Shirt,Polo,Kids,4,"0,0,67,0,0,0,33,0",Green,36,Zara,bulkWholesale,2.95,7.7,heavy
+ITEM00467,2025-06-17 01:55:48,2025-09-07 12:08:49,sold,Bottomwear,Skirt,Maxi Skirt,Kids,6,"0,0,28,0,0,72,0,0",Blue,XL,Zara,userSellIn,4.65,17.37,minor
+ITEM00468,2025-06-13 14:19:31,2025-07-30 19:55:53,sold,One-Piece,Dress,Evening Dress,Women,6,"0,0,0,0,0,0,0,100",Beige,XS,Gucci,donation,5.0,19.83,minor
+ITEM00469,2025-06-15 19:42:23,2025-08-08 23:58:10,sold,Footwear,Shoes,Boots,Men,7,"100,0,0,0,0,0,0,0",Multicolor,Kids,Adidas,donation,0.03,0.11,heavy
+ITEM00470,2025-06-29 00:57:50,2025-09-11 03:28:48,sold,Footwear,Shoes,Boots,Men,10,"0,63,37,0,0,0,0,0",Beige,38,Levi's,donation,27.27,80.77,heavy
+ITEM00471,2025-06-14 20:13:21,2025-08-30 01:21:22,recycled,Topwear,Shirt,T-Shirt,Women,1,"0,0,100,0,0,0,0,0",Grey,38,H&M,donation,29.24,0.0,none
+ITEM00472,2025-06-16 19:18:36,2025-08-03 22:15:17,sold,Bottomwear,Skirt,Maxi Skirt,Women,6,"0,79,0,21,0,0,0,0",Black,36,Nike,bulkWholesale,14.71,32.51,none
+ITEM00473,2025-07-04 15:32:34,2025-09-29 21:02:32,sold,Accessories,General,Belt,Unisex,9,"0,0,0,100,0,0,0,0",Red,M,Levi's,donation,1.94,6.99,minor
+ITEM00474,2025-06-09 13:40:21,2025-08-10 12:47:00,sold,Bottomwear,Skirt,Maxi Skirt,Kids,10,"0,0,0,0,100,0,0,0",Blue,XS,Gucci,bulkWholesale,10.76,23.99,none
+ITEM00475,2025-06-28 22:49:20,2025-07-28 01:44:57,sold,One-Piece,Dress,Evening Dress,Unisex,8,"0,0,0,0,73,0,27,0",Green,XS,Nike,donation,25.42,86.07,heavy
+ITEM00476,2025-06-08 20:33:42,2025-08-25 12:56:42,sold,Accessories,General,Belt,Men,6,"0,0,45,55,0,0,0,0",White,XS,H&M,userSellIn,10.97,41.45,none
+ITEM00477,2025-06-10 01:04:40,2025-08-17 13:29:37,sold,Accessories,General,Belt,Men,9,"0,100,0,0,0,0,0,0",Black,38,Patagonia,userSellIn,20.59,75.6,heavy
+ITEM00478,2025-06-15 02:01:41,2025-07-30 06:13:05,sold,One-Piece,Dress,Casual Dress,Kids,6,"0,0,0,0,0,100,0,0",Multicolor,34,Adidas,donation,21.48,44.75,heavy
+ITEM00479,2025-06-12 08:23:50,2025-07-28 17:15:19,sold,Footwear,Shoes,Heels,Kids,3,"0,0,0,0,0,0,100,0",Black,42,H&M,donation,19.11,56.01,none
+ITEM00480,2025-06-10 03:51:53,2025-09-15 21:46:54,recycled,Topwear,Shirt,T-Shirt,Women,2,"0,0,0,0,100,0,0,0",Beige,L,Nike,bulkWholesale,27.97,0.0,minor
+ITEM00481,2025-06-30 04:50:00,2025-09-14 21:43:22,disposed,Bottomwear,Pants,Shorts,Women,1,"30,0,0,70,0,0,0,0",Black,44,Patagonia,bulkWholesale,13.17,0.0,heavy
+ITEM00482,2025-06-27 10:05:52,2025-08-26 17:12:47,sold,Bottomwear,Skirt,Mini Skirt,Women,7,"0,25,75,0,0,0,0,0",Beige,36,Uniqlo,userSellIn,16.98,31.9,moderate
+ITEM00483,2025-06-11 18:26:02,2025-09-14 19:52:13,recycled,Topwear,Shirt,Blouse,Kids,1,"0,0,0,0,100,0,0,0",Black,XL,Gucci,userSellIn,3.31,0.0,heavy
+ITEM00484,2025-07-04 20:45:11,2025-07-16 13:52:51,sold,Bottomwear,Pants,Shorts,Kids,5,"0,0,0,100,0,0,0,0",Blue,44,Nike,bulkWholesale,0.78,2.72,moderate
+ITEM00485,2025-06-20 07:46:44,2025-07-27 14:40:41,sold,Footwear,Shoes,Boots,Kids,3,"0,0,0,2,0,0,98,0",Blue,34,Zara,userSellIn,26.42,59.57,moderate
+ITEM00486,2025-06-26 07:19:46,2025-08-19 16:43:40,recycled,Footwear,Shoes,Sneakers,Unisex,2,"89,0,0,0,0,0,0,11",Multicolor,40,Levi's,userSellIn,28.76,0.0,moderate
+ITEM00487,2025-06-22 03:35:22,2025-07-16 11:14:22,sold,Accessories,General,Handbag,Kids,6,"0,0,0,8,0,92,0,0",Multicolor,XS,H&M,userSellIn,24.85,42.39,none
+ITEM00488,2025-06-26 21:57:42,2025-09-27 18:45:45,recycled,Topwear,Jacket,Hoodie,Women,0,"0,0,0,0,0,100,0,0",Red,42,Zara,donation,13.07,0.0,moderate
+ITEM00489,2025-06-15 04:05:39,2025-09-21 17:08:46,sold,Topwear,Shirt,Blouse,Men,9,"0,73,0,0,0,0,27,0",Beige,Kids,Nike,userSellIn,0.3,0.54,heavy
+ITEM00490,2025-06-24 16:40:40,2025-09-13 13:48:11,sold,One-Piece,Dress,Evening Dress,Kids,10,"0,0,0,0,0,0,22,78",Beige,XS,Nike,userSellIn,2.39,6.49,none
+ITEM00491,2025-06-13 18:00:45,2025-10-01 21:52:36,disposed,Topwear,Shirt,Polo,Unisex,1,"0,0,0,0,0,0,100,0",Grey,L,Zara,bulkWholesale,13.46,0.0,minor
+ITEM00492,2025-06-22 10:07:16,2025-08-28 03:44:02,recycled,Bottomwear,Skirt,Maxi Skirt,Kids,1,"0,0,0,0,0,0,0,100",Grey,S,Uniqlo,bulkWholesale,4.55,0.0,minor
+ITEM00493,2025-06-19 16:55:47,2025-09-25 02:22:31,sold,Bottomwear,Skirt,Maxi Skirt,Men,3,"38,0,62,0,0,0,0,0",Beige,36,Gucci,userSellIn,11.21,24.99,none
+ITEM00494,2025-06-20 11:20:32,2025-08-09 02:28:38,sold,Accessories,General,Handbag,Kids,8,"0,0,0,0,100,0,0,0",Blue,44,Adidas,userSellIn,13.04,43.31,minor
+ITEM00495,2025-06-18 13:19:11,2025-09-01 13:10:21,recycled,One-Piece,Dress,Evening Dress,Men,2,"0,0,0,0,0,100,0,0",Green,M,Nike,donation,3.51,0.0,minor
+ITEM00496,2025-06-30 04:31:07,2025-09-17 17:13:57,sold,Footwear,Shoes,Heels,Kids,4,"0,0,0,0,0,0,0,100",Blue,42,Zara,userSellIn,6.96,24.39,heavy
+ITEM00497,2025-06-23 11:58:57,2025-09-28 09:27:17,sold,Footwear,Shoes,Heels,Women,4,"91,0,0,0,9,0,0,0",White,42,Adidas,bulkWholesale,8.88,27.45,heavy
+ITEM00498,2025-07-03 19:25:40,2025-08-27 06:37:13,sold,Accessories,General,Scarf,Kids,4,"1,99,0,0,0,0,0,0",Grey,44,Patagonia,bulkWholesale,7.43,12.49,none
+ITEM00499,2025-06-26 02:37:18,2025-09-25 07:47:45,sold,One-Piece,Dress,Summer Dress,Kids,7,"0,0,0,0,0,0,100,0",Blue,L,Nike,donation,22.73,84.49,minor
+ITEM00500,2025-06-15 14:31:26,2025-08-22 10:50:03,sold,Topwear,Jacket,Blazer,Unisex,10,"0,0,48,52,0,0,0,0",Black,L,Patagonia,userSellIn,12.85,35.94,none
+ITEM00501,2025-06-16 17:11:20,2025-08-01 20:23:12,sold,Bottomwear,Pants,Jeans,Unisex,4,"0,0,0,27,73,0,0,0",Green,38,Gucci,donation,10.26,29.49,heavy
+ITEM00502,2025-07-01 23:09:19,2025-07-29 19:06:28,sold,Topwear,Shirt,Polo,Kids,10,"100,0,0,0,0,0,0,0",Grey,XL,Levi's,userSellIn,1.63,5.68,none
+ITEM00503,2025-07-04 02:16:29,2025-08-06 11:11:56,disposed,One-Piece,Dress,Summer Dress,Women,0,"0,0,0,0,100,0,0,0",Grey,40,Uniqlo,userSellIn,10.19,0.0,moderate
+ITEM00504,2025-06-19 14:17:49,2025-07-24 16:50:52,sold,Footwear,Shoes,Heels,Men,9,"0,0,0,18,0,82,0,0",Black,M,Nike,donation,15.95,36.03,heavy
+ITEM00505,2025-06-22 00:09:03,2025-08-31 10:04:52,sold,Bottomwear,Skirt,Mini Skirt,Women,9,"100,0,0,0,0,0,0,0",Multicolor,L,Uniqlo,bulkWholesale,18.74,66.74,minor
+ITEM00506,2025-06-14 02:10:50,2025-07-19 09:15:09,sold,Bottomwear,Skirt,Mini Skirt,Kids,3,"0,0,0,0,0,0,100,0",Beige,S,Levi's,bulkWholesale,23.79,83.41,minor
+ITEM00507,2025-06-23 03:03:22,2025-08-08 21:37:40,recycled,Topwear,Shirt,T-Shirt,Kids,0,"0,0,100,0,0,0,0,0",Grey,36,Gucci,donation,22.62,0.0,moderate
+ITEM00508,2025-07-02 10:34:33,2025-08-15 22:49:09,sold,Footwear,Shoes,Boots,Unisex,3,"0,0,62,0,0,0,0,38",Black,Kids,H&M,bulkWholesale,22.07,84.28,moderate
+ITEM00509,2025-07-02 04:52:09,2025-09-23 14:26:47,disposed,Topwear,Shirt,Blouse,Men,2,"0,0,0,0,0,0,100,0",Blue,L,Adidas,donation,22.39,0.0,none
+ITEM00510,2025-07-02 17:09:57,2025-08-18 15:37:43,sold,Footwear,Shoes,Sneakers,Women,7,"0,0,0,100,0,0,0,0",Multicolor,44,Uniqlo,donation,22.2,64.1,none
+ITEM00511,2025-06-16 22:49:18,2025-07-20 10:57:32,sold,Bottomwear,Skirt,Maxi Skirt,Men,6,"0,0,0,0,0,100,0,0",Red,42,Uniqlo,userSellIn,15.56,26.23,minor
+ITEM00512,2025-06-08 21:16:05,2025-09-23 06:28:30,sold,One-Piece,Dress,Summer Dress,Unisex,3,"0,0,48,0,0,0,52,0",White,40,Levi's,userSellIn,6.94,14.83,moderate
+ITEM00513,2025-06-14 03:02:08,2025-08-21 10:33:29,sold,Footwear,Shoes,Boots,Men,3,"0,0,0,0,0,38,62,0",Red,38,Levi's,userSellIn,14.8,43.72,none
+ITEM00514,2025-06-21 05:59:38,2025-09-22 21:03:42,sold,One-Piece,Dress,Summer Dress,Men,7,"0,0,0,87,13,0,0,0",White,34,Zara,donation,6.32,24.07,moderate
+ITEM00515,2025-06-14 15:04:43,2025-08-13 14:13:54,disposed,Topwear,Shirt,Blouse,Kids,1,"0,0,44,0,0,56,0,0",White,36,Patagonia,bulkWholesale,10.07,0.0,minor
+ITEM00516,2025-06-18 19:38:03,2025-08-16 19:59:57,disposed,One-Piece,Dress,Casual Dress,Women,1,"0,0,0,0,0,0,100,0",Blue,XS,Uniqlo,userSellIn,1.71,0.0,heavy
+ITEM00517,2025-06-11 20:01:50,2025-08-26 11:15:09,disposed,Accessories,General,Scarf,Men,1,"0,0,0,0,0,100,0,0",Grey,38,Uniqlo,bulkWholesale,27.82,0.0,none
+ITEM00518,2025-06-29 07:33:48,2025-07-22 23:19:12,recycled,Bottomwear,Skirt,Maxi Skirt,Kids,2,"0,0,0,0,0,0,100,0",Multicolor,XL,Nike,bulkWholesale,2.59,0.0,heavy
+ITEM00519,2025-06-27 23:09:27,2025-08-25 17:15:20,disposed,One-Piece,Dress,Evening Dress,Unisex,0,"70,0,0,30,0,0,0,0",Red,M,Levi's,donation,15.45,0.0,heavy
+ITEM00520,2025-07-01 18:07:11,2025-08-12 03:51:37,sold,Footwear,Shoes,Sneakers,Men,8,"0,0,0,75,0,0,25,0",Blue,38,Gucci,bulkWholesale,1.42,5.51,moderate
+ITEM00521,2025-06-26 00:06:07,2025-10-02 14:05:40,sold,Topwear,Shirt,T-Shirt,Unisex,3,"0,23,0,0,0,0,77,0",Green,S,Levi's,bulkWholesale,16.15,25.31,none
+ITEM00522,2025-06-20 09:04:05,2025-08-09 03:24:13,sold,Accessories,General,Belt,Women,3,"100,0,0,0,0,0,0,0",Green,Kids,H&M,userSellIn,5.59,11.45,none
+ITEM00523,2025-07-01 02:48:06,2025-09-14 10:28:53,sold,Accessories,General,Belt,Women,10,"0,26,0,0,0,74,0,0",Black,38,H&M,donation,1.57,3.51,heavy
+ITEM00524,2025-06-23 16:35:45,2025-08-11 04:55:01,sold,One-Piece,Dress,Summer Dress,Kids,9,"0,0,0,0,100,0,0,0",Beige,42,Adidas,donation,5.84,17.35,heavy
+ITEM00525,2025-06-12 05:03:33,2025-09-25 11:17:46,recycled,Accessories,General,Belt,Men,2,"0,0,0,0,79,0,21,0",Blue,XS,Adidas,userSellIn,9.48,0.0,minor
+ITEM00526,2025-06-25 21:02:10,2025-10-02 13:38:20,recycled,One-Piece,Dress,Evening Dress,Men,1,"0,0,0,100,0,0,0,0",Green,S,Levi's,donation,14.13,0.0,minor
+ITEM00527,2025-06-27 16:36:06,2025-09-19 07:23:19,sold,Bottomwear,Pants,Chinos,Women,8,"0,0,0,66,0,0,34,0",White,S,H&M,bulkWholesale,1.86,4.16,minor
+ITEM00528,2025-07-03 13:01:14,2025-09-23 10:23:14,recycled,Bottomwear,Skirt,Maxi Skirt,Kids,0,"0,0,0,0,0,100,0,0",Black,Kids,Nike,donation,7.69,0.0,none
+ITEM00529,2025-06-23 17:31:54,2025-08-18 00:54:49,sold,Accessories,General,Belt,Kids,7,"0,0,0,0,0,100,0,0",Blue,Kids,Gucci,userSellIn,8.65,28.47,none
+ITEM00530,2025-06-10 17:17:00,2025-08-15 08:21:43,sold,Footwear,Shoes,Boots,Men,3,"0,0,0,0,100,0,0,0",Green,40,H&M,donation,21.43,64.97,heavy
+ITEM00531,2025-07-05 04:02:46,2025-10-01 15:50:17,recycled,One-Piece,Dress,Casual Dress,Kids,1,"0,0,0,72,0,0,0,28",Red,40,Uniqlo,donation,9.06,0.0,heavy
+ITEM00532,2025-06-17 18:57:16,2025-08-24 20:42:23,sold,Bottomwear,Pants,Shorts,Men,6,"0,0,0,52,0,0,48,0",White,S,Gucci,donation,16.65,35.33,none
+ITEM00533,2025-06-18 09:47:27,2025-09-30 06:33:24,sold,Topwear,Jacket,Hoodie,Women,3,"0,0,80,0,20,0,0,0",Green,XS,Gucci,bulkWholesale,6.91,17.91,none
+ITEM00534,2025-06-21 02:59:31,2025-08-08 20:19:42,sold,Accessories,General,Handbag,Men,4,"0,0,0,0,100,0,0,0",Beige,38,Levi's,userSellIn,14.39,37.4,moderate
+ITEM00535,2025-06-28 18:35:49,2025-09-27 03:51:21,sold,Topwear,Jacket,Winter Coat,Kids,6,"0,0,0,100,0,0,0,0",White,40,Levi's,donation,17.27,37.03,none
+ITEM00536,2025-06-13 16:31:52,2025-09-06 15:17:34,sold,Topwear,Shirt,Blouse,Men,10,"45,55,0,0,0,0,0,0",Red,XL,Zara,userSellIn,5.85,13.83,moderate
+ITEM00537,2025-06-27 04:17:59,2025-10-02 03:20:09,sold,One-Piece,Dress,Summer Dress,Women,3,"0,0,0,0,83,17,0,0",Beige,44,Uniqlo,donation,16.04,30.14,moderate
+ITEM00538,2025-06-27 04:40:01,2025-08-07 18:47:51,sold,Accessories,General,Belt,Men,7,"0,0,0,100,0,0,0,0",Grey,L,Gucci,bulkWholesale,18.64,63.28,moderate
+ITEM00539,2025-06-21 09:54:17,2025-08-07 06:47:30,sold,Footwear,Shoes,Boots,Women,3,"0,0,0,0,0,100,0,0",Grey,44,Nike,donation,0.37,0.85,minor
+ITEM00540,2025-06-16 15:27:39,2025-09-21 01:17:15,sold,Topwear,Shirt,Polo,Men,5,"0,0,0,0,100,0,0,0",Green,M,Levi's,userSellIn,13.42,38.75,minor
+ITEM00541,2025-06-19 15:44:57,2025-09-20 16:15:26,disposed,Bottomwear,Skirt,Mini Skirt,Men,0,"0,0,0,0,0,0,0,100",Black,Kids,Uniqlo,userSellIn,13.93,0.0,heavy
+ITEM00542,2025-06-18 11:10:15,2025-07-24 13:22:59,disposed,Footwear,Shoes,Sneakers,Kids,1,"0,0,0,100,0,0,0,0",Green,40,Patagonia,donation,14.99,0.0,none
+ITEM00543,2025-06-24 23:46:29,2025-10-01 14:10:51,sold,Bottomwear,Pants,Jeans,Women,8,"0,0,0,45,55,0,0,0",Beige,Kids,Adidas,userSellIn,25.84,99.72,none
+ITEM00544,2025-06-11 16:43:38,2025-09-21 18:59:00,sold,Topwear,Shirt,Blouse,Women,7,"0,0,0,0,0,0,0,100",Red,36,Adidas,userSellIn,10.85,22.31,moderate
+ITEM00545,2025-06-17 00:46:09,2025-08-29 12:11:50,sold,Accessories,General,Scarf,Men,8,"0,43,0,0,0,57,0,0",Blue,38,Gucci,donation,28.37,71.63,heavy
+ITEM00546,2025-07-03 23:48:36,2025-07-28 14:50:37,sold,Bottomwear,Pants,Shorts,Men,10,"25,0,0,0,0,0,0,75",Black,XS,Patagonia,userSellIn,19.2,38.74,moderate
+ITEM00547,2025-07-02 23:12:09,2025-07-17 17:59:35,sold,Topwear,Jacket,Hoodie,Kids,9,"55,0,0,0,0,45,0,0",Beige,Kids,Patagonia,bulkWholesale,20.81,49.42,heavy
+ITEM00548,2025-07-05 04:32:09,2025-08-31 01:22:31,recycled,Footwear,Shoes,Sneakers,Kids,0,"0,100,0,0,0,0,0,0",Multicolor,XL,Adidas,bulkWholesale,9.05,0.0,heavy
+ITEM00549,2025-06-30 00:44:32,2025-07-15 19:17:00,sold,Accessories,General,Handbag,Men,4,"0,0,0,0,0,0,0,100",Grey,S,Nike,donation,3.59,5.68,none
+ITEM00550,2025-06-22 22:54:56,2025-09-25 09:01:02,sold,Topwear,Shirt,Blouse,Unisex,9,"0,0,54,46,0,0,0,0",Black,34,Uniqlo,userSellIn,7.49,20.08,moderate
+ITEM00551,2025-06-25 00:28:45,2025-09-22 14:34:34,sold,Bottomwear,Skirt,Maxi Skirt,Women,4,"0,0,57,0,0,0,43,0",Beige,42,Levi's,userSellIn,9.43,32.1,none
+ITEM00552,2025-06-25 01:56:57,2025-07-15 17:21:09,sold,Bottomwear,Pants,Jeans,Women,3,"0,0,100,0,0,0,0,0",Grey,M,Patagonia,bulkWholesale,22.76,64.84,heavy
+ITEM00553,2025-07-03 20:10:32,2025-08-19 02:23:47,disposed,Topwear,Shirt,Polo,Women,2,"0,0,0,0,0,0,0,100",White,XS,Patagonia,bulkWholesale,5.13,0.0,moderate
+ITEM00554,2025-06-26 18:44:10,2025-09-27 13:15:54,sold,Footwear,Shoes,Boots,Unisex,8,"0,0,0,0,0,100,0,0",Beige,Kids,Nike,bulkWholesale,24.95,47.74,none
+ITEM00555,2025-07-01 22:13:56,2025-09-21 05:19:50,recycled,Bottomwear,Pants,Chinos,Unisex,0,"0,0,100,0,0,0,0,0",Red,42,Gucci,userSellIn,17.31,0.0,heavy
+ITEM00556,2025-06-28 23:21:11,2025-09-10 23:32:52,recycled,One-Piece,Dress,Summer Dress,Men,2,"0,0,0,0,0,0,100,0",White,40,Nike,userSellIn,3.53,0.0,moderate
+ITEM00557,2025-07-01 04:01:26,2025-09-07 12:48:32,sold,One-Piece,Dress,Evening Dress,Kids,6,"0,100,0,0,0,0,0,0",Black,XS,Nike,userSellIn,25.11,53.18,none
+ITEM00558,2025-06-19 14:55:32,2025-09-04 09:49:15,sold,Bottomwear,Pants,Chinos,Men,6,"0,0,0,0,0,0,0,100",Beige,34,Gucci,userSellIn,17.21,59.19,minor
+ITEM00559,2025-06-20 12:41:08,2025-08-18 10:47:51,recycled,Bottomwear,Skirt,Maxi Skirt,Kids,1,"100,0,0,0,0,0,0,0",Grey,34,H&M,donation,19.24,0.0,none
+ITEM00560,2025-06-24 00:24:59,2025-09-13 21:18:08,sold,Footwear,Shoes,Boots,Unisex,5,"0,0,0,100,0,0,0,0",Multicolor,M,H&M,userSellIn,17.48,52.05,none
+ITEM00561,2025-06-29 05:06:14,2025-08-02 03:26:03,disposed,One-Piece,Dress,Casual Dress,Women,0,"0,0,63,0,0,0,0,37",Beige,38,Patagonia,donation,21.96,0.0,moderate
+ITEM00562,2025-06-12 13:30:51,2025-08-18 01:31:23,sold,Topwear,Shirt,T-Shirt,Kids,3,"0,0,0,0,0,0,0,100",Red,36,Zara,donation,17.47,26.88,heavy
+ITEM00563,2025-06-19 19:29:48,2025-09-07 01:51:02,disposed,Footwear,Shoes,Heels,Unisex,0,"0,0,0,100,0,0,0,0",Grey,Kids,H&M,donation,15.67,0.0,none
+ITEM00564,2025-06-07 19:13:33,2025-08-12 07:20:26,sold,Topwear,Shirt,T-Shirt,Kids,8,"0,0,100,0,0,0,0,0",White,L,Adidas,userSellIn,11.44,44.23,none
+ITEM00565,2025-06-22 06:29:33,2025-07-28 04:01:40,sold,One-Piece,Dress,Casual Dress,Kids,9,"0,0,100,0,0,0,0,0",White,44,H&M,donation,0.99,2.64,moderate
+ITEM00566,2025-06-13 14:01:10,2025-09-19 15:51:41,sold,Footwear,Shoes,Sneakers,Unisex,6,"0,0,0,100,0,0,0,0",White,34,Uniqlo,bulkWholesale,16.45,36.43,minor
+ITEM00567,2025-06-24 23:58:17,2025-08-25 13:07:55,sold,Footwear,Shoes,Heels,Unisex,3,"0,0,0,0,0,0,37,63",Green,34,Patagonia,donation,14.61,29.73,none
+ITEM00568,2025-06-10 15:15:51,2025-07-22 11:01:46,disposed,One-Piece,Dress,Evening Dress,Women,2,"0,0,0,100,0,0,0,0",Black,XL,Gucci,donation,23.48,0.0,minor
+ITEM00569,2025-07-05 13:29:31,2025-09-28 03:54:31,disposed,Bottomwear,Pants,Jeans,Women,0,"0,0,0,0,100,0,0,0",Green,L,Uniqlo,donation,16.0,0.0,minor
+ITEM00570,2025-07-04 19:47:41,2025-07-24 07:30:19,sold,Bottomwear,Skirt,Mini Skirt,Women,4,"0,0,100,0,0,0,0,0",White,42,Zara,userSellIn,8.55,27.69,minor
+ITEM00571,2025-06-06 15:09:51,2025-09-09 07:51:01,sold,Bottomwear,Pants,Shorts,Kids,7,"0,0,0,100,0,0,0,0",Multicolor,44,Levi's,donation,24.67,47.1,minor
+ITEM00572,2025-06-09 07:10:42,2025-07-27 21:40:29,disposed,Accessories,General,Belt,Kids,0,"73,27,0,0,0,0,0,0",Beige,34,H&M,donation,7.05,0.0,heavy
+ITEM00573,2025-06-06 22:06:22,2025-08-13 16:30:46,sold,Accessories,General,Belt,Kids,3,"0,0,0,0,0,16,84,0",Red,L,Levi's,bulkWholesale,1.67,4.9,minor
+ITEM00574,2025-06-08 20:14:43,2025-09-07 05:02:47,recycled,Accessories,General,Belt,Women,1,"0,0,0,0,0,0,6,94",Green,44,Zara,userSellIn,20.63,0.0,heavy
+ITEM00575,2025-06-28 23:41:13,2025-10-03 11:45:04,sold,Accessories,General,Belt,Unisex,9,"100,0,0,0,0,0,0,0",Black,Kids,Gucci,bulkWholesale,26.7,63.87,moderate
+ITEM00576,2025-06-29 15:18:14,2025-07-30 00:39:01,recycled,Bottomwear,Skirt,Maxi Skirt,Women,2,"0,0,0,13,87,0,0,0",Green,44,H&M,bulkWholesale,28.38,0.0,moderate
+ITEM00577,2025-06-05 19:18:10,2025-09-13 14:00:19,recycled,Bottomwear,Pants,Shorts,Men,1,"0,67,33,0,0,0,0,0",Red,S,Gucci,donation,19.37,0.0,none
+ITEM00578,2025-06-15 14:38:58,2025-07-23 09:18:02,recycled,Footwear,Shoes,Sneakers,Women,0,"0,0,70,0,30,0,0,0",Black,L,Uniqlo,userSellIn,29.87,0.0,minor
+ITEM00579,2025-06-19 00:44:47,2025-09-12 11:01:51,sold,Accessories,General,Belt,Unisex,6,"0,38,0,0,0,0,62,0",White,36,Gucci,donation,29.67,96.8,heavy
+ITEM00580,2025-06-23 11:46:21,2025-09-01 21:45:08,sold,One-Piece,Dress,Casual Dress,Unisex,4,"0,0,0,100,0,0,0,0",Red,Kids,Adidas,bulkWholesale,18.34,32.98,none
+ITEM00581,2025-06-08 20:01:23,2025-08-15 23:44:00,sold,Bottomwear,Skirt,Mini Skirt,Men,10,"0,0,0,0,77,0,23,0",Multicolor,XL,Gucci,donation,22.08,48.37,moderate
+ITEM00582,2025-06-07 18:45:27,2025-09-22 23:38:02,sold,Footwear,Shoes,Boots,Unisex,4,"49,0,0,0,0,0,0,51",Blue,Kids,Levi's,donation,8.82,14.04,heavy
+ITEM00583,2025-06-22 17:54:14,2025-08-31 15:23:04,disposed,Bottomwear,Pants,Chinos,Kids,2,"0,0,0,0,0,0,44,56",Black,34,Uniqlo,donation,10.0,0.0,moderate
+ITEM00584,2025-06-10 21:37:46,2025-08-03 03:47:12,sold,Footwear,Shoes,Boots,Kids,5,"0,0,0,0,52,0,0,48",Red,XS,Levi's,donation,7.59,26.83,none
+ITEM00585,2025-07-05 11:29:55,2025-08-10 03:42:03,sold,Footwear,Shoes,Boots,Unisex,3,"0,0,0,0,0,0,100,0",Black,M,Uniqlo,userSellIn,3.26,11.73,moderate
+ITEM00586,2025-06-19 15:17:54,2025-08-21 23:35:30,sold,Topwear,Shirt,T-Shirt,Unisex,8,"0,36,0,0,0,0,64,0",Red,M,Levi's,userSellIn,1.19,3.87,moderate
+ITEM00587,2025-07-05 00:49:36,2025-09-21 11:05:21,recycled,Accessories,General,Scarf,Unisex,2,"0,0,0,0,0,0,0,100",Red,38,Patagonia,bulkWholesale,8.03,0.0,minor
+ITEM00588,2025-06-13 23:05:53,2025-07-25 22:10:49,sold,Accessories,General,Handbag,Men,4,"0,64,0,36,0,0,0,0",Black,L,Patagonia,bulkWholesale,29.33,78.59,heavy
+ITEM00589,2025-06-16 17:56:09,2025-09-18 01:16:28,sold,Topwear,Jacket,Hoodie,Men,7,"0,0,11,0,0,0,0,89",Beige,XL,Nike,userSellIn,17.45,57.51,minor
+ITEM00590,2025-06-30 21:43:04,2025-07-26 20:39:11,sold,Bottomwear,Skirt,Maxi Skirt,Women,6,"0,100,0,0,0,0,0,0",Blue,42,Uniqlo,donation,23.78,81.32,none
+ITEM00591,2025-06-15 23:22:42,2025-09-03 02:06:09,disposed,Topwear,Shirt,T-Shirt,Kids,2,"0,100,0,0,0,0,0,0",Red,L,Patagonia,donation,21.08,0.0,minor
+ITEM00592,2025-07-04 03:00:50,2025-07-29 17:14:28,sold,One-Piece,Dress,Summer Dress,Kids,9,"0,0,0,0,62,38,0,0",Multicolor,XS,H&M,userSellIn,5.91,15.3,minor
+ITEM00593,2025-06-19 13:27:04,2025-07-22 16:41:02,sold,Topwear,Shirt,Polo,Kids,9,"0,0,0,0,100,0,0,0",Grey,XL,Zara,donation,29.72,112.48,none
+ITEM00594,2025-06-22 03:36:08,2025-07-15 23:26:55,sold,One-Piece,Dress,Casual Dress,Unisex,6,"0,100,0,0,0,0,0,0",Black,42,Uniqlo,bulkWholesale,9.91,23.46,moderate
+ITEM00595,2025-07-02 03:07:27,2025-08-02 08:44:26,sold,Accessories,General,Belt,Women,5,"0,20,0,0,0,80,0,0",White,36,H&M,donation,19.79,77.47,moderate
+ITEM00596,2025-06-18 05:48:20,2025-09-10 14:07:25,sold,Footwear,Shoes,Sneakers,Kids,7,"0,0,100,0,0,0,0,0",Multicolor,40,H&M,donation,10.77,40.88,none
+ITEM00597,2025-06-28 03:13:36,2025-08-11 03:40:04,sold,Footwear,Shoes,Heels,Kids,6,"0,0,0,0,96,0,4,0",Green,S,Gucci,userSellIn,25.09,91.96,moderate
+ITEM00598,2025-06-05 23:49:09,2025-08-04 00:16:48,sold,One-Piece,Dress,Summer Dress,Women,6,"65,0,0,35,0,0,0,0",White,Kids,Nike,donation,17.77,63.84,moderate
+ITEM00599,2025-06-12 07:47:02,2025-08-11 08:54:29,sold,One-Piece,Dress,Casual Dress,Women,8,"0,0,0,100,0,0,0,0",Red,M,Gucci,donation,9.54,24.77,minor
+ITEM00600,2025-07-03 15:29:13,2025-08-21 13:44:36,sold,Topwear,Jacket,Hoodie,Women,4,"0,0,0,0,50,0,50,0",Grey,Kids,Adidas,userSellIn,21.42,52.21,minor
+ITEM00601,2025-06-24 11:12:37,2025-09-05 12:29:40,sold,Footwear,Shoes,Heels,Unisex,8,"1,0,99,0,0,0,0,0",Beige,36,Adidas,bulkWholesale,10.08,29.05,moderate
+ITEM00602,2025-06-21 08:16:42,2025-10-02 21:23:13,sold,One-Piece,Dress,Evening Dress,Men,4,"0,0,0,0,100,0,0,0",Red,M,Gucci,donation,29.47,57.99,moderate
+ITEM00603,2025-06-26 10:29:27,2025-07-20 16:46:36,disposed,Bottomwear,Pants,Jeans,Women,1,"0,0,0,0,0,100,0,0",Multicolor,Kids,Nike,userSellIn,1.12,0.0,minor
+ITEM00604,2025-07-03 18:00:14,2025-07-26 15:19:40,sold,One-Piece,Dress,Evening Dress,Men,7,"0,0,0,0,100,0,0,0",Black,M,H&M,donation,16.88,49.7,none
+ITEM00605,2025-06-13 20:22:22,2025-08-08 05:03:51,recycled,Topwear,Jacket,Winter Coat,Women,2,"0,0,60,0,0,0,0,40",Green,42,Nike,bulkWholesale,3.97,0.0,heavy
+ITEM00606,2025-06-28 02:27:51,2025-09-05 06:34:22,recycled,One-Piece,Dress,Evening Dress,Unisex,0,"52,0,0,48,0,0,0,0",Black,Kids,Adidas,userSellIn,28.18,0.0,moderate
+ITEM00607,2025-06-09 22:01:40,2025-07-21 23:56:08,sold,Topwear,Jacket,Winter Coat,Women,10,"0,0,0,100,0,0,0,0",White,S,Patagonia,donation,23.35,60.92,none
+ITEM00608,2025-06-07 09:28:50,2025-08-16 13:59:40,sold,Bottomwear,Pants,Jeans,Kids,5,"0,0,5,0,0,95,0,0",Blue,44,Uniqlo,userSellIn,22.42,61.83,minor
+ITEM00609,2025-06-13 18:20:11,2025-09-19 01:50:56,sold,One-Piece,Dress,Summer Dress,Men,9,"0,0,0,0,68,0,32,0",Multicolor,Kids,Adidas,userSellIn,6.6,17.98,heavy
+ITEM00610,2025-06-17 03:53:21,2025-10-02 22:24:08,sold,Accessories,General,Handbag,Unisex,5,"0,0,0,0,0,0,0,100",Black,34,Adidas,bulkWholesale,6.8,23.86,moderate
+ITEM00611,2025-06-14 20:19:19,2025-09-26 04:59:55,recycled,Accessories,General,Handbag,Unisex,0,"0,0,44,0,56,0,0,0",White,XL,Uniqlo,donation,2.19,0.0,heavy
+ITEM00612,2025-06-30 02:39:16,2025-07-18 17:17:12,sold,Bottomwear,Pants,Jeans,Men,9,"0,62,0,0,0,0,38,0",Red,S,H&M,userSellIn,26.85,97.33,heavy
+ITEM00613,2025-07-01 13:20:22,2025-10-01 06:00:09,sold,Topwear,Shirt,Polo,Men,3,"9,0,0,0,0,91,0,0",Red,36,Levi's,bulkWholesale,16.78,51.57,heavy
+ITEM00614,2025-06-16 20:32:33,2025-08-21 18:29:19,sold,Bottomwear,Skirt,Mini Skirt,Unisex,8,"100,0,0,0,0,0,0,0",Grey,40,Gucci,userSellIn,26.25,61.92,none
+ITEM00615,2025-06-23 11:47:33,2025-09-11 11:39:52,sold,Bottomwear,Skirt,Mini Skirt,Unisex,9,"0,0,0,0,0,67,33,0",Red,36,Adidas,donation,21.46,53.38,heavy
+ITEM00616,2025-07-04 12:07:37,2025-09-09 20:25:45,recycled,One-Piece,Dress,Evening Dress,Unisex,0,"0,0,0,0,0,100,0,0",Grey,42,Patagonia,donation,24.7,0.0,none
+ITEM00617,2025-06-20 20:45:49,2025-07-26 06:34:23,sold,Bottomwear,Skirt,Mini Skirt,Women,3,"0,0,0,0,0,0,0,100",White,34,H&M,bulkWholesale,17.31,51.41,heavy
+ITEM00618,2025-06-29 23:31:22,2025-07-21 17:28:04,sold,Accessories,General,Scarf,Women,10,"0,0,0,0,0,0,100,0",Green,L,Adidas,bulkWholesale,17.77,54.93,minor
+ITEM00619,2025-06-11 01:12:34,2025-07-31 09:07:15,recycled,Topwear,Jacket,Hoodie,Women,1,"0,0,0,0,43,0,0,57",Beige,L,Zara,bulkWholesale,0.1,0.0,moderate
+ITEM00620,2025-06-09 10:34:43,2025-09-07 11:52:12,sold,Topwear,Jacket,Blazer,Unisex,5,"100,0,0,0,0,0,0,0",Grey,XS,Zara,userSellIn,5.11,14.91,none
+ITEM00621,2025-06-25 06:26:03,2025-08-22 01:10:16,sold,Accessories,General,Belt,Women,3,"0,0,26,0,0,74,0,0",Multicolor,Kids,Gucci,bulkWholesale,5.83,9.28,moderate
+ITEM00622,2025-06-20 05:03:49,2025-10-03 07:11:24,disposed,Bottomwear,Skirt,Mini Skirt,Unisex,2,"0,0,76,24,0,0,0,0",Blue,S,Uniqlo,bulkWholesale,1.52,0.0,heavy
+ITEM00623,2025-06-21 09:03:11,2025-09-11 22:20:49,sold,Footwear,Shoes,Sneakers,Kids,8,"0,0,13,0,87,0,0,0",Beige,42,Zara,userSellIn,17.49,61.95,none
+ITEM00624,2025-06-07 23:34:02,2025-09-06 19:50:36,sold,Bottomwear,Pants,Jeans,Men,9,"0,100,0,0,0,0,0,0",Green,L,Zara,donation,5.81,11.86,none
+ITEM00625,2025-06-24 15:48:08,2025-09-10 02:28:33,sold,Footwear,Shoes,Boots,Unisex,10,"0,0,0,12,0,0,0,88",Green,XL,Patagonia,userSellIn,1.17,4.58,heavy
+ITEM00626,2025-07-04 11:24:18,2025-09-22 05:01:08,disposed,Topwear,Shirt,Blouse,Women,1,"0,7,0,0,0,0,93,0",White,XL,Gucci,bulkWholesale,7.71,0.0,none
+ITEM00627,2025-06-23 22:14:30,2025-08-01 11:33:34,recycled,One-Piece,Dress,Summer Dress,Men,1,"0,0,0,34,0,0,0,66",Multicolor,Kids,Levi's,donation,17.4,0.0,minor
+ITEM00628,2025-06-11 20:19:28,2025-07-22 02:45:40,sold,Bottomwear,Skirt,Maxi Skirt,Unisex,4,"0,0,0,100,0,0,0,0",Beige,M,Nike,bulkWholesale,2.09,5.34,heavy
+ITEM00629,2025-06-14 17:12:48,2025-07-21 08:39:48,sold,Accessories,General,Scarf,Men,4,"0,0,52,0,0,0,48,0",Red,Kids,Zara,userSellIn,22.08,71.93,moderate
+ITEM00630,2025-06-18 08:25:33,2025-09-23 06:26:46,sold,Footwear,Shoes,Boots,Men,6,"0,0,0,0,0,0,100,0",Black,38,Nike,donation,24.01,88.99,minor
+ITEM00631,2025-06-12 18:29:16,2025-09-15 07:05:39,disposed,Accessories,General,Handbag,Kids,0,"0,0,79,0,0,0,21,0",Grey,S,Patagonia,userSellIn,8.69,0.0,minor
+ITEM00632,2025-06-06 20:40:36,2025-07-23 02:33:16,disposed,Topwear,Jacket,Winter Coat,Men,2,"0,0,0,0,0,100,0,0",Red,M,Levi's,bulkWholesale,26.52,0.0,minor
+ITEM00633,2025-06-24 23:03:42,2025-09-09 13:44:57,recycled,Accessories,General,Handbag,Unisex,2,"0,0,0,26,0,0,0,74",Blue,40,Gucci,userSellIn,29.37,0.0,none
+ITEM00634,2025-06-20 15:04:04,2025-08-04 02:45:08,sold,Accessories,General,Scarf,Unisex,9,"0,0,0,0,0,64,36,0",Blue,36,H&M,userSellIn,5.95,17.21,minor
+ITEM00635,2025-06-06 01:58:20,2025-08-18 05:02:32,sold,One-Piece,Dress,Casual Dress,Women,10,"0,63,0,37,0,0,0,0",Grey,38,Gucci,donation,1.87,4.66,heavy
+ITEM00636,2025-06-13 00:35:03,2025-09-18 09:40:52,recycled,Footwear,Shoes,Boots,Women,1,"0,0,0,0,0,100,0,0",Red,XL,Nike,bulkWholesale,29.66,0.0,heavy
+ITEM00637,2025-06-24 08:02:11,2025-07-23 05:27:01,sold,Bottomwear,Skirt,Mini Skirt,Men,6,"0,0,100,0,0,0,0,0",Red,38,Patagonia,bulkWholesale,28.64,101.2,none
+ITEM00638,2025-07-03 10:50:47,2025-09-23 07:27:39,disposed,Topwear,Shirt,T-Shirt,Unisex,0,"0,58,0,0,42,0,0,0",Grey,S,Adidas,bulkWholesale,22.65,0.0,none
+ITEM00639,2025-06-26 04:38:26,2025-07-18 00:39:01,sold,Accessories,General,Handbag,Unisex,6,"100,0,0,0,0,0,0,0",Multicolor,M,Patagonia,donation,5.57,9.71,minor
+ITEM00640,2025-07-05 13:35:52,2025-08-31 19:28:00,disposed,Topwear,Jacket,Hoodie,Kids,1,"76,0,0,0,0,0,0,24",Green,42,Adidas,donation,18.3,0.0,heavy
+ITEM00641,2025-06-22 20:37:54,2025-08-13 06:32:34,sold,Topwear,Jacket,Winter Coat,Kids,4,"100,0,0,0,0,0,0,0",Beige,L,Nike,userSellIn,4.58,16.34,minor
+ITEM00642,2025-06-18 14:36:09,2025-08-19 22:32:51,sold,Bottomwear,Pants,Chinos,Women,7,"0,43,0,0,0,0,0,57",Beige,42,Uniqlo,userSellIn,28.57,90.95,moderate
+ITEM00643,2025-06-13 15:48:22,2025-09-19 09:47:52,disposed,One-Piece,Dress,Casual Dress,Men,1,"0,80,0,0,20,0,0,0",Green,42,Zara,bulkWholesale,14.94,0.0,minor
+ITEM00644,2025-06-15 15:29:40,2025-07-22 03:38:01,sold,Bottomwear,Skirt,Maxi Skirt,Kids,9,"0,0,17,0,0,0,83,0",Grey,S,Nike,userSellIn,1.94,6.54,moderate
+ITEM00645,2025-06-18 12:12:10,2025-09-18 23:50:14,disposed,Bottomwear,Pants,Shorts,Kids,1,"0,0,0,0,0,0,0,100",Black,S,Gucci,userSellIn,18.98,0.0,moderate
+ITEM00646,2025-06-09 07:32:00,2025-09-17 08:16:56,sold,One-Piece,Dress,Summer Dress,Men,9,"0,0,0,0,0,100,0,0",Black,XS,Gucci,userSellIn,18.12,29.05,heavy
+ITEM00647,2025-06-15 18:41:43,2025-09-27 20:04:50,disposed,Bottomwear,Skirt,Mini Skirt,Men,1,"0,0,0,0,49,0,51,0",White,36,Gucci,bulkWholesale,3.88,0.0,minor
+ITEM00648,2025-06-27 16:33:22,2025-08-03 01:25:31,sold,Accessories,General,Belt,Unisex,8,"100,0,0,0,0,0,0,0",Beige,S,Gucci,userSellIn,18.85,48.58,heavy
+ITEM00649,2025-06-19 13:32:11,2025-07-21 17:20:34,recycled,Accessories,General,Belt,Men,2,"79,0,0,0,0,0,21,0",Grey,44,Levi's,bulkWholesale,16.79,0.0,heavy
+ITEM00650,2025-06-18 18:10:38,2025-07-26 14:20:45,sold,Bottomwear,Skirt,Mini Skirt,Women,3,"0,0,0,0,87,0,13,0",White,XS,Uniqlo,donation,28.92,106.35,minor
+ITEM00651,2025-07-02 11:55:12,2025-07-19 18:15:27,recycled,Footwear,Shoes,Sneakers,Men,0,"0,0,0,0,0,0,33,67",Red,M,H&M,bulkWholesale,28.72,0.0,heavy
+ITEM00652,2025-06-14 04:14:01,2025-09-14 21:20:13,recycled,Topwear,Jacket,Blazer,Unisex,1,"0,0,10,0,0,0,0,90",Beige,36,Patagonia,donation,22.72,0.0,moderate
+ITEM00653,2025-06-28 21:10:21,2025-09-17 13:52:55,sold,Accessories,General,Scarf,Men,10,"0,0,0,0,57,0,43,0",Beige,40,Levi's,bulkWholesale,14.43,45.91,moderate
+ITEM00654,2025-06-28 04:16:50,2025-08-30 12:14:42,recycled,Bottomwear,Skirt,Maxi Skirt,Kids,2,"0,0,0,0,100,0,0,0",Black,XL,H&M,donation,10.26,0.0,minor
+ITEM00655,2025-07-01 23:03:57,2025-09-06 14:54:23,recycled,Topwear,Shirt,T-Shirt,Women,1,"93,7,0,0,0,0,0,0",Black,38,Nike,bulkWholesale,18.12,0.0,minor
+ITEM00656,2025-06-17 23:18:48,2025-09-07 18:38:55,recycled,One-Piece,Dress,Casual Dress,Unisex,2,"0,0,100,0,0,0,0,0",Blue,44,Adidas,bulkWholesale,22.87,0.0,minor
+ITEM00657,2025-07-02 23:33:44,2025-09-10 10:15:24,sold,Bottomwear,Skirt,Maxi Skirt,Kids,3,"0,0,0,36,64,0,0,0",White,Kids,H&M,donation,2.62,7.53,moderate
+ITEM00658,2025-06-09 16:07:32,2025-09-03 14:55:46,sold,One-Piece,Dress,Summer Dress,Unisex,6,"0,100,0,0,0,0,0,0",Grey,36,Nike,donation,29.34,89.93,minor
+ITEM00659,2025-06-19 16:34:28,2025-09-08 15:15:52,sold,Accessories,General,Handbag,Women,3,"0,0,51,0,0,49,0,0",Grey,40,Levi's,donation,8.91,31.53,minor
+ITEM00660,2025-06-27 09:14:22,2025-09-25 18:01:15,sold,Bottomwear,Skirt,Maxi Skirt,Kids,5,"0,50,0,0,0,50,0,0",Black,34,Nike,userSellIn,25.36,72.56,moderate
+ITEM00661,2025-07-04 17:31:26,2025-07-21 18:45:39,sold,One-Piece,Dress,Summer Dress,Men,10,"32,0,0,0,68,0,0,0",Beige,42,H&M,donation,15.18,43.72,none
+ITEM00662,2025-06-17 02:42:36,2025-09-09 23:07:57,sold,Accessories,General,Handbag,Women,10,"0,10,0,0,0,90,0,0",Beige,34,Zara,bulkWholesale,15.08,30.98,moderate
+ITEM00663,2025-06-16 17:56:26,2025-07-28 03:52:24,sold,Bottomwear,Skirt,Mini Skirt,Unisex,6,"0,0,0,19,0,0,81,0",Green,L,Nike,userSellIn,2.94,8.92,moderate
+ITEM00664,2025-06-20 16:11:47,2025-08-10 14:23:06,sold,One-Piece,Dress,Summer Dress,Women,6,"0,0,0,0,100,0,0,0",White,L,Zara,userSellIn,2.17,5.52,minor
+ITEM00665,2025-06-10 12:42:05,2025-08-22 14:04:04,sold,Accessories,General,Scarf,Men,7,"100,0,0,0,0,0,0,0",White,40,Levi's,bulkWholesale,6.47,22.55,moderate
+ITEM00666,2025-06-30 06:58:38,2025-09-05 07:36:30,disposed,Bottomwear,Pants,Chinos,Men,1,"0,0,0,100,0,0,0,0",Multicolor,38,Nike,donation,13.93,0.0,moderate
+ITEM00667,2025-06-22 03:15:56,2025-09-07 11:05:38,sold,One-Piece,Dress,Casual Dress,Unisex,5,"0,100,0,0,0,0,0,0",Grey,XS,Gucci,userSellIn,2.02,4.33,heavy
+ITEM00668,2025-06-11 09:41:48,2025-07-18 08:55:17,sold,One-Piece,Dress,Evening Dress,Women,6,"0,0,100,0,0,0,0,0",Red,38,Adidas,donation,24.86,79.23,none
+ITEM00669,2025-06-15 02:32:05,2025-09-14 22:45:26,sold,Footwear,Shoes,Sneakers,Kids,7,"0,0,0,0,100,0,0,0",Black,XS,Adidas,bulkWholesale,4.54,10.74,none
+ITEM00670,2025-07-04 01:00:23,2025-09-20 02:19:01,sold,Footwear,Shoes,Boots,Kids,10,"0,100,0,0,0,0,0,0",Black,40,Zara,donation,8.37,22.27,none
+ITEM00671,2025-07-05 09:17:14,2025-08-06 04:37:23,sold,Topwear,Shirt,Blouse,Unisex,5,"0,0,0,0,0,100,0,0",White,40,Nike,bulkWholesale,27.95,80.24,heavy
+ITEM00672,2025-06-30 17:09:15,2025-07-19 09:54:06,sold,Accessories,General,Belt,Men,7,"60,0,0,40,0,0,0,0",Black,40,Gucci,userSellIn,1.93,6.38,minor
+ITEM00673,2025-06-29 00:06:13,2025-08-25 09:40:33,sold,Accessories,General,Belt,Kids,8,"46,0,0,0,0,54,0,0",Beige,Kids,Uniqlo,donation,25.02,67.51,none
+ITEM00674,2025-06-20 15:37:01,2025-08-18 20:51:44,sold,Bottomwear,Skirt,Maxi Skirt,Men,7,"0,0,100,0,0,0,0,0",Red,XS,Nike,donation,23.66,40.6,heavy
+ITEM00675,2025-06-19 03:39:14,2025-07-29 05:17:19,sold,Topwear,Shirt,Polo,Men,3,"0,0,0,100,0,0,0,0",Blue,38,Uniqlo,donation,9.82,37.95,none
+ITEM00676,2025-07-03 23:54:03,2025-09-20 11:15:51,sold,Bottomwear,Pants,Chinos,Kids,6,"0,0,0,0,0,0,100,0",Red,XL,Nike,bulkWholesale,4.53,15.73,none
+ITEM00677,2025-06-19 19:05:34,2025-08-31 05:02:20,sold,Bottomwear,Skirt,Mini Skirt,Kids,8,"100,0,0,0,0,0,0,0",Multicolor,XS,Zara,donation,14.93,55.64,heavy
+ITEM00678,2025-06-26 18:09:30,2025-07-19 13:44:25,sold,Bottomwear,Pants,Jeans,Kids,6,"0,0,0,0,96,4,0,0",Multicolor,L,H&M,userSellIn,25.21,95.33,minor
+ITEM00679,2025-06-11 12:01:44,2025-08-03 21:49:47,sold,Footwear,Shoes,Boots,Kids,8,"0,0,0,0,100,0,0,0",Black,44,Nike,userSellIn,20.57,75.2,none
+ITEM00680,2025-06-19 00:53:47,2025-08-03 11:22:14,sold,Topwear,Jacket,Hoodie,Women,9,"0,0,0,0,100,0,0,0",Red,36,Uniqlo,bulkWholesale,10.89,34.22,minor
+ITEM00681,2025-06-07 10:32:40,2025-09-20 05:59:35,sold,Topwear,Jacket,Hoodie,Men,9,"0,0,0,0,0,100,0,0",Multicolor,M,Patagonia,bulkWholesale,25.84,74.21,heavy
+ITEM00682,2025-06-15 04:28:12,2025-08-11 20:30:36,recycled,Accessories,General,Scarf,Kids,2,"0,0,100,0,0,0,0,0",Red,L,Uniqlo,donation,17.99,0.0,heavy
+ITEM00683,2025-07-02 05:43:12,2025-09-23 01:04:48,sold,Accessories,General,Scarf,Men,4,"0,5,0,0,0,0,95,0",Green,42,Nike,bulkWholesale,20.33,31.58,minor
+ITEM00684,2025-06-08 12:13:24,2025-08-19 22:55:58,sold,Footwear,Shoes,Heels,Women,8,"0,0,36,0,0,0,64,0",Blue,44,Levi's,userSellIn,27.76,44.67,minor
+ITEM00685,2025-06-28 20:53:52,2025-09-21 08:05:41,sold,Footwear,Shoes,Sneakers,Men,6,"0,0,100,0,0,0,0,0",Blue,XS,H&M,userSellIn,25.77,70.19,minor
+ITEM00686,2025-06-28 17:12:33,2025-07-21 14:52:39,sold,One-Piece,Dress,Casual Dress,Kids,8,"0,100,0,0,0,0,0,0",Beige,36,Uniqlo,bulkWholesale,16.75,57.01,none
+ITEM00687,2025-06-15 21:05:32,2025-09-24 08:09:06,sold,Footwear,Shoes,Boots,Unisex,6,"0,0,0,0,100,0,0,0",Grey,42,Adidas,userSellIn,1.22,2.3,heavy
+ITEM00688,2025-06-18 20:17:55,2025-08-04 19:47:37,sold,Topwear,Shirt,Blouse,Women,6,"0,0,0,100,0,0,0,0",Black,44,Adidas,userSellIn,20.36,57.96,minor
+ITEM00689,2025-06-13 23:58:41,2025-09-09 01:24:18,sold,Accessories,General,Handbag,Men,6,"0,0,53,47,0,0,0,0",Beige,40,Nike,donation,4.56,12.37,heavy
+ITEM00690,2025-06-12 03:40:50,2025-10-01 11:41:40,recycled,Topwear,Jacket,Winter Coat,Women,1,"0,0,66,0,0,0,34,0",Multicolor,38,Levi's,donation,16.96,0.0,minor
+ITEM00691,2025-06-19 01:43:27,2025-08-28 19:08:42,sold,Footwear,Shoes,Boots,Unisex,5,"0,0,0,0,0,44,56,0",Blue,L,Gucci,userSellIn,9.68,31.62,none
+ITEM00692,2025-06-14 03:19:59,2025-09-11 08:21:37,sold,One-Piece,Dress,Summer Dress,Women,7,"0,0,0,100,0,0,0,0",Multicolor,Kids,Adidas,bulkWholesale,4.5,12.11,moderate
+ITEM00693,2025-06-12 09:08:06,2025-09-13 10:00:14,sold,Footwear,Shoes,Heels,Men,5,"0,0,0,100,0,0,0,0",Beige,XS,Levi's,bulkWholesale,0.74,1.42,minor
+ITEM00694,2025-06-30 12:09:19,2025-09-30 05:01:26,sold,Bottomwear,Pants,Shorts,Unisex,3,"0,0,0,0,0,0,0,100",Blue,XS,H&M,userSellIn,28.33,110.33,none
+ITEM00695,2025-06-20 16:39:45,2025-09-06 15:49:11,recycled,Accessories,General,Belt,Women,0,"0,0,0,0,0,100,0,0",White,Kids,Levi's,bulkWholesale,19.69,0.0,heavy
+ITEM00696,2025-06-17 18:01:19,2025-07-27 12:02:41,sold,One-Piece,Dress,Evening Dress,Women,4,"0,0,0,0,0,25,75,0",Black,40,Zara,donation,19.08,52.8,heavy
+ITEM00697,2025-06-23 05:52:12,2025-07-22 17:26:49,disposed,Topwear,Jacket,Blazer,Unisex,0,"0,100,0,0,0,0,0,0",Multicolor,40,Adidas,bulkWholesale,15.72,0.0,moderate
+ITEM00698,2025-07-01 14:24:48,2025-08-28 10:57:24,sold,Bottomwear,Skirt,Mini Skirt,Women,9,"0,5,0,95,0,0,0,0",Red,XS,Gucci,donation,20.14,42.78,heavy
+ITEM00699,2025-07-01 09:59:50,2025-08-20 08:10:04,sold,Accessories,General,Scarf,Kids,5,"0,0,0,0,0,100,0,0",Blue,34,Nike,bulkWholesale,24.44,57.07,minor
+ITEM00700,2025-06-27 23:24:47,2025-08-04 17:32:56,sold,Bottomwear,Skirt,Maxi Skirt,Men,5,"0,0,0,0,0,0,10,90",Grey,M,Nike,donation,23.02,75.61,minor
+ITEM00701,2025-06-08 03:29:08,2025-07-17 19:33:01,sold,Accessories,General,Handbag,Women,7,"0,0,0,21,0,79,0,0",Multicolor,44,Patagonia,userSellIn,7.21,22.07,moderate
+ITEM00702,2025-06-20 07:09:28,2025-09-14 04:18:04,disposed,One-Piece,Dress,Evening Dress,Men,1,"0,0,0,100,0,0,0,0",Multicolor,44,Patagonia,bulkWholesale,23.47,0.0,none
+ITEM00703,2025-06-14 12:18:33,2025-09-23 10:37:47,sold,One-Piece,Dress,Summer Dress,Women,5,"89,0,0,0,0,0,11,0",Blue,38,Patagonia,userSellIn,27.0,47.6,moderate
+ITEM00704,2025-06-24 15:42:21,2025-09-24 16:01:34,sold,Topwear,Jacket,Blazer,Men,5,"0,0,0,0,100,0,0,0",Green,XS,Patagonia,userSellIn,11.56,19.16,minor
+ITEM00705,2025-06-16 08:15:08,2025-07-25 11:50:10,sold,Footwear,Shoes,Heels,Kids,9,"0,100,0,0,0,0,0,0",White,M,H&M,userSellIn,17.91,56.79,heavy
+ITEM00706,2025-06-08 05:45:13,2025-07-22 13:39:07,sold,Bottomwear,Pants,Jeans,Women,10,"0,0,0,21,0,79,0,0",White,34,Zara,donation,12.92,40.64,heavy
+ITEM00707,2025-06-29 13:26:50,2025-08-27 08:04:07,sold,One-Piece,Dress,Summer Dress,Unisex,8,"0,0,34,0,0,0,0,66",Black,XS,Nike,userSellIn,11.08,26.85,moderate
+ITEM00708,2025-06-29 13:51:24,2025-09-10 14:41:43,disposed,Footwear,Shoes,Sneakers,Unisex,0,"0,0,100,0,0,0,0,0",White,34,Patagonia,userSellIn,5.87,0.0,moderate
+ITEM00709,2025-06-18 22:53:01,2025-09-23 00:36:54,disposed,One-Piece,Dress,Evening Dress,Kids,1,"0,0,70,30,0,0,0,0",Beige,36,Levi's,userSellIn,10.33,0.0,none
+ITEM00710,2025-06-13 09:39:55,2025-08-22 00:53:00,sold,Footwear,Shoes,Heels,Kids,4,"62,0,0,0,38,0,0,0",Red,40,Adidas,bulkWholesale,15.73,31.62,moderate
+ITEM00711,2025-06-29 23:53:00,2025-08-29 02:01:14,sold,One-Piece,Dress,Evening Dress,Unisex,3,"0,37,63,0,0,0,0,0",Grey,36,Levi's,userSellIn,21.78,40.84,minor
+ITEM00712,2025-06-13 04:53:25,2025-08-20 00:10:21,sold,One-Piece,Dress,Evening Dress,Men,8,"41,0,59,0,0,0,0,0",White,Kids,Nike,donation,11.87,30.93,none
+ITEM00713,2025-06-10 06:47:14,2025-09-01 11:09:24,sold,Topwear,Jacket,Hoodie,Kids,5,"18,0,0,0,0,82,0,0",Blue,S,Patagonia,bulkWholesale,12.95,25.29,heavy
+ITEM00714,2025-06-09 06:40:57,2025-09-26 21:27:07,sold,One-Piece,Dress,Summer Dress,Kids,5,"0,0,8,0,0,0,92,0",White,Kids,Zara,userSellIn,14.56,36.62,none
+ITEM00715,2025-06-18 04:09:55,2025-08-15 11:20:16,sold,Accessories,General,Belt,Kids,10,"0,0,0,0,0,59,0,41",Multicolor,40,Uniqlo,userSellIn,1.51,4.54,heavy
+ITEM00716,2025-06-10 19:44:25,2025-09-23 09:21:06,sold,Bottomwear,Pants,Shorts,Kids,8,"0,0,0,12,0,0,0,88",Multicolor,L,Zara,userSellIn,16.02,26.22,heavy
+ITEM00717,2025-06-25 08:40:08,2025-07-20 22:43:48,sold,One-Piece,Dress,Summer Dress,Women,8,"0,0,0,0,83,0,17,0",Multicolor,34,Patagonia,userSellIn,1.76,4.09,moderate
+ITEM00718,2025-06-11 09:17:44,2025-07-30 10:57:38,sold,Topwear,Shirt,Blouse,Men,10,"0,0,0,0,0,100,0,0",Multicolor,38,Uniqlo,userSellIn,17.38,30.49,none
+ITEM00719,2025-06-29 00:22:20,2025-08-31 14:37:35,sold,Bottomwear,Pants,Chinos,Kids,4,"0,100,0,0,0,0,0,0",Blue,Kids,Levi's,userSellIn,18.58,59.79,moderate
+ITEM00720,2025-06-27 05:32:43,2025-07-23 03:24:49,sold,One-Piece,Dress,Casual Dress,Unisex,6,"0,0,0,0,0,0,0,100",White,Kids,Zara,donation,16.85,32.62,moderate
+ITEM00721,2025-06-12 19:06:02,2025-09-28 17:50:05,recycled,Topwear,Shirt,Polo,Women,0,"0,0,0,71,29,0,0,0",Red,42,Zara,userSellIn,21.72,0.0,minor
+ITEM00722,2025-06-22 05:24:04,2025-08-12 08:33:40,sold,One-Piece,Dress,Summer Dress,Kids,4,"0,0,100,0,0,0,0,0",Multicolor,XS,Uniqlo,donation,3.13,6.98,none
+ITEM00723,2025-07-01 10:55:52,2025-08-21 16:01:29,recycled,Footwear,Shoes,Heels,Men,2,"0,0,52,0,0,0,48,0",Multicolor,S,Levi's,userSellIn,12.45,0.0,heavy
+ITEM00724,2025-06-12 22:20:54,2025-09-06 16:21:46,disposed,Accessories,General,Belt,Women,2,"0,0,0,0,0,0,100,0",Blue,XS,Uniqlo,donation,8.64,0.0,none
+ITEM00725,2025-06-21 22:38:14,2025-07-27 21:41:59,sold,One-Piece,Dress,Evening Dress,Kids,4,"0,0,0,48,0,0,0,52",Grey,38,Patagonia,userSellIn,26.82,65.07,minor
+ITEM00726,2025-06-06 02:46:13,2025-08-20 16:57:18,sold,Bottomwear,Pants,Jeans,Women,5,"0,76,0,0,0,0,0,24",Beige,M,Levi's,userSellIn,14.05,34.18,heavy
+ITEM00727,2025-06-24 10:52:57,2025-08-26 06:55:28,recycled,One-Piece,Dress,Evening Dress,Kids,2,"0,0,41,0,0,59,0,0",Green,XL,H&M,bulkWholesale,29.4,0.0,none
+ITEM00728,2025-06-09 02:00:37,2025-07-20 17:14:48,recycled,Bottomwear,Skirt,Mini Skirt,Kids,2,"0,0,100,0,0,0,0,0",Blue,Kids,Zara,userSellIn,11.63,0.0,moderate
+ITEM00729,2025-06-22 22:41:05,2025-08-09 18:28:30,sold,Topwear,Jacket,Hoodie,Unisex,10,"0,0,0,100,0,0,0,0",Blue,40,Levi's,userSellIn,0.59,1.56,none
+ITEM00730,2025-06-09 17:24:17,2025-08-04 22:40:07,sold,Bottomwear,Skirt,Mini Skirt,Men,9,"0,0,78,22,0,0,0,0",Green,Kids,Zara,donation,15.55,44.84,minor
+ITEM00731,2025-07-01 03:43:15,2025-08-24 06:13:26,recycled,Footwear,Shoes,Sneakers,Men,2,"0,0,0,0,0,86,14,0",Blue,S,Nike,bulkWholesale,11.68,0.0,heavy
+ITEM00732,2025-06-13 08:00:40,2025-09-14 11:24:44,recycled,Bottomwear,Skirt,Mini Skirt,Kids,0,"0,0,0,65,0,0,0,35",Green,38,Patagonia,userSellIn,23.62,0.0,heavy
+ITEM00733,2025-06-25 07:30:54,2025-09-24 22:01:25,sold,Topwear,Shirt,T-Shirt,Men,3,"0,51,0,0,0,49,0,0",Multicolor,40,Zara,userSellIn,16.9,54.86,heavy
+ITEM00734,2025-06-12 20:57:55,2025-09-18 21:39:51,disposed,One-Piece,Dress,Casual Dress,Men,1,"0,0,100,0,0,0,0,0",White,S,Patagonia,userSellIn,16.63,0.0,heavy
+ITEM00735,2025-06-08 02:15:18,2025-09-10 07:25:00,sold,Footwear,Shoes,Heels,Women,5,"0,0,0,0,12,0,88,0",Green,L,Zara,userSellIn,1.9,3.9,moderate
+ITEM00736,2025-06-24 18:46:21,2025-07-22 14:38:51,sold,Bottomwear,Pants,Shorts,Men,4,"0,0,0,0,78,0,22,0",Grey,XS,Zara,bulkWholesale,27.17,44.71,minor
+ITEM00737,2025-06-20 03:31:00,2025-09-07 13:28:55,sold,Footwear,Shoes,Sneakers,Men,5,"0,0,48,0,0,52,0,0",Black,40,Nike,bulkWholesale,13.97,25.56,moderate
+ITEM00738,2025-06-10 20:06:58,2025-10-02 00:21:38,sold,One-Piece,Dress,Casual Dress,Unisex,6,"0,0,0,0,100,0,0,0",Grey,XS,Nike,donation,15.75,29.73,none
+ITEM00739,2025-06-17 13:51:51,2025-07-26 09:52:44,disposed,Topwear,Jacket,Winter Coat,Kids,0,"0,0,0,0,100,0,0,0",Grey,42,Uniqlo,bulkWholesale,25.83,0.0,none
+ITEM00740,2025-06-17 01:56:00,2025-07-31 01:43:34,sold,Bottomwear,Pants,Chinos,Kids,4,"0,0,94,0,6,0,0,0",Blue,42,Uniqlo,userSellIn,13.13,32.67,moderate
+ITEM00741,2025-06-06 03:26:26,2025-07-19 17:56:47,recycled,Topwear,Shirt,Polo,Unisex,2,"19,0,0,0,0,81,0,0",Multicolor,34,Nike,donation,26.65,0.0,minor
+ITEM00742,2025-06-28 12:41:27,2025-09-04 22:49:29,sold,Topwear,Shirt,Blouse,Unisex,4,"71,0,0,0,0,0,29,0",Beige,34,Patagonia,userSellIn,19.51,56.85,heavy
+ITEM00743,2025-06-26 05:19:24,2025-08-16 05:10:29,sold,Bottomwear,Skirt,Mini Skirt,Kids,10,"0,0,0,68,32,0,0,0",Grey,M,Levi's,bulkWholesale,22.99,74.76,none
+ITEM00744,2025-07-02 00:21:58,2025-07-26 08:10:58,sold,Topwear,Jacket,Winter Coat,Kids,3,"0,0,0,0,0,0,0,100",Grey,Kids,H&M,donation,13.71,32.49,moderate
+ITEM00745,2025-06-16 21:34:40,2025-09-02 04:59:02,sold,One-Piece,Dress,Evening Dress,Kids,9,"0,44,56,0,0,0,0,0",Blue,34,Adidas,bulkWholesale,29.75,66.78,minor
+ITEM00746,2025-06-21 20:33:40,2025-10-01 21:18:57,sold,Topwear,Jacket,Winter Coat,Unisex,9,"0,0,0,0,21,0,79,0",Multicolor,36,Nike,donation,10.4,28.08,minor
+ITEM00747,2025-06-15 05:58:41,2025-09-03 10:19:42,sold,Topwear,Jacket,Blazer,Kids,4,"0,0,0,0,0,100,0,0",Beige,38,H&M,userSellIn,7.15,16.1,minor
+ITEM00748,2025-06-14 14:00:53,2025-09-25 01:16:36,recycled,Topwear,Shirt,Blouse,Kids,2,"68,32,0,0,0,0,0,0",Beige,XS,Patagonia,userSellIn,16.05,0.0,minor
+ITEM00749,2025-07-04 09:59:46,2025-08-08 01:07:53,disposed,Accessories,General,Handbag,Unisex,1,"0,0,0,80,0,20,0,0",White,Kids,Nike,userSellIn,19.65,0.0,none
+ITEM00750,2025-06-15 00:16:21,2025-08-22 18:19:47,sold,Topwear,Jacket,Hoodie,Women,9,"0,0,0,100,0,0,0,0",Blue,S,Nike,donation,0.21,0.37,none
+ITEM00751,2025-07-05 15:14:22,2025-09-20 22:55:51,sold,Topwear,Jacket,Blazer,Unisex,7,"0,100,0,0,0,0,0,0",Multicolor,M,Patagonia,userSellIn,13.03,28.56,none
+ITEM00752,2025-06-14 01:53:03,2025-08-29 06:28:01,sold,Bottomwear,Skirt,Mini Skirt,Women,6,"9,0,0,0,0,0,91,0",Red,XS,H&M,userSellIn,13.24,22.15,heavy
+ITEM00753,2025-06-24 02:31:39,2025-08-05 00:19:39,sold,One-Piece,Dress,Evening Dress,Women,7,"0,0,0,0,20,0,80,0",Red,34,Uniqlo,bulkWholesale,7.65,17.63,none
+ITEM00754,2025-06-27 09:54:04,2025-07-30 13:20:03,disposed,Footwear,Shoes,Heels,Unisex,1,"53,0,0,0,0,0,0,47",Beige,Kids,Zara,donation,27.24,0.0,heavy
+ITEM00755,2025-06-12 16:58:00,2025-09-28 21:01:36,sold,Accessories,General,Handbag,Unisex,7,"0,0,100,0,0,0,0,0",Beige,36,Adidas,donation,6.02,12.57,none
+ITEM00756,2025-06-17 22:01:56,2025-09-03 21:42:33,sold,Accessories,General,Belt,Women,9,"0,75,0,0,0,25,0,0",White,44,Adidas,userSellIn,13.39,20.79,heavy
+ITEM00757,2025-06-13 01:59:04,2025-07-31 22:08:18,sold,Topwear,Shirt,Polo,Men,6,"0,0,0,0,0,100,0,0",Green,38,Levi's,bulkWholesale,29.9,117.66,none
+ITEM00758,2025-06-30 08:48:09,2025-09-02 10:52:56,sold,One-Piece,Dress,Summer Dress,Women,7,"0,0,60,0,0,0,40,0",Grey,34,Uniqlo,donation,4.01,10.7,none
+ITEM00759,2025-06-22 13:55:27,2025-08-13 16:10:47,recycled,One-Piece,Dress,Casual Dress,Women,1,"0,97,0,0,0,0,0,3",Blue,XL,Gucci,bulkWholesale,20.91,0.0,none
+ITEM00760,2025-06-09 07:15:29,2025-09-16 20:41:40,sold,Footwear,Shoes,Sneakers,Women,9,"100,0,0,0,0,0,0,0",Blue,40,Patagonia,userSellIn,1.55,3.92,none
+ITEM00761,2025-06-16 05:46:35,2025-09-22 19:43:34,recycled,Bottomwear,Skirt,Maxi Skirt,Unisex,2,"0,0,0,0,100,0,0,0",Beige,34,Zara,donation,21.63,0.0,moderate
+ITEM00762,2025-07-01 02:06:06,2025-09-12 00:29:33,sold,Footwear,Shoes,Boots,Women,4,"0,0,100,0,0,0,0,0",Grey,38,Nike,userSellIn,26.59,84.96,moderate
+ITEM00763,2025-06-10 12:23:17,2025-07-15 18:59:49,sold,One-Piece,Dress,Casual Dress,Men,3,"0,0,0,0,0,100,0,0",Green,36,Adidas,userSellIn,8.19,23.54,heavy
+ITEM00764,2025-06-26 03:10:13,2025-08-12 00:07:29,sold,Topwear,Jacket,Blazer,Unisex,10,"37,0,0,0,63,0,0,0",Grey,XS,Zara,bulkWholesale,15.38,54.38,heavy
+ITEM00765,2025-06-20 09:08:58,2025-07-23 09:11:52,sold,Bottomwear,Pants,Shorts,Men,9,"25,0,0,0,0,0,75,0",Blue,L,Gucci,userSellIn,28.58,93.28,moderate
+ITEM00766,2025-07-01 01:06:24,2025-08-01 20:01:22,disposed,Topwear,Shirt,Polo,Unisex,1,"0,0,0,0,0,0,100,0",White,36,Nike,donation,6.66,0.0,moderate
+ITEM00767,2025-06-24 22:42:51,2025-09-17 21:51:37,sold,Topwear,Jacket,Blazer,Women,10,"0,0,32,0,0,0,68,0",Blue,XL,Zara,userSellIn,26.05,47.03,heavy
+ITEM00768,2025-06-10 20:33:00,2025-08-23 10:44:51,sold,One-Piece,Dress,Casual Dress,Women,5,"0,100,0,0,0,0,0,0",Blue,S,Gucci,userSellIn,12.41,33.38,heavy
+ITEM00769,2025-06-30 23:07:51,2025-07-28 04:32:08,sold,Bottomwear,Skirt,Maxi Skirt,Women,10,"0,0,24,0,0,76,0,0",Black,42,Uniqlo,donation,10.5,23.5,moderate
+ITEM00770,2025-06-24 11:37:51,2025-09-27 14:22:17,sold,Footwear,Shoes,Boots,Kids,6,"0,0,0,0,0,0,100,0",Multicolor,L,Patagonia,bulkWholesale,12.8,19.51,minor
+ITEM00771,2025-06-19 11:57:13,2025-08-03 01:07:41,disposed,Footwear,Shoes,Boots,Kids,0,"0,0,0,100,0,0,0,0",White,38,Uniqlo,donation,19.58,0.0,minor
+ITEM00772,2025-06-17 10:59:51,2025-10-03 15:07:52,sold,Bottomwear,Skirt,Maxi Skirt,Kids,5,"0,22,0,0,78,0,0,0",Green,38,Uniqlo,bulkWholesale,3.14,8.33,minor
+ITEM00773,2025-06-15 07:41:23,2025-08-23 00:47:32,sold,One-Piece,Dress,Evening Dress,Unisex,6,"0,0,0,0,0,0,100,0",Green,40,Adidas,bulkWholesale,19.5,61.1,heavy
+ITEM00774,2025-06-19 23:08:48,2025-07-27 20:06:15,disposed,Bottomwear,Skirt,Maxi Skirt,Men,0,"0,0,0,0,100,0,0,0",Red,XS,Zara,bulkWholesale,22.62,0.0,moderate
+ITEM00775,2025-06-26 08:30:41,2025-07-30 19:26:20,recycled,Accessories,General,Handbag,Kids,1,"0,0,0,0,0,0,93,7",Red,XL,H&M,bulkWholesale,22.23,0.0,none
+ITEM00776,2025-06-07 13:47:53,2025-09-03 00:49:58,recycled,One-Piece,Dress,Summer Dress,Kids,0,"0,0,0,0,100,0,0,0",Green,S,Adidas,donation,0.88,0.0,minor
+ITEM00777,2025-06-18 03:38:15,2025-09-21 05:39:17,disposed,One-Piece,Dress,Casual Dress,Men,2,"100,0,0,0,0,0,0,0",Beige,Kids,H&M,userSellIn,4.27,0.0,heavy
+ITEM00778,2025-06-17 03:58:37,2025-09-04 22:02:08,sold,One-Piece,Dress,Casual Dress,Unisex,7,"0,0,79,21,0,0,0,0",Blue,38,Adidas,userSellIn,13.67,49.12,moderate
+ITEM00779,2025-06-16 17:03:04,2025-09-11 18:36:55,sold,Bottomwear,Pants,Jeans,Women,5,"61,0,0,0,39,0,0,0",Blue,Kids,Adidas,donation,19.84,70.57,none
+ITEM00780,2025-06-23 00:04:50,2025-09-08 09:17:15,recycled,Footwear,Shoes,Sneakers,Men,1,"0,23,0,0,0,77,0,0",Green,42,Patagonia,donation,24.97,0.0,minor
+ITEM00781,2025-06-27 10:51:56,2025-08-16 21:40:33,sold,Footwear,Shoes,Sneakers,Kids,10,"0,0,0,0,100,0,0,0",Blue,XL,Adidas,bulkWholesale,12.39,25.75,none
+ITEM00782,2025-06-21 04:57:19,2025-09-17 08:04:46,sold,Topwear,Shirt,Blouse,Men,3,"0,0,0,0,0,0,0,100",Green,36,H&M,donation,5.95,16.26,minor
+ITEM00783,2025-06-14 11:27:05,2025-07-21 01:16:11,disposed,Topwear,Jacket,Hoodie,Women,0,"100,0,0,0,0,0,0,0",Blue,34,H&M,donation,26.76,0.0,moderate
+ITEM00784,2025-06-24 23:59:13,2025-07-23 23:04:48,sold,Footwear,Shoes,Sneakers,Women,10,"0,0,0,0,0,78,0,22",Blue,Kids,Nike,bulkWholesale,16.94,45.83,moderate
+ITEM00785,2025-06-08 18:09:19,2025-09-18 15:48:16,recycled,One-Piece,Dress,Casual Dress,Unisex,2,"0,0,100,0,0,0,0,0",Grey,XS,Uniqlo,userSellIn,29.53,0.0,moderate
+ITEM00786,2025-06-06 17:20:00,2025-08-05 18:37:21,sold,One-Piece,Dress,Evening Dress,Kids,7,"0,0,0,0,0,0,100,0",Red,38,H&M,userSellIn,10.1,20.39,heavy
+ITEM00787,2025-06-14 07:02:39,2025-08-09 17:01:28,sold,Bottomwear,Pants,Shorts,Men,5,"0,45,0,0,0,0,0,55",White,M,H&M,bulkWholesale,7.75,19.97,minor
+ITEM00788,2025-06-20 21:43:19,2025-09-08 08:39:44,sold,Footwear,Shoes,Sneakers,Women,5,"41,0,0,0,0,59,0,0",Blue,Kids,Adidas,userSellIn,0.56,2.14,heavy
+ITEM00789,2025-06-30 09:09:02,2025-07-30 11:18:02,sold,Accessories,General,Handbag,Unisex,10,"0,0,0,0,0,100,0,0",Red,L,H&M,bulkWholesale,12.05,30.8,heavy
+ITEM00790,2025-07-03 13:33:49,2025-09-13 16:11:07,sold,Footwear,Shoes,Boots,Kids,9,"0,0,100,0,0,0,0,0",Red,XS,Nike,donation,28.36,75.88,none
+ITEM00791,2025-06-23 08:39:07,2025-08-19 09:56:16,sold,One-Piece,Dress,Evening Dress,Men,9,"0,0,100,0,0,0,0,0",Blue,L,Levi's,userSellIn,22.37,34.0,none
+ITEM00792,2025-06-07 15:47:39,2025-08-29 22:57:17,sold,Topwear,Shirt,T-Shirt,Men,5,"0,50,0,0,0,50,0,0",Blue,38,H&M,bulkWholesale,24.19,60.99,none
+ITEM00793,2025-07-04 19:31:12,2025-08-01 15:48:00,sold,One-Piece,Dress,Evening Dress,Kids,10,"0,0,0,76,0,0,0,24",Blue,Kids,Gucci,userSellIn,14.31,55.18,moderate
+ITEM00794,2025-06-21 22:45:15,2025-09-26 16:10:59,recycled,One-Piece,Dress,Casual Dress,Women,2,"49,0,0,51,0,0,0,0",White,M,Uniqlo,donation,15.14,0.0,moderate
+ITEM00795,2025-06-09 03:53:19,2025-07-21 21:41:54,sold,Accessories,General,Scarf,Kids,6,"0,100,0,0,0,0,0,0",Beige,XL,Nike,bulkWholesale,13.32,31.8,minor
+ITEM00796,2025-06-20 12:22:46,2025-08-30 18:09:25,sold,Bottomwear,Pants,Chinos,Women,10,"0,18,0,0,82,0,0,0",Black,XS,Gucci,donation,15.68,59.91,none
+ITEM00797,2025-06-14 07:09:19,2025-08-04 14:42:08,disposed,Topwear,Shirt,Blouse,Unisex,2,"0,0,0,0,0,26,74,0",Grey,M,Levi's,donation,11.76,0.0,none
+ITEM00798,2025-06-06 12:38:52,2025-07-22 08:14:18,sold,Footwear,Shoes,Heels,Kids,10,"0,64,0,0,0,0,0,36",Black,38,Gucci,donation,29.2,56.88,heavy
+ITEM00799,2025-06-28 07:24:53,2025-09-07 15:06:58,sold,Topwear,Shirt,T-Shirt,Kids,9,"0,0,0,0,0,0,100,0",Black,38,Uniqlo,userSellIn,9.97,32.58,heavy
+ITEM00800,2025-07-05 12:28:21,2025-07-29 08:42:10,disposed,Topwear,Jacket,Winter Coat,Men,2,"0,0,0,12,0,0,0,88",Beige,M,Zara,donation,24.33,0.0,none
+ITEM00801,2025-06-15 00:47:09,2025-07-17 01:04:36,disposed,Accessories,General,Scarf,Kids,1,"0,0,0,34,0,0,66,0",Red,34,H&M,userSellIn,9.79,0.0,moderate
+ITEM00802,2025-06-13 20:08:41,2025-08-14 12:24:41,sold,One-Piece,Dress,Summer Dress,Women,9,"0,0,0,0,100,0,0,0",Red,S,Adidas,donation,24.62,87.9,minor
+ITEM00803,2025-06-23 16:58:25,2025-07-20 11:20:12,sold,Footwear,Shoes,Sneakers,Men,3,"32,0,68,0,0,0,0,0",Blue,40,Zara,donation,12.35,21.92,minor
+ITEM00804,2025-06-15 16:32:52,2025-08-30 05:34:46,disposed,Bottomwear,Pants,Chinos,Men,1,"100,0,0,0,0,0,0,0",White,40,Adidas,userSellIn,14.14,0.0,minor
+ITEM00805,2025-06-22 04:11:56,2025-09-28 09:38:27,sold,One-Piece,Dress,Summer Dress,Men,8,"100,0,0,0,0,0,0,0",Grey,Kids,Levi's,userSellIn,4.97,16.89,moderate
+ITEM00806,2025-06-27 06:31:21,2025-07-28 09:47:22,sold,Accessories,General,Scarf,Kids,4,"0,0,0,0,0,100,0,0",Red,XL,Levi's,bulkWholesale,29.25,45.91,heavy
+ITEM00807,2025-06-29 18:28:10,2025-08-15 19:12:31,sold,Accessories,General,Scarf,Kids,3,"0,0,0,0,0,0,0,100",Grey,36,Zara,donation,19.78,67.71,moderate
+ITEM00808,2025-06-12 06:30:39,2025-09-15 17:19:48,sold,Footwear,Shoes,Sneakers,Kids,5,"0,0,0,66,34,0,0,0",Red,44,Levi's,userSellIn,29.8,108.64,minor
+ITEM00809,2025-07-03 11:28:37,2025-09-22 00:37:34,disposed,Bottomwear,Skirt,Mini Skirt,Unisex,0,"0,10,0,90,0,0,0,0",Black,44,Zara,donation,18.16,0.0,none
+ITEM00810,2025-06-21 07:19:09,2025-08-02 13:11:56,sold,One-Piece,Dress,Summer Dress,Men,6,"0,0,0,0,0,100,0,0",Grey,36,Zara,userSellIn,6.84,25.43,none
+ITEM00811,2025-06-22 00:32:47,2025-09-15 18:23:13,recycled,Bottomwear,Skirt,Maxi Skirt,Men,0,"75,0,0,0,25,0,0,0",Red,44,Nike,donation,6.82,0.0,heavy
+ITEM00812,2025-07-02 17:40:58,2025-08-28 15:11:23,recycled,Bottomwear,Pants,Chinos,Unisex,1,"70,30,0,0,0,0,0,0",Green,44,Gucci,donation,19.8,0.0,heavy
+ITEM00813,2025-06-20 05:01:35,2025-08-02 16:57:54,sold,One-Piece,Dress,Casual Dress,Men,10,"100,0,0,0,0,0,0,0",Multicolor,L,Levi's,bulkWholesale,10.23,26.64,heavy
+ITEM00814,2025-06-21 16:45:54,2025-09-05 02:39:33,sold,Topwear,Shirt,Polo,Men,5,"0,0,0,0,0,0,0,100",Red,S,Uniqlo,userSellIn,11.77,37.12,moderate
+ITEM00815,2025-06-27 23:39:08,2025-08-20 07:13:12,sold,Topwear,Shirt,Blouse,Women,3,"0,0,0,78,22,0,0,0",Beige,38,Levi's,donation,16.68,33.89,minor
+ITEM00816,2025-07-01 13:17:08,2025-08-11 14:36:22,sold,Bottomwear,Skirt,Maxi Skirt,Unisex,5,"0,64,0,0,0,0,36,0",Green,42,H&M,donation,16.37,57.79,heavy
+ITEM00817,2025-07-01 18:49:50,2025-07-26 21:53:45,sold,Topwear,Shirt,T-Shirt,Unisex,5,"0,0,0,0,100,0,0,0",Red,XL,Nike,userSellIn,29.71,113.38,minor
+ITEM00818,2025-06-07 16:25:13,2025-09-05 15:42:50,sold,One-Piece,Dress,Summer Dress,Unisex,10,"0,0,61,0,0,0,39,0",Beige,38,Uniqlo,userSellIn,7.45,28.95,heavy
+ITEM00819,2025-06-06 14:52:30,2025-08-25 01:51:53,sold,Bottomwear,Skirt,Mini Skirt,Women,9,"0,0,0,0,0,0,100,0",Green,Kids,Nike,donation,12.73,21.59,minor
+ITEM00820,2025-06-26 16:55:16,2025-07-23 04:22:37,sold,Bottomwear,Skirt,Maxi Skirt,Unisex,10,"0,0,0,6,0,0,0,94",Blue,S,Patagonia,donation,24.73,73.21,moderate
+ITEM00821,2025-06-17 11:57:05,2025-09-04 07:08:13,sold,Accessories,General,Handbag,Kids,6,"0,100,0,0,0,0,0,0",Grey,42,Uniqlo,bulkWholesale,21.71,49.73,heavy
+ITEM00822,2025-06-17 10:22:53,2025-08-28 09:55:45,sold,Topwear,Jacket,Winter Coat,Women,10,"0,0,0,66,34,0,0,0",Red,42,Patagonia,donation,12.67,46.07,none
+ITEM00823,2025-06-25 08:10:40,2025-08-09 16:18:46,disposed,Accessories,General,Scarf,Kids,1,"0,0,0,0,31,0,0,69",White,M,Nike,bulkWholesale,26.11,0.0,none
+ITEM00824,2025-06-23 10:32:49,2025-09-30 15:47:42,sold,Bottomwear,Pants,Chinos,Kids,3,"0,39,0,0,0,0,61,0",Green,36,Gucci,bulkWholesale,12.75,40.91,heavy
+ITEM00825,2025-06-10 10:49:57,2025-09-10 13:11:56,sold,Accessories,General,Handbag,Unisex,9,"0,0,47,0,0,0,0,53",Grey,Kids,Zara,userSellIn,26.01,87.19,moderate
+ITEM00826,2025-06-29 01:03:34,2025-07-22 06:31:18,sold,One-Piece,Dress,Evening Dress,Men,4,"0,0,0,0,0,0,0,100",White,38,Levi's,bulkWholesale,29.61,97.02,moderate
+ITEM00827,2025-06-12 13:31:30,2025-09-29 13:50:52,disposed,One-Piece,Dress,Casual Dress,Women,1,"0,0,0,0,0,0,22,78",Blue,42,Zara,userSellIn,17.38,0.0,moderate
+ITEM00828,2025-07-02 20:45:45,2025-07-29 12:45:54,sold,Bottomwear,Pants,Shorts,Kids,8,"100,0,0,0,0,0,0,0",Green,S,Levi's,bulkWholesale,17.71,37.31,none
+ITEM00829,2025-06-29 12:28:20,2025-07-30 15:05:01,sold,Footwear,Shoes,Sneakers,Women,3,"0,0,0,0,0,0,0,100",Grey,44,H&M,donation,25.63,43.5,minor
+ITEM00830,2025-06-12 21:36:19,2025-08-19 15:28:37,sold,Topwear,Shirt,T-Shirt,Unisex,5,"0,0,0,0,0,100,0,0",Multicolor,42,Patagonia,donation,3.32,5.11,minor
+ITEM00831,2025-06-16 04:50:04,2025-09-07 17:32:31,sold,Topwear,Shirt,T-Shirt,Kids,9,"0,0,0,0,46,0,54,0",Multicolor,34,Adidas,donation,9.26,17.54,none
+ITEM00832,2025-07-03 09:48:38,2025-08-16 03:34:23,recycled,One-Piece,Dress,Evening Dress,Women,2,"0,0,100,0,0,0,0,0",Black,L,Nike,donation,28.15,0.0,moderate
+ITEM00833,2025-06-19 05:10:35,2025-09-29 01:44:26,sold,Footwear,Shoes,Heels,Kids,3,"83,0,0,0,0,17,0,0",Black,L,Adidas,userSellIn,3.65,10.1,heavy
+ITEM00834,2025-06-17 09:41:01,2025-10-02 02:37:30,sold,Accessories,General,Belt,Unisex,6,"0,0,0,0,100,0,0,0",White,42,H&M,donation,19.86,77.49,none
+ITEM00835,2025-06-22 04:40:31,2025-07-31 10:49:40,sold,Topwear,Shirt,T-Shirt,Unisex,9,"0,84,0,16,0,0,0,0",Grey,XS,Patagonia,bulkWholesale,18.2,52.34,heavy
+ITEM00836,2025-06-08 18:18:11,2025-07-16 10:13:08,sold,Accessories,General,Scarf,Kids,5,"0,0,0,0,100,0,0,0",Red,36,Gucci,donation,28.78,84.41,heavy
+ITEM00837,2025-07-01 21:29:30,2025-09-07 01:39:17,disposed,Footwear,Shoes,Sneakers,Women,2,"0,0,37,0,0,63,0,0",White,Kids,Gucci,bulkWholesale,6.35,0.0,none
+ITEM00838,2025-06-15 02:34:36,2025-08-15 04:56:55,recycled,Accessories,General,Scarf,Unisex,0,"0,14,86,0,0,0,0,0",Beige,40,Adidas,donation,19.6,0.0,minor
+ITEM00839,2025-07-04 14:37:59,2025-09-11 23:23:19,sold,Bottomwear,Pants,Jeans,Men,3,"0,100,0,0,0,0,0,0",Blue,S,Gucci,donation,24.62,80.81,none
+ITEM00840,2025-06-18 22:59:18,2025-08-03 21:41:04,sold,Bottomwear,Skirt,Mini Skirt,Kids,5,"0,100,0,0,0,0,0,0",Grey,XL,Zara,userSellIn,25.61,45.3,none
+ITEM00841,2025-07-02 03:37:12,2025-07-17 20:59:19,disposed,Footwear,Shoes,Sneakers,Women,0,"0,75,0,0,0,0,25,0",Beige,38,Gucci,donation,23.95,0.0,minor
+ITEM00842,2025-06-14 00:27:20,2025-08-04 02:03:53,sold,One-Piece,Dress,Evening Dress,Men,6,"100,0,0,0,0,0,0,0",Beige,44,Nike,bulkWholesale,21.11,34.04,none
+ITEM00843,2025-06-07 20:11:51,2025-07-29 04:51:55,sold,Accessories,General,Scarf,Men,8,"0,0,36,0,0,64,0,0",White,XL,Gucci,userSellIn,10.47,20.16,heavy
+ITEM00844,2025-06-05 19:13:25,2025-08-15 13:37:24,disposed,Topwear,Jacket,Winter Coat,Women,1,"0,0,100,0,0,0,0,0",Green,Kids,Zara,bulkWholesale,13.54,0.0,moderate
+ITEM00845,2025-07-03 08:19:15,2025-08-14 05:32:26,sold,Bottomwear,Skirt,Maxi Skirt,Women,9,"0,0,2,0,0,0,0,98",White,M,Gucci,userSellIn,11.07,30.14,heavy
+ITEM00846,2025-07-02 19:45:26,2025-08-03 13:00:40,sold,Topwear,Shirt,Polo,Women,8,"0,0,100,0,0,0,0,0",Red,36,Adidas,donation,11.78,25.07,minor
+ITEM00847,2025-06-23 17:58:47,2025-09-02 04:29:21,disposed,Bottomwear,Pants,Chinos,Women,0,"0,0,0,43,0,57,0,0",Blue,34,Levi's,userSellIn,21.61,0.0,minor
+ITEM00848,2025-06-12 06:02:10,2025-08-28 12:52:05,sold,Bottomwear,Pants,Chinos,Unisex,4,"0,0,0,0,100,0,0,0",Grey,44,H&M,donation,23.43,53.99,none
+ITEM00849,2025-06-22 08:50:22,2025-09-19 13:32:05,disposed,One-Piece,Dress,Evening Dress,Men,1,"0,0,0,0,0,0,100,0",Grey,XS,Uniqlo,donation,4.3,0.0,minor
+ITEM00850,2025-06-09 21:37:08,2025-09-15 11:53:53,sold,Accessories,General,Belt,Kids,8,"0,0,8,0,0,0,0,92",Grey,L,Adidas,userSellIn,7.65,24.72,moderate
+ITEM00851,2025-06-19 22:54:12,2025-09-23 21:02:30,sold,One-Piece,Dress,Casual Dress,Kids,3,"0,0,0,100,0,0,0,0",White,44,Uniqlo,bulkWholesale,2.97,10.64,none
+ITEM00852,2025-06-21 16:56:42,2025-09-13 10:47:47,disposed,Footwear,Shoes,Boots,Men,1,"0,100,0,0,0,0,0,0",Green,44,H&M,bulkWholesale,18.39,0.0,moderate
+ITEM00853,2025-06-22 12:10:30,2025-07-19 14:54:08,sold,Topwear,Shirt,Polo,Kids,6,"0,0,0,0,0,100,0,0",White,S,Patagonia,bulkWholesale,15.78,56.33,minor
+ITEM00854,2025-06-14 18:04:42,2025-08-03 01:25:41,sold,One-Piece,Dress,Summer Dress,Women,5,"0,45,0,0,0,55,0,0",Black,44,Adidas,userSellIn,16.06,53.73,none
+ITEM00855,2025-06-11 15:06:26,2025-08-22 10:53:40,disposed,Topwear,Shirt,Blouse,Women,1,"0,0,0,0,0,100,0,0",Black,Kids,Uniqlo,userSellIn,26.68,0.0,moderate
+ITEM00856,2025-06-17 04:12:23,2025-08-29 10:43:57,disposed,One-Piece,Dress,Summer Dress,Men,2,"0,0,0,0,0,100,0,0",Green,36,Gucci,userSellIn,26.81,0.0,heavy
+ITEM00857,2025-06-09 23:05:43,2025-07-20 04:12:59,sold,Topwear,Jacket,Winter Coat,Women,5,"12,0,0,0,0,88,0,0",Multicolor,XL,H&M,userSellIn,22.75,74.45,heavy
+ITEM00858,2025-06-18 03:00:52,2025-07-17 23:30:55,sold,Footwear,Shoes,Boots,Kids,8,"0,0,0,0,0,0,61,39",Black,S,Gucci,userSellIn,4.45,10.11,heavy
+ITEM00859,2025-07-02 01:09:54,2025-08-18 08:58:28,disposed,Topwear,Shirt,Polo,Women,1,"0,0,0,0,0,0,0,100",Grey,36,Nike,donation,22.96,0.0,minor
+ITEM00860,2025-06-11 14:28:41,2025-07-28 02:27:01,sold,One-Piece,Dress,Casual Dress,Men,5,"0,0,0,0,0,0,100,0",Green,L,Adidas,donation,5.92,20.14,heavy
+ITEM00861,2025-07-05 08:19:40,2025-07-29 23:33:37,disposed,One-Piece,Dress,Evening Dress,Kids,1,"100,0,0,0,0,0,0,0",Green,M,Zara,bulkWholesale,26.21,0.0,minor
+ITEM00862,2025-06-07 13:00:21,2025-08-21 14:24:01,disposed,Footwear,Shoes,Sneakers,Women,1,"0,0,0,0,100,0,0,0",Grey,Kids,Gucci,bulkWholesale,16.76,0.0,minor
+ITEM00863,2025-06-24 17:21:11,2025-09-06 23:06:57,sold,Accessories,General,Handbag,Kids,8,"49,51,0,0,0,0,0,0",Multicolor,44,H&M,bulkWholesale,5.3,8.94,heavy
+ITEM00864,2025-06-22 03:29:07,2025-09-13 21:45:44,sold,Bottomwear,Pants,Chinos,Men,8,"11,0,0,89,0,0,0,0",Green,S,Patagonia,userSellIn,3.18,7.45,minor
+ITEM00865,2025-06-12 19:59:39,2025-09-08 06:57:01,sold,Topwear,Shirt,Polo,Unisex,6,"0,100,0,0,0,0,0,0",Red,Kids,Gucci,userSellIn,18.47,64.52,none
+ITEM00866,2025-07-02 22:21:36,2025-08-18 14:13:43,sold,Footwear,Shoes,Heels,Unisex,10,"99,0,0,0,1,0,0,0",Black,M,Uniqlo,donation,11.27,26.54,heavy
+ITEM00867,2025-06-09 22:24:21,2025-07-19 11:13:25,disposed,Topwear,Jacket,Winter Coat,Kids,0,"0,0,0,0,59,41,0,0",Beige,38,H&M,donation,4.6,0.0,heavy
+ITEM00868,2025-06-15 08:44:07,2025-07-17 02:45:05,sold,Topwear,Jacket,Blazer,Women,5,"0,0,32,68,0,0,0,0",Blue,38,Patagonia,userSellIn,28.7,109.04,none
+ITEM00869,2025-06-30 20:17:34,2025-08-07 01:51:14,recycled,One-Piece,Dress,Casual Dress,Kids,1,"24,76,0,0,0,0,0,0",Red,42,Gucci,userSellIn,13.21,0.0,minor
+ITEM00870,2025-06-15 22:27:36,2025-08-09 01:32:24,sold,Accessories,General,Handbag,Women,8,"0,47,0,0,0,0,0,53",Blue,Kids,Uniqlo,bulkWholesale,0.59,1.16,minor
+ITEM00871,2025-06-16 01:04:46,2025-09-12 22:55:09,sold,Footwear,Shoes,Boots,Men,5,"0,100,0,0,0,0,0,0",Blue,36,Zara,bulkWholesale,26.62,80.47,minor
+ITEM00872,2025-06-09 06:53:00,2025-08-21 17:20:22,disposed,Accessories,General,Belt,Kids,2,"0,0,80,0,0,20,0,0",Grey,38,Patagonia,userSellIn,7.5,0.0,none
+ITEM00873,2025-06-16 11:31:37,2025-09-14 08:38:07,sold,One-Piece,Dress,Casual Dress,Unisex,5,"0,0,86,0,14,0,0,0",Multicolor,38,Uniqlo,userSellIn,19.99,47.76,heavy
+ITEM00874,2025-07-01 04:44:43,2025-09-08 19:30:06,recycled,Accessories,General,Belt,Unisex,2,"0,100,0,0,0,0,0,0",Blue,38,H&M,donation,7.62,0.0,minor
+ITEM00875,2025-06-06 17:30:44,2025-08-19 09:00:21,sold,Accessories,General,Scarf,Unisex,10,"0,0,0,0,100,0,0,0",Green,XL,Levi's,bulkWholesale,4.53,12.71,heavy
+ITEM00876,2025-06-09 05:37:03,2025-09-19 15:21:04,recycled,Topwear,Jacket,Winter Coat,Men,2,"0,0,0,0,0,100,0,0",Multicolor,36,Zara,userSellIn,9.18,0.0,minor
+ITEM00877,2025-06-26 15:28:52,2025-07-30 14:24:02,sold,Topwear,Jacket,Winter Coat,Men,4,"0,0,0,0,100,0,0,0",Green,XL,Gucci,donation,14.92,37.37,heavy
+ITEM00878,2025-07-02 18:45:20,2025-09-21 13:28:15,sold,Accessories,General,Handbag,Kids,9,"100,0,0,0,0,0,0,0",Beige,40,Gucci,bulkWholesale,27.4,80.47,heavy
+ITEM00879,2025-06-24 07:28:32,2025-09-10 19:59:40,disposed,One-Piece,Dress,Evening Dress,Women,0,"0,0,0,73,0,0,27,0",Black,Kids,Adidas,userSellIn,8.29,0.0,heavy
+ITEM00880,2025-06-15 21:23:55,2025-08-27 12:51:56,sold,Bottomwear,Pants,Chinos,Unisex,8,"0,0,0,0,100,0,0,0",Green,XL,Nike,bulkWholesale,20.17,73.31,moderate
+ITEM00881,2025-06-18 10:59:35,2025-08-05 09:09:40,sold,Accessories,General,Scarf,Kids,9,"0,0,0,0,0,0,0,100",Red,XS,Uniqlo,bulkWholesale,19.41,47.36,none
+ITEM00882,2025-06-23 06:07:06,2025-08-05 04:24:31,sold,One-Piece,Dress,Casual Dress,Women,10,"0,0,0,34,66,0,0,0",Multicolor,L,Zara,bulkWholesale,14.24,48.31,minor
+ITEM00883,2025-06-12 12:08:12,2025-09-07 10:29:23,sold,Topwear,Shirt,Polo,Men,6,"0,0,0,0,0,82,18,0",Beige,S,Uniqlo,userSellIn,28.53,78.6,minor
+ITEM00884,2025-06-18 03:48:32,2025-07-20 18:10:43,sold,Footwear,Shoes,Sneakers,Men,8,"87,0,0,13,0,0,0,0",Multicolor,36,Patagonia,userSellIn,24.99,54.35,minor
+ITEM00885,2025-06-27 12:21:59,2025-09-08 23:59:18,sold,Footwear,Shoes,Sneakers,Kids,9,"0,0,16,0,0,0,84,0",Multicolor,L,Uniqlo,bulkWholesale,8.32,26.89,none
+ITEM00886,2025-06-27 05:17:37,2025-09-18 07:22:32,recycled,Footwear,Shoes,Heels,Kids,0,"0,0,0,0,0,0,0,100",Green,S,Uniqlo,bulkWholesale,15.73,0.0,minor
+ITEM00887,2025-06-11 19:43:35,2025-08-07 14:37:12,sold,Footwear,Shoes,Boots,Kids,7,"0,100,0,0,0,0,0,0",Beige,XL,Levi's,donation,15.84,50.56,none
+ITEM00888,2025-06-06 00:31:17,2025-09-19 01:25:23,sold,Accessories,General,Scarf,Men,7,"0,0,0,0,0,0,100,0",Multicolor,42,Patagonia,donation,13.35,20.82,none
+ITEM00889,2025-06-11 09:05:05,2025-07-17 01:39:25,sold,Footwear,Shoes,Sneakers,Unisex,8,"0,0,0,0,0,100,0,0",Black,XS,Zara,donation,19.48,59.63,heavy
+ITEM00890,2025-06-24 02:36:59,2025-09-29 03:52:36,disposed,Footwear,Shoes,Sneakers,Women,1,"75,0,0,25,0,0,0,0",Beige,36,Levi's,userSellIn,23.32,0.0,moderate
+ITEM00891,2025-06-16 19:52:15,2025-08-30 23:14:55,sold,Accessories,General,Scarf,Unisex,4,"40,0,0,0,0,60,0,0",Multicolor,38,Gucci,donation,4.74,17.56,heavy
+ITEM00892,2025-06-13 05:38:38,2025-09-16 15:18:39,sold,Topwear,Jacket,Hoodie,Men,6,"0,0,0,0,0,0,0,100",White,40,Patagonia,bulkWholesale,5.89,12.14,moderate
+ITEM00893,2025-06-18 07:14:32,2025-08-17 20:35:21,sold,Footwear,Shoes,Boots,Kids,3,"0,0,0,0,0,0,0,100",Beige,34,Nike,userSellIn,29.77,48.58,none
+ITEM00894,2025-06-16 02:06:45,2025-08-04 08:16:09,disposed,Topwear,Shirt,Blouse,Unisex,0,"0,0,0,79,0,21,0,0",Green,44,H&M,bulkWholesale,18.57,0.0,moderate
+ITEM00895,2025-06-30 20:33:22,2025-09-06 09:42:42,sold,Topwear,Jacket,Winter Coat,Women,6,"0,0,0,0,0,100,0,0",Green,42,Levi's,bulkWholesale,17.01,53.06,moderate
+ITEM00896,2025-06-07 12:08:41,2025-09-22 20:47:24,sold,Accessories,General,Handbag,Women,8,"0,0,0,0,0,100,0,0",Multicolor,XL,Levi's,userSellIn,26.0,62.5,moderate
+ITEM00897,2025-06-30 16:23:00,2025-09-25 06:35:12,sold,One-Piece,Dress,Casual Dress,Kids,8,"0,0,0,0,64,36,0,0",Beige,34,Levi's,bulkWholesale,22.65,76.87,moderate
+ITEM00898,2025-06-18 18:57:43,2025-09-02 01:12:01,sold,One-Piece,Dress,Casual Dress,Men,5,"0,0,0,0,0,0,100,0",Blue,36,Nike,userSellIn,8.02,26.24,moderate
+ITEM00899,2025-06-16 07:10:39,2025-08-21 00:22:16,sold,Footwear,Shoes,Sneakers,Men,7,"0,0,0,0,0,0,0,100",Black,S,Nike,donation,9.61,32.49,heavy
+ITEM00900,2025-07-03 17:33:54,2025-09-20 17:32:14,sold,Topwear,Jacket,Winter Coat,Men,5,"0,0,36,0,0,0,0,64",Red,40,Uniqlo,userSellIn,25.71,64.36,moderate
+ITEM00901,2025-06-15 14:59:41,2025-09-19 15:19:52,recycled,One-Piece,Dress,Summer Dress,Kids,1,"0,0,0,0,0,0,0,100",Beige,XS,H&M,userSellIn,13.07,0.0,moderate
+ITEM00902,2025-07-03 00:43:38,2025-09-09 03:38:40,sold,Footwear,Shoes,Boots,Women,10,"64,0,0,0,36,0,0,0",Multicolor,XS,Uniqlo,donation,9.59,22.33,moderate
+ITEM00903,2025-07-02 13:26:33,2025-08-19 08:06:39,sold,Footwear,Shoes,Heels,Men,6,"100,0,0,0,0,0,0,0",Blue,34,Nike,userSellIn,3.4,11.9,moderate
+ITEM00904,2025-06-27 21:07:34,2025-08-19 15:35:12,sold,One-Piece,Dress,Evening Dress,Women,3,"57,0,43,0,0,0,0,0",Beige,M,Nike,userSellIn,8.55,31.24,minor
+ITEM00905,2025-06-06 20:07:38,2025-09-27 19:34:52,sold,One-Piece,Dress,Summer Dress,Unisex,5,"0,0,0,77,0,0,0,23",Black,42,Nike,donation,22.5,38.57,none
+ITEM00906,2025-06-23 17:48:12,2025-09-04 02:41:32,sold,One-Piece,Dress,Evening Dress,Men,7,"66,0,0,34,0,0,0,0",Blue,36,Nike,userSellIn,3.14,8.78,moderate
+ITEM00907,2025-06-10 19:54:50,2025-07-25 21:52:43,sold,Bottomwear,Skirt,Mini Skirt,Women,4,"0,72,0,0,0,0,0,28",Blue,42,Gucci,userSellIn,17.26,35.73,heavy
+ITEM00908,2025-06-09 21:38:22,2025-07-29 10:29:37,sold,Topwear,Jacket,Winter Coat,Kids,4,"0,0,0,0,100,0,0,0",Red,42,Zara,donation,3.84,9.3,moderate
+ITEM00909,2025-06-24 03:46:08,2025-09-18 05:45:08,sold,One-Piece,Dress,Casual Dress,Men,4,"0,0,27,0,0,0,0,73",Red,44,Patagonia,userSellIn,13.32,40.56,heavy
+ITEM00910,2025-06-27 02:39:58,2025-10-03 11:01:16,sold,One-Piece,Dress,Casual Dress,Men,9,"0,0,0,0,0,0,0,100",Beige,Kids,Nike,donation,6.1,10.08,moderate
+ITEM00911,2025-06-19 14:15:24,2025-08-05 19:40:52,disposed,Footwear,Shoes,Heels,Men,1,"0,70,0,0,0,30,0,0",Black,S,Uniqlo,userSellIn,16.24,0.0,none
+ITEM00912,2025-07-02 12:10:29,2025-09-22 02:28:28,sold,Topwear,Shirt,Polo,Kids,8,"0,39,0,0,0,0,61,0",Green,S,Nike,bulkWholesale,7.74,17.39,moderate
+ITEM00913,2025-06-12 20:44:38,2025-08-04 02:11:40,sold,Accessories,General,Scarf,Kids,8,"0,4,0,0,0,96,0,0",Multicolor,42,Levi's,userSellIn,11.25,38.67,minor
+ITEM00914,2025-07-03 08:37:00,2025-09-14 22:49:59,sold,Footwear,Shoes,Sneakers,Unisex,6,"100,0,0,0,0,0,0,0",Blue,XS,Patagonia,donation,23.35,84.41,moderate
+ITEM00915,2025-06-24 02:39:55,2025-08-19 00:47:58,sold,Topwear,Jacket,Blazer,Unisex,5,"0,100,0,0,0,0,0,0",White,XS,Levi's,userSellIn,26.73,71.35,heavy
+ITEM00916,2025-06-17 03:01:46,2025-07-21 01:46:46,sold,Topwear,Jacket,Hoodie,Men,4,"0,0,0,0,100,0,0,0",Grey,Kids,Nike,donation,24.34,62.79,moderate
+ITEM00917,2025-06-07 08:42:31,2025-09-14 02:15:35,sold,Accessories,General,Scarf,Women,3,"0,0,0,0,0,0,62,38",Black,34,Adidas,donation,0.27,0.79,minor
+ITEM00918,2025-06-19 23:23:51,2025-08-17 20:46:41,recycled,One-Piece,Dress,Evening Dress,Unisex,2,"0,0,0,100,0,0,0,0",Blue,36,Levi's,donation,6.53,0.0,none
+ITEM00919,2025-06-26 10:31:43,2025-09-16 11:48:17,sold,Footwear,Shoes,Sneakers,Unisex,6,"67,0,0,0,33,0,0,0",Black,L,H&M,userSellIn,16.4,27.75,heavy
+ITEM00920,2025-06-25 03:09:17,2025-09-07 15:50:53,recycled,Bottomwear,Pants,Jeans,Men,0,"0,0,0,0,61,39,0,0",Black,L,Gucci,bulkWholesale,25.46,0.0,minor
+ITEM00921,2025-07-03 08:57:33,2025-08-16 04:15:38,sold,Accessories,General,Handbag,Kids,5,"0,0,0,0,100,0,0,0",Grey,44,Patagonia,bulkWholesale,19.84,45.26,moderate
+ITEM00922,2025-06-27 10:04:43,2025-10-01 02:35:41,recycled,Accessories,General,Scarf,Men,0,"0,100,0,0,0,0,0,0",Black,Kids,Nike,userSellIn,18.54,0.0,moderate
+ITEM00923,2025-07-02 21:23:56,2025-08-30 23:01:03,recycled,Accessories,General,Scarf,Unisex,2,"79,0,0,0,21,0,0,0",Grey,XS,Adidas,bulkWholesale,11.41,0.0,moderate
+ITEM00924,2025-06-22 21:46:28,2025-08-06 07:59:15,sold,Accessories,General,Belt,Women,3,"0,100,0,0,0,0,0,0",Beige,Kids,Zara,donation,27.15,67.81,heavy
+ITEM00925,2025-07-05 16:24:05,2025-07-31 22:54:19,sold,Topwear,Shirt,Polo,Men,6,"0,0,0,0,100,0,0,0",Grey,40,Gucci,bulkWholesale,19.44,70.27,heavy
+ITEM00926,2025-06-30 07:23:54,2025-09-24 18:46:50,sold,Bottomwear,Skirt,Mini Skirt,Kids,8,"100,0,0,0,0,0,0,0",Red,36,Levi's,donation,2.07,3.81,none
+ITEM00927,2025-06-06 12:49:49,2025-08-27 00:59:25,sold,Topwear,Shirt,Blouse,Men,4,"56,0,0,0,0,0,44,0",Green,XS,Nike,donation,22.43,64.32,minor
+ITEM00928,2025-06-14 22:49:01,2025-09-01 10:05:45,recycled,One-Piece,Dress,Evening Dress,Men,1,"0,0,0,0,0,100,0,0",Black,Kids,Gucci,userSellIn,17.89,0.0,none
+ITEM00929,2025-06-19 04:41:52,2025-08-14 11:27:08,sold,Bottomwear,Skirt,Maxi Skirt,Kids,7,"0,0,0,20,0,0,0,80",Black,S,Gucci,userSellIn,19.3,49.1,heavy
+ITEM00930,2025-07-05 11:06:14,2025-07-24 15:04:19,sold,Bottomwear,Pants,Jeans,Men,10,"100,0,0,0,0,0,0,0",Red,42,Patagonia,donation,7.42,26.69,moderate
+ITEM00931,2025-06-17 08:37:15,2025-09-28 23:36:33,sold,Topwear,Shirt,T-Shirt,Kids,6,"0,0,0,0,100,0,0,0",Red,44,Nike,userSellIn,20.25,70.14,none
+ITEM00932,2025-06-28 08:54:02,2025-09-08 05:29:06,sold,Topwear,Jacket,Hoodie,Women,10,"0,0,0,0,0,0,100,0",Red,40,H&M,donation,4.48,16.13,minor
+ITEM00933,2025-06-25 10:59:23,2025-08-06 19:28:35,disposed,Footwear,Shoes,Sneakers,Women,1,"0,28,0,0,0,0,72,0",Multicolor,34,H&M,donation,4.97,0.0,moderate
+ITEM00934,2025-06-20 18:53:47,2025-08-26 12:29:15,sold,Topwear,Jacket,Winter Coat,Unisex,5,"0,0,24,0,76,0,0,0",Beige,L,Gucci,donation,25.25,68.82,minor
+ITEM00935,2025-06-17 19:47:19,2025-08-08 15:20:34,sold,Bottomwear,Pants,Jeans,Men,6,"0,0,0,0,0,0,100,0",Red,M,Patagonia,userSellIn,27.48,54.25,minor
+ITEM00936,2025-06-17 08:02:45,2025-08-16 16:07:56,sold,One-Piece,Dress,Evening Dress,Men,7,"0,0,0,85,0,15,0,0",Multicolor,44,Zara,bulkWholesale,17.67,66.92,heavy
+ITEM00937,2025-06-30 13:46:27,2025-08-17 13:57:29,sold,Bottomwear,Pants,Chinos,Men,3,"0,54,46,0,0,0,0,0",Multicolor,40,Levi's,userSellIn,9.52,28.49,none
+ITEM00938,2025-06-24 23:31:26,2025-09-01 06:55:50,sold,Accessories,General,Scarf,Men,4,"40,0,0,60,0,0,0,0",Black,L,Zara,userSellIn,14.79,22.29,heavy
+ITEM00939,2025-07-03 12:35:04,2025-08-12 01:12:45,sold,Topwear,Jacket,Hoodie,Women,3,"0,0,0,0,0,0,0,100",Red,S,Adidas,bulkWholesale,18.86,60.61,moderate
+ITEM00940,2025-07-05 09:42:12,2025-09-16 18:43:47,sold,Footwear,Shoes,Boots,Kids,10,"44,56,0,0,0,0,0,0",Multicolor,34,Patagonia,donation,23.94,62.68,heavy
+ITEM00941,2025-06-13 20:51:35,2025-07-22 20:49:33,recycled,Footwear,Shoes,Sneakers,Kids,1,"60,0,0,40,0,0,0,0",Green,XL,Levi's,donation,21.84,0.0,none
+ITEM00942,2025-06-06 07:49:27,2025-09-01 04:35:34,sold,Footwear,Shoes,Boots,Unisex,6,"0,41,59,0,0,0,0,0",Beige,L,Gucci,bulkWholesale,21.61,42.47,none
+ITEM00943,2025-06-22 16:01:03,2025-09-27 15:31:54,sold,One-Piece,Dress,Evening Dress,Kids,5,"0,0,60,0,0,0,0,40",Green,42,Levi's,bulkWholesale,7.83,16.12,none
+ITEM00944,2025-06-19 12:42:07,2025-09-30 01:34:24,sold,Accessories,General,Handbag,Unisex,3,"0,0,0,0,100,0,0,0",Red,S,Adidas,bulkWholesale,25.91,73.72,minor
+ITEM00945,2025-07-02 17:49:39,2025-09-09 22:06:00,sold,Topwear,Shirt,T-Shirt,Unisex,6,"0,0,0,0,0,0,7,93",Blue,44,Zara,bulkWholesale,10.46,38.55,moderate
+ITEM00946,2025-06-22 11:59:42,2025-08-13 01:07:23,sold,Bottomwear,Pants,Jeans,Women,9,"100,0,0,0,0,0,0,0",Green,M,Gucci,donation,24.21,61.39,moderate
+ITEM00947,2025-06-16 02:42:08,2025-09-24 04:52:20,disposed,Footwear,Shoes,Sneakers,Kids,1,"51,0,0,0,0,0,0,49",White,Kids,Nike,donation,29.13,0.0,moderate
+ITEM00948,2025-06-16 20:31:14,2025-08-07 02:13:14,sold,Bottomwear,Skirt,Mini Skirt,Unisex,9,"0,0,0,0,65,0,35,0",Multicolor,S,Patagonia,userSellIn,29.89,103.27,moderate
+ITEM00949,2025-06-11 14:10:01,2025-07-27 07:35:39,sold,Footwear,Shoes,Sneakers,Kids,9,"0,0,0,91,0,0,0,9",Beige,34,Uniqlo,donation,7.34,20.96,minor
+ITEM00950,2025-06-19 22:26:20,2025-08-27 06:20:16,sold,One-Piece,Dress,Summer Dress,Kids,8,"69,0,0,31,0,0,0,0",White,M,Nike,bulkWholesale,17.06,52.54,heavy
+ITEM00951,2025-06-25 22:40:30,2025-08-09 09:21:53,sold,Bottomwear,Skirt,Mini Skirt,Unisex,3,"0,0,0,0,100,0,0,0",White,40,Levi's,userSellIn,24.72,88.99,moderate
+ITEM00952,2025-06-10 09:41:52,2025-08-02 03:09:10,disposed,Footwear,Shoes,Sneakers,Women,0,"0,0,0,0,0,0,100,0",Beige,XS,H&M,donation,14.62,0.0,minor
+ITEM00953,2025-06-18 03:24:04,2025-09-28 19:36:11,sold,Accessories,General,Handbag,Women,10,"0,0,0,0,100,0,0,0",Multicolor,XS,Uniqlo,userSellIn,29.22,62.59,minor
+ITEM00954,2025-06-10 05:53:40,2025-08-21 16:10:59,sold,Topwear,Shirt,T-Shirt,Women,3,"0,0,0,100,0,0,0,0",Red,M,Gucci,bulkWholesale,10.19,26.54,heavy
+ITEM00955,2025-06-16 15:53:07,2025-08-31 19:43:41,disposed,Bottomwear,Pants,Shorts,Men,2,"0,36,0,0,0,0,0,64",Blue,Kids,Adidas,donation,5.93,0.0,moderate
+ITEM00956,2025-06-09 10:23:27,2025-09-20 06:07:16,sold,Topwear,Shirt,T-Shirt,Men,5,"51,0,0,0,0,0,49,0",Multicolor,M,Levi's,bulkWholesale,14.0,26.97,heavy
+ITEM00957,2025-07-01 06:36:57,2025-09-14 14:54:27,sold,Topwear,Jacket,Hoodie,Unisex,8,"0,0,0,52,0,48,0,0",Blue,XL,Zara,userSellIn,18.61,69.98,minor
+ITEM00958,2025-06-28 15:42:41,2025-10-01 05:45:24,sold,Bottomwear,Skirt,Mini Skirt,Unisex,9,"0,43,0,57,0,0,0,0",Multicolor,40,Gucci,donation,0.89,2.43,heavy
+ITEM00959,2025-07-01 03:54:41,2025-08-31 21:17:46,sold,One-Piece,Dress,Casual Dress,Unisex,6,"0,55,0,0,45,0,0,0",Blue,Kids,Zara,bulkWholesale,23.12,35.36,moderate
+ITEM00960,2025-07-01 08:23:25,2025-08-07 08:21:20,sold,One-Piece,Dress,Casual Dress,Women,9,"100,0,0,0,0,0,0,0",Red,34,Uniqlo,userSellIn,9.2,18.73,moderate
+ITEM00961,2025-06-23 07:47:20,2025-08-19 23:50:11,sold,Topwear,Jacket,Blazer,Kids,5,"0,0,0,61,0,0,0,39",Red,38,Uniqlo,userSellIn,11.61,41.97,minor
+ITEM00962,2025-06-12 03:10:01,2025-09-23 01:54:08,sold,Bottomwear,Pants,Shorts,Unisex,5,"0,100,0,0,0,0,0,0",Red,S,Adidas,donation,14.32,35.7,heavy
+ITEM00963,2025-07-01 18:48:04,2025-07-24 09:42:32,sold,One-Piece,Dress,Casual Dress,Unisex,5,"0,0,100,0,0,0,0,0",Grey,Kids,Levi's,donation,19.1,69.04,moderate
+ITEM00964,2025-07-03 04:51:03,2025-10-03 03:06:51,sold,Footwear,Shoes,Heels,Women,9,"0,0,0,52,0,0,0,48",Grey,36,Adidas,bulkWholesale,23.08,50.95,minor
+ITEM00965,2025-06-20 16:44:28,2025-09-05 07:52:07,sold,Footwear,Shoes,Heels,Kids,3,"0,0,0,48,0,52,0,0",Grey,44,Gucci,donation,25.54,83.32,moderate
+ITEM00966,2025-07-01 00:54:43,2025-08-07 09:36:00,sold,Topwear,Shirt,T-Shirt,Men,5,"100,0,0,0,0,0,0,0",White,36,H&M,userSellIn,3.02,4.55,heavy
+ITEM00967,2025-06-16 09:04:01,2025-08-15 19:21:55,sold,One-Piece,Dress,Summer Dress,Unisex,4,"100,0,0,0,0,0,0,0",Beige,S,Levi's,donation,26.54,103.81,heavy
+ITEM00968,2025-06-30 07:11:15,2025-08-03 05:59:13,sold,Footwear,Shoes,Sneakers,Women,10,"0,43,0,0,0,0,0,57",Black,34,Adidas,bulkWholesale,9.17,18.84,heavy
+ITEM00969,2025-06-14 05:58:15,2025-08-02 09:23:57,sold,Accessories,General,Belt,Women,9,"0,0,0,0,66,0,0,34",Grey,XL,Nike,donation,23.69,80.95,none
+ITEM00970,2025-06-23 01:19:56,2025-07-27 00:15:44,sold,Topwear,Jacket,Blazer,Kids,5,"73,0,0,0,0,0,0,27",Blue,44,Uniqlo,userSellIn,29.36,77.0,minor
+ITEM00971,2025-06-26 20:20:19,2025-08-30 06:30:16,sold,Footwear,Shoes,Boots,Men,6,"0,0,0,0,0,0,0,100",Red,36,Gucci,donation,14.95,40.93,minor
+ITEM00972,2025-06-15 06:12:55,2025-07-30 16:25:09,sold,Footwear,Shoes,Boots,Unisex,3,"0,0,100,0,0,0,0,0",White,Kids,Uniqlo,userSellIn,15.32,40.99,minor
+ITEM00973,2025-06-12 22:05:15,2025-07-24 07:14:35,recycled,One-Piece,Dress,Casual Dress,Women,2,"0,0,0,0,0,100,0,0",Black,36,Adidas,bulkWholesale,0.16,0.0,none
+ITEM00974,2025-06-22 04:46:22,2025-08-16 02:48:53,disposed,Accessories,General,Scarf,Unisex,1,"0,0,53,0,0,0,0,47",Beige,XL,Zara,bulkWholesale,10.37,0.0,heavy
+ITEM00975,2025-06-27 19:23:50,2025-09-01 17:35:03,recycled,Footwear,Shoes,Boots,Men,1,"0,0,0,100,0,0,0,0",Black,44,H&M,userSellIn,4.4,0.0,none
+ITEM00976,2025-06-14 17:47:25,2025-07-17 08:00:21,sold,Accessories,General,Scarf,Unisex,8,"0,0,0,0,42,0,58,0",Multicolor,42,Nike,donation,4.87,18.99,none
+ITEM00977,2025-06-23 02:15:41,2025-07-30 09:38:08,sold,One-Piece,Dress,Summer Dress,Kids,6,"0,43,0,0,0,0,57,0",Multicolor,40,Uniqlo,bulkWholesale,22.46,50.0,heavy
+ITEM00978,2025-06-08 20:48:42,2025-08-12 23:34:25,recycled,Accessories,General,Belt,Women,0,"0,0,0,100,0,0,0,0",White,S,Gucci,userSellIn,8.84,0.0,moderate
+ITEM00979,2025-06-29 04:51:35,2025-08-29 15:29:47,sold,Accessories,General,Belt,Women,8,"0,0,0,92,0,0,0,8",Grey,40,Levi's,bulkWholesale,3.92,14.1,moderate
+ITEM00980,2025-06-08 11:41:47,2025-09-24 16:40:17,sold,Topwear,Jacket,Hoodie,Women,10,"0,0,0,0,21,79,0,0",Multicolor,XL,Uniqlo,bulkWholesale,22.26,50.6,minor
+ITEM00981,2025-06-28 21:36:03,2025-07-19 21:47:23,sold,Accessories,General,Belt,Unisex,10,"0,0,0,0,100,0,0,0",Red,M,H&M,userSellIn,23.95,49.82,moderate
+ITEM00982,2025-06-17 06:44:05,2025-08-28 11:02:08,sold,Footwear,Shoes,Boots,Men,8,"0,0,100,0,0,0,0,0",Red,38,Levi's,userSellIn,1.6,5.79,minor
+ITEM00983,2025-07-01 00:55:11,2025-09-16 16:52:10,recycled,Footwear,Shoes,Boots,Unisex,2,"0,9,0,0,0,0,0,91",White,34,H&M,donation,1.77,0.0,minor
+ITEM00984,2025-07-04 01:45:38,2025-07-22 16:32:58,sold,Bottomwear,Skirt,Maxi Skirt,Unisex,3,"0,0,98,0,0,0,0,2",Green,XS,Patagonia,donation,21.21,54.89,moderate
+ITEM00985,2025-06-14 15:51:48,2025-07-16 17:52:23,disposed,Topwear,Shirt,Blouse,Kids,0,"0,0,0,0,100,0,0,0",Blue,38,H&M,bulkWholesale,2.4,0.0,moderate
+ITEM00986,2025-06-18 09:41:38,2025-09-16 07:08:00,sold,Bottomwear,Skirt,Mini Skirt,Unisex,8,"0,65,0,0,0,0,35,0",Multicolor,M,Adidas,donation,9.04,21.41,moderate
+ITEM00987,2025-06-29 06:50:23,2025-10-01 15:21:29,disposed,Topwear,Jacket,Hoodie,Women,2,"0,0,0,23,0,0,77,0",Grey,S,Uniqlo,donation,5.97,0.0,moderate
+ITEM00988,2025-06-14 02:56:54,2025-07-26 02:50:55,recycled,Bottomwear,Skirt,Mini Skirt,Unisex,1,"0,0,79,0,0,0,0,21",Blue,XS,Levi's,bulkWholesale,15.83,0.0,heavy
+ITEM00989,2025-06-19 10:18:33,2025-08-14 12:03:41,sold,One-Piece,Dress,Summer Dress,Kids,3,"0,0,0,0,0,0,0,100",Beige,Kids,Adidas,userSellIn,12.14,30.79,moderate
+ITEM00990,2025-06-27 14:46:44,2025-07-30 10:33:15,sold,Footwear,Shoes,Sneakers,Women,8,"0,39,0,61,0,0,0,0",Blue,42,Nike,userSellIn,11.15,36.25,minor
+ITEM00991,2025-07-05 12:19:46,2025-07-20 20:27:11,recycled,One-Piece,Dress,Casual Dress,Unisex,1,"0,78,0,0,0,0,22,0",Blue,Kids,Adidas,bulkWholesale,14.53,0.0,minor
+ITEM00992,2025-06-09 18:03:30,2025-08-19 03:04:52,sold,Bottomwear,Skirt,Mini Skirt,Women,10,"0,0,0,0,0,0,100,0",Multicolor,XL,Patagonia,donation,19.22,48.68,moderate
+ITEM00993,2025-07-03 13:23:02,2025-09-24 08:22:21,sold,Topwear,Jacket,Winter Coat,Men,10,"0,0,0,32,0,0,68,0",White,42,Gucci,userSellIn,8.29,16.14,moderate
+ITEM00994,2025-06-15 03:21:02,2025-07-25 19:33:20,sold,Bottomwear,Pants,Shorts,Kids,8,"0,0,46,0,0,0,0,54",Blue,S,Gucci,bulkWholesale,17.7,30.26,heavy
+ITEM00995,2025-06-22 01:40:02,2025-09-16 01:37:01,sold,Accessories,General,Scarf,Women,9,"0,0,100,0,0,0,0,0",Red,44,Nike,userSellIn,4.85,15.37,none
+ITEM00996,2025-06-16 12:14:57,2025-09-12 01:02:21,disposed,One-Piece,Dress,Evening Dress,Kids,1,"0,0,72,0,0,0,28,0",Beige,XL,Patagonia,bulkWholesale,15.99,0.0,moderate
+ITEM00997,2025-06-10 10:58:58,2025-08-01 01:11:01,sold,Footwear,Shoes,Heels,Women,3,"25,75,0,0,0,0,0,0",Black,M,Nike,bulkWholesale,27.37,76.21,minor
+ITEM00998,2025-06-28 03:37:00,2025-07-30 07:33:46,sold,Topwear,Jacket,Hoodie,Unisex,10,"0,0,0,100,0,0,0,0",Grey,34,H&M,userSellIn,5.19,15.12,minor
+ITEM00999,2025-06-21 20:11:19,2025-07-17 16:53:03,sold,Topwear,Jacket,Winter Coat,Men,5,"0,100,0,0,0,0,0,0",White,44,H&M,bulkWholesale,5.26,11.38,moderate
+ITEM01000,2025-06-15 22:01:55,2025-09-18 01:45:53,sold,Bottomwear,Skirt,Mini Skirt,Men,6,"24,0,0,0,0,76,0,0",Green,M,Adidas,donation,10.29,28.49,moderate
