@@ -11,9 +11,9 @@ All my projects can be found in their own directory with a description of the pr
    - **Tools**: SQL in the BigQuery dialect
    - **Synopsis**: a data aggregation through comparing changes over time.
 
-### 3. Data Multiplier
+### 3. Data Adjuster
    - **Dataset**: [*] Tool works with any data in csv format.
-   - **Tools**: Python (Pandas, )
+   - **Tools**: Python (Pandas, numpy)
    - **Synopsis**: A complex tool to manipulate a data set based on the users input.
 
 ### 2. Hotel Booking Demand
@@ -30,7 +30,7 @@ All my projects can be found in their own directory with a description of the pr
 
 - `/Instacart_Basket`: Contains all files related to the Instacart Market Basket Analysis.
 - `/Hotel_Booking`: Houses the Hotel Booking Demand project files.
-- `/Multiplier`: tool to multiply your data sets.
+- `/Data_Adjuster`: tool to multiply your data sets.
 - `/Snapshot_Aggregation`: Query to sum up changes over time.
 - Additional directories will be created for each new project.
 
