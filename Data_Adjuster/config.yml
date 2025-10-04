@@ -3,11 +3,11 @@ random_seed: 14
 
 # Configure the removal and multiplication in this file.
 # The tool supports the selection of 3 dimensions in the data.
-# Check what values appear in your selected dimensions. Choose the values that need to be removed or duplicated.
-# Assign a factor. The tool calculates 2 average factors. the 2 average factor represents the change if a data entry gets 1. duplicated or 2. remove
+# Check what values appear in your selected dimensions. Choose the values that need to be removed or increased.
+# Assign a factor. The tool calculates 2 average factors. the 2 average factor represents the change if a data entry gets 1. duplicated or 2. removed
 
-# 2.15 represents 2 duplications and a 15% change for a third duplication. -0.7 represents a 70% change for removal. -1.0 (or lower) guarantees that the data entry is removed.
-# If a data entry with a certain value needs to be removed for sure, consider assigning an even lower value to trick that the average calculation for removal result in at least -1.0
+# 2.15 represents 2 additional entries and a 15% change for a third copy. -0.7 represents a 70% change for removal. -1.0 (or lower) guarantees that the data entry is removed.
+# If a data entry with a certain value needs to be removed for sure, consider assigning an even lower value to trick the tool that the average calculation for removal result in at least -1.0
 
 # Select the first dimension to apply multiplication factors
 main:
