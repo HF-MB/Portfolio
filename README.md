@@ -7,9 +7,9 @@ Welcome to my Data Analytics Portfolio! This repository serves as inventory for 
 All my projects can be found in their own directory with a description of the project. Below is a brief overview:
 
 ### 4. Dashboard PieChart Query (for BigQuery)
-   - **Dataset**: [snapshotTime] Data set is not publicly available
-   - **Tools**: SQL in the BigQuery dialect
-   - **Synopsis**: a data aggregation through comparing changes over time.
+   - **Dataset**: [Status Update Calculation Data] Data is not publicly available
+   - **Tools**: SQL in BigQuery dialect
+   - **Synopsis**: A data aggregation through comparing changes in demand status over time.
 
 ### 3. Data Adjuster
    - **Dataset**: [*] Tool works with any data in csv format.
