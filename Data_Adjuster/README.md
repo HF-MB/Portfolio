@@ -2,15 +2,15 @@
 
 **Data Adjuster** is a lightweight command-line tool that **adds and/or removes rows** from a dataset based on user-defined rules in a simple YAML configuration file.
 
-It’s designed for data rebalancing, adjusting, and controlled manipulation. for example, to simulate new data distributions or stress-test models on modified datasets.
+It’s designed for data rebalancing, adjusting, and controlled manipulation. For example, to simulate new data distributions or stress-test models on modified datasets.
 
 ## How It Works
 
-The Data Adjuster applies up to 3 “adjuster dimensions” (columns) defined in your `config.yml`. More can be added.
+The Data Adjuster applies up to 3 “adjuster dimensions” (columns) defined in your `config.yml`. More dimensions can be added.
 
 Each adjuster specifies:
 - A **dimension name** to target (e.g., `itemCategory`)
-- A set of **values** within that dimension (e.g., `Footwear`, `Accessories`)
+- A set of **values** within that dimension (e.g., `Topwear`, `Accessories`)
 - A **numeric factor** describing how that value’s data entries should be changed.
 
 Under the hood, the tool computes an average **positive** and **negative** adjusters per data entry and then runs two processes:
@@ -31,7 +31,6 @@ Each run is fully reproducible using a configurable random seed.
 1. Place your .csv file inside the /input folder.
 2. Make sure you filled out the config.yml
 3. Open a terminal, navigate to where you saved the tools folder and run python main.py in your terminal.
-
 
 ## Example Dataset Dictionary
 
